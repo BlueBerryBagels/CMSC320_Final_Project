@@ -1,0 +1,2043 @@
+,Name,rating,students_gpa,position,department,highest_education,approximate_age,num_reviews,num_classes_taught,gender,salary_2024
+0,A Kruglanski,3.5,3.15,Distinguished University Professor,BSOS,Ph.D,81.0,2,16,male,408000
+1,Aaron Finkle,3.1786,2.15,Lecturer,BSOS,Ph.D,49.0,30,25,male,106000
+2,Aaron Hertz,4.5,3.48,Lecturer,UGST,Bachelor's,43.0,2,3,male,136000
+3,Abani Pradhan,3.6667,3.56,Professor,AGNR,Ph.D,49.0,3,14,male,211000
+4,Abba Gumel,3.6,2.28,Professor,CMNS,Ph.D,58.0,5,8,male,376000
+5,Abdirisak Mohamed,1.2,3.11,Lecturer,INFO,Ph.D,51.0,5,14,male,30000
+6,Abhijit Dasgupta,4.25,3.01,Professor and Associate Chair,ENGR,Ph.D,71.0,4,23,male,263000
+7,Abhinav Bhatele,3.0769,3.11,Associate Professor,CMNS,Ph.D,42.0,13,15,male,237000
+8,Abhinav Shrivastava,4.0,3.54,Assistant Professor,CMNS,Ph.D,37.0,6,12,male,228000
+9,Abigail McEwen,2.6364,3.01,Associate Professor and Director,UGST,Ph.D,45.0,11,26,female,142000
+10,Abigail Nicolas,4.6491,3.7,Lecturer,BSOS,Ph.D,38.0,60,15,female,112000
+11,Abolhassan Jawahery,4.4,3.03,Distinguished University Professor,CMNS,Ph.D,71.0,5,9,male,305000
+12,Abram Kagan,2.7,2.79,Professor Emeritus,CMNS,Ph.D,89.0,10,9,male,136000
+13,Abror Pirnapasov,4.0,3.5,Lecturer,CMNS,Ph.D,34.0,10,2,male,18000
+14,Adam Kanigowski,4.4,2.9,Associate Professor,CMNS,Ph.D,35.0,10,13,male,212000
+15,Adam Lloyd,5.0,3.42,Lecturer,ARHU,Ph.D,55.0,5,11,male,37000
+16,Adam Porter,2.6429,2.97,Professor,CMNS,Ph.D,61.0,14,6,male,279000
+17,Adams Steven,1.0,3.41,Assistant Professor,BMGT,Ph.D,45.0,3,8,male,210000
+18,Adan Ramos,2.3333,3.31,Lecturer,ARCH,Bachelor's,32.0,3,7,male,38000
+19,Adel Shirmohammadi,2.0,3.29,Professor,AGNR,Ph.D,73.0,1,10,male,247000
+20,Adi Mahalel,2.7778,2.32,Adjunct Assistant Professor,ARHU,Ph.D,40.0,9,45,male,37000
+21,Adil Hassam,4.4286,2.86,Professor Emeritus,CMNS,Ph.D,73.0,7,11,male,53000
+22,Adina Dabu,5.0,3.29,Lecturer,BMGT,Master's,53.0,2,5,female,5000
+23,Adina Friedman,3.5,2.96,Lecturer,ARHU,Ph.D,55.0,3,4,female,13000
+24,Adriane Fang,3.5,3.45,Associate Professor,ARHU,Master's,50.0,2,88,female,113000
+25,Adrianos Papamarcou,4.2727,2.61,Associate Professor,ENGR,Ph.D,66.0,34,17,male,138000
+26,Agisilaos Iliadis,2.3478,3.27,Professor,ENGR,Ph.D,72.0,24,19,male,145000
+27,Agustin Hurtado,5.0,1.89,Lecturer,BMGT,Master's,34.0,1,2,male,311000
+28,Ahmed Hanafy,4.6,3.25,Senior Lecturer,ARHU,Bachelor's,36.0,5,39,male,83000
+29,Ahmet Aydilek,3.8571,2.89,Professor,ENGR,Ph.D,54.0,7,18,male,229000
+30,Ahmet Karamustafa,5.0,2.73,Professor and Chair,ARHU,Ph.D,69.0,3,25,male,276000
+31,Alan Drew,1.0,3.5,Lecturer,BSOS,Bachelor's,76.0,2,16,male,11000
+32,Alan Jacobs,2.3333,3.51,Lecturer,BMGT,Bachelor's,72.0,3,7,male,17000
+33,Alan Kaufman,2.6154,3.38,Professor,CMNS,Ph.D,65.0,13,26,male,139000
+34,Alan Lehman,4.5,3.16,Lecturer,BSOS,Ph.D,66.0,25,20,male,32000
+35,Alan Montroso,5.0,3.5,Lecturer,ARHU,Ph.D,40.0,19,19,male,51000
+36,Alan Neustadtl,4.0,3.34,Associate Professor Emeritus,BSOS,Ph.D,68.0,2,14,male,136000
+37,Alan Sussman,3.5455,2.44,Professor,CMNS,Ph.D,65.0,11,9,male,232000
+38,Alana Hackshaw,2.7143,3.49,Associate Clinical Professor,PLCY,Ph.D,49.0,7,19,female,158000
+39,Alanna Kopania,5.0,3.67,Lecturer,JOUR,Bachelor's,32.0,3,10,female,100000
+40,Albert Kyle,2.75,2.97,Professor,BMGT,Ph.D,73.0,4,11,male,607000
+41,Alberto Belloni,2.3333,2.87,Associate Professor,CMNS,Ph.D,45.0,24,12,male,196000
+42,Alberto Bolatto,3.2143,2.96,Professor,CMNS,Ph.D,50.0,14,11,male,238000
+43,Alec Worsnop,5.0,3.51,Assistant Professor,PLCY,Ph.D,40.0,3,10,male,114000
+44,Alejandro Caneque,3.0,2.54,Professor,ARHU,Ph.D,65.0,1,20,male,134000
+45,Alene Moyer,3.3333,3.66,Professor Emerita,ARHU,Ph.D,64.0,3,10,female,136000
+46,Alex Leitch,3.0,2.71,Lecturer,INFO,Master's,41.0,8,28,male,109000
+47,Alexander Barg,2.5,2.68,Professor,ENGR,Ph.D,66.0,10,17,male,250000
+48,Alexander Chen,4.6667,3.5,Associate Professor Emeritus,ARCH,Ph.D,74.0,3,4,male,4000
+49,Alexander Estes,1.0,2.97,Assistant Professor,BMGT,Ph.D,34.0,1,5,male,224000
+50,Alexander Flum,2.0,3.81,Lecturer,JOUR,Bachelor's,29.0,1,5,male,5000
+51,Alexander Philippov,2.6,2.75,Assistant Professor,CMNS,Ph.D,35.0,5,3,male,189000
+52,Alexander Shackman,5.0,3.62,Professor,BSOS,Ph.D,50.0,3,17,male,200000
+53,Alexander Williams,3.8,2.69,Associate Professor,ARHU,Ph.D,55.0,5,36,male,222000
+54,Alexandra Bely,3.64,3.53,Professor,CMNS,Ph.D,56.0,26,25,female,160000
+55,Alexandra Calloway,4.375,3.35,Senior Lecturer,ARHU,Master's,53.0,8,18,female,16000
+56,Alexandra Harlig,4.6,3.93,Assistant Clinical Professor,UGST,Ph.D,28.0,5,14,female,50000
+57,Alexandra Jones,2.5778,3.29,Assistant Clinical Professor,CMNS,Ph.D,40.0,45,24,female,102000
+58,Alexandra Omogbadegun,5.0,3.22,Lecturer,ARHU,Master's,30.0,1,5,female,19000
+59,Alexis Lothian,2.8889,3.04,Associate Professor,ARHU,Ph.D,44.0,10,35,male,136000
+60,Ali Faraji-Rad,5.0,3.38,Assistant Professor,BMGT,Ph.D,42.0,1,15,male,136000
+61,Ali Haghani,2.0,2.7,Professor,ENGR,Ph.D,71.0,10,15,male,305000
+62,Alice Mignerey,1.9469,2.85,Professor,CMNS,Ph.D,76.0,115,23,female,144000
+63,Alicia Kollar,2.625,2.66,Assistant Professor,CMNS,Ph.D,37.0,8,11,female,189000
+64,Alicia Volk,2.1538,3.01,Professor,ARHU,Ph.D,53.0,13,17,female,136000
+65,Alireza Khaligh,3.5,3.23,Professor,ENGR,Ph.D,48.0,2,17,male,285000
+66,Alisa Clyne,4.0,3.21,Professor and Associate Chair,ENGR,Ph.D,51.0,1,9,female,274000
+67,Alison Burns,5.0,3.78,Lecturer,JOUR,Ph.D,54.0,15,40,female,136000
+68,Alison Flatau,3.7273,3.55,Professor and Chair,ENGR,Ph.D,69.0,11,14,female,334000
+69,Alison Singer,3.25,3.2,Lecturer,ARHU,Ph.D,37.0,4,10,female,47000
+70,Aliza Sandalon,4.6667,3.39,Lecturer,ARHU,Master's,57.0,3,15,female,20000
+71,Alka Gandhi,3.5893,2.05,Senior Lecturer,BSOS,Ph.D,53.0,58,18,female,109000
+72,Alla Levin,4.0909,3.42,Lecturer,INFO,Master's,45.0,11,5,female,22000
+73,Allan Drazen,2.2308,1.88,Professor,BSOS,Ph.D,75.0,13,16,male,282000
+74,Allan Wigfield,5.0,3.66,Professor Emeritus,EDUC,Ph.D,73.0,2,6,male,136000
+75,Allan Yashinski,4.5854,2.71,Senior Lecturer,CMNS,Ph.D,40.0,82,33,male,112000
+76,Allen Davis,3.0,2.87,Professor,ENGR,Ph.D,63.0,2,18,male,259000
+77,Allen Schick,2.0,3.56,Distinguished Professor Emeritus,PLCY,Ph.D,91.0,1,5,male,136000
+78,Allen Stairs,2.6364,2.32,Professor and Associate Chair,ARHU,Ph.D,74.0,11,21,male,84000
+79,Allen Winkelmann,3.3077,3.03,Associate Professor,ENGR,Ph.D,82.0,13,9,male,105000
+80,Allison Berland,4.8182,3.71,Senior Lecturer,BSOS,Ph.D,54.0,12,11,female,46000
+81,Allison Doherty,3.6667,3.64,Lecturer,ARHU,Master's,35.0,9,4,female,62000
+82,Allison Reilly,2.0,3.23,Associate Professor,ENGR,Ph.D,42.0,1,18,female,189000
+83,Amanda Chicoli,3.4103,3.29,Lecturer,BSOS,Ph.D,37.0,44,32,female,109000
+84,Amanda Fiore,2.2,3.12,Lecturer,ARHU,Master's,47.0,5,7,female,17000
+85,Amanda Hall,5.0,3.54,Adjunct Assistant Professor,BSOS,Ph.D,36.0,6,13,female,12000
+86,Amanda Schech,4.2476,2.96,Lecturer,CMNS,Ph.D,40.0,106,26,female,95000
+87,Amanda Souna,3.8696,2.84,Lecturer,CMNS,Ph.D,46.0,23,21,female,54000
+88,Amber Daniels,4.1429,3.53,Lecturer,ARHU,Master's,35.0,7,19,female,15000
+89,Amber Moore,4.8125,3.48,Lecturer,JOUR,Master's,41.0,16,10,female,18000
+90,Amde Amde,3.0,3.58,Professor Emeritus,ENGR,Ph.D,77.0,2,5,male,136000
+91,Amelia Branigan,4.7647,3.06,Assistant Professor,BSOS,Ph.D,43.0,18,19,female,117000
+92,Amelia Gibson,2.0,3.66,Associate Professor,INFO,Ph.D,45.0,1,7,female,183000
+93,Amin Gholampour,4.2373,3.04,Professor,CMNS,Ph.D,47.0,59,24,male,180000
+94,Amir Riaz,2.4737,2.98,Associate Professor,ENGR,Ph.D,53.0,19,13,male,148000
+95,Amir Sapkota,2.8,3.2,Professor and Chair,SPHL,Ph.D,43.0,5,61,male,270000
+96,Amna Kirmani,4.5,3.33,Professor and Chair,BMGT,Ph.D,68.0,2,9,female,136000
+97,Amol Deshpande,2.9032,3.2,Professor,CMNS,Ph.D,49.0,31,13,male,225000
+98,Amr Baz,5.0,3.74,Professor,ENGR,Ph.D,81.0,17,27,male,233000
+99,Amy Brown,3.5,3.51,Professor Emerita,CMNS,Ph.D,72.0,2,2,female,136000
+100,Amy Burk,5.0,3.3,Professor,AGNR,Ph.D,52.0,4,21,female,192000
+101,Amy Fisher,5.0,3.81,Lecturer,AGNR,Master's,39.0,18,12,female,81000
+102,Amy Karlsson,4.0,3.4,Associate Professor,ENGR,Ph.D,44.0,6,26,female,138000
+103,Amy Lewin,4.5,3.1,Associate Professor,SPHL,Bachelor's,58.0,9,18,female,162000
+104,Amy Morgan,5.0,3.64,Assistant Professor,SPHL,Ph.D,37.0,4,21,female,122000
+105,Amy Mullin,1.7692,3.27,Professor,CMNS,Ph.D,62.0,13,15,female,197000
+106,Ana Ndumu,3.6667,3.37,Assistant Professor,INFO,Ph.D,43.0,3,14,female,142000
+107,Anahi Espindola,4.5556,3.66,Assistant Professor,CMNS,Ph.D,41.0,11,8,female,136000
+108,Anand Anandalingam,2.625,3.43,Professor,BMGT,Ph.D,72.0,8,13,male,136000
+109,Andre Tits,3.2273,2.19,Professor,ENGR,Ph.D,73.0,22,15,male,189000
+110,Andrea Brown,5.0,3.85,Associate Professor,ARHU,Master's,49.0,1,54,female,132000
+111,Andrea Chronis-Tuscano,4.0,1.78,Professor,BSOS,Ph.D,54.0,2,13,female,277000
+112,Andrea Frisch,3.0,3.22,Professor,ARHU,Ph.D,59.0,5,19,female,124000
+113,Andrea Knowles,4.8571,3.2,Lecturer,ARHU,Master's,37.0,7,24,female,35000
+114,Andrea Koppel,5.0,2.97,Lecturer,JOUR,Bachelor's,62.0,1,7,female,3000
+115,Andrea Liberto,4.7778,3.57,Lecturer,SPHL,Bachelor's,37.0,9,30,female,88000
+116,Andrea Lopez,5.0,3.27,Associate Professor,BSOS,Ph.D,44.0,9,25,female,142000
+117,Andrei Vedernikov,2.7123,2.65,Professor,CMNS,Ph.D,64.0,74,20,male,141000
+118,Andrew Baldwin,5.0,3.63,Professor,AGNR,Ph.D,64.0,1,37,male,164000
+119,Andrew Becnel,3.5,3.34,Senior Lecturer,ENGR,Ph.D,40.0,4,15,male,136000
+120,Andrew Broadbent,3.0,3.42,Assistant Professor,AGNR,Ph.D,45.0,3,7,male,113000
+121,Andrew Childs,4.625,2.85,Professor,CMNS,Ph.D,47.0,32,11,male,369000
+122,Andrew Cissna,5.0,3.68,Assistant Clinical Professor,ARHU,Master's,41.0,1,42,male,84000
+123,Andrew Delfino,5.0,3.64,Senior Lecturer,ARHU,Master's,45.0,8,10,male,84000
+124,Andrew Harris,3.5,2.07,Professor and Chair,CMNS,Ph.D,68.0,4,19,male,301000
+125,Andrew Howard,4.8095,3.41,Lecturer,ARHU,Master's,42.0,21,16,male,68000
+126,Andrew Schiffmacher,5.0,3.8,Assistant Professor,AGNR,Ph.D,49.0,1,15,male,109000
+127,Andrew Schonebaum,5.0,3.08,Associate Professor,ARHU,Ph.D,50.0,22,28,male,108000
+128,Andrew Sweeting,2.5,2.36,Professor and Chair,BSOS,Ph.D,52.0,4,9,male,461000
+129,Andrew Wolvin,5.0,3.45,Professor Emeritus,ARHU,Ph.D,85.0,1,13,male,136000
+130,Andris Skuja,1.9048,3.27,Professor,CMNS,Ph.D,81.0,23,22,male,154000
+131,Aneta Georgievska-Shine,3.25,2.86,Senior Lecturer,ARHU,Ph.D,61.0,9,34,female,72000
+132,Ang Li,5.0,3.72,Assistant Professor,ENGR,Bachelor's,37.0,3,3,male,173000
+133,Angela Rodgers-Koukoui,5.0,3.69,Lecturer,INFO,Bachelor's,28.0,2,4,female,95000
+134,Angus Murphy,1.0,3.5,Professor Emeritus,AGNR,Ph.D,54.0,2,24,male,136000
+135,Anil Gupta,4.0,2.77,Professor,BMGT,Master's,77.0,2,20,male,432000
+136,Anita Sanyal,5.0,3.78,Senior Lecturer,CMNS,Ph.D,47.0,3,26,female,99000
+137,Anita Seate,4.25,3.0,Associate Professor,ARHU,Ph.D,43.0,4,23,female,107000
+138,Ankur Srivastava,3.7857,3.43,Professor and Director,ENGR,Ph.D,49.0,14,12,male,319000
+139,Anmol Dash,3.0,3.37,Lecturer,INFO,Master's,28.0,9,3,male,22000
+140,Ann Mason,3.5,2.69,Senior Lecturer,ARHU,Ph.D,61.0,12,19,female,66000
+141,Anna Alberini,2.0,3.1,Professor,AGNR,Ph.D,60.0,9,30,female,231000
+142,Anna Josephson,5.0,3.46,Lecturer,ARHU,Bachelor's,41.0,3,10,female,41000
+143,Anna Li,4.2222,2.45,Assistant Professor,BSOS,Ph.D,42.0,9,11,female,136000
+144,Anna Nelson,5.0,3.56,Lecturer,ARHU,Master's,35.0,1,7,female,74000
+145,Anna Szczekutowicz,4.4231,2.8,Lecturer,CMNS,Ph.D,33.0,55,11,female,100000
+146,Anna Szczepaniec-Bialas,3.5556,3.52,Lecturer,ARHU,Master's,58.0,9,10,female,136000
+147,Anne Kaiser,2.3684,3.04,Clinical Professor,PLCY,Bachelor's,57.0,19,14,female,136000
+148,Anne Rosen,1.5,3.53,Lecturer,JOUR,Master's,69.0,2,12,female,9000
+149,Anne Rush,3.6667,3.0,Senior Lecturer,ARHU,Ph.D,61.0,18,10,female,27000
+150,Anne Simon,3.3509,2.77,Professor,CMNS,Ph.D,69.0,57,15,female,185000
+151,Anne Warren,4.0,3.67,Professor Emerita,ARHU,Bachelor's,81.0,2,6,female,136000
+152,Annelies Galletta,5.0,0.57,Lecturer,EDUC,Master's,62.0,1,13,female,32000
+153,Annette Spivy,4.129,3.65,Senior Lecturer,AGNR,Master's,35.0,32,27,female,110000
+154,Anny Gaul,5.0,3.48,Assistant Professor,ARHU,Ph.D,40.0,2,11,female,136000
+155,Anson Hook,3.6364,2.81,Associate Professor,CMNS,Ph.D,39.0,11,9,male,200000
+156,Anthony Colantuono,3.8889,3.46,Professor,ARHU,Ph.D,67.0,9,22,male,138000
+157,Anthony Ephremides,2.4286,2.22,Distinguished University Professor Emeritus,ENGR,Ph.D,80.0,7,7,male,136000
+158,Antoine Banks,3.75,3.6,Professor and Chair,BSOS,Ph.D,46.0,4,14,male,367000
+159,Antoine Borrut,4.375,2.26,Associate Professor,ARHU,Ph.D,49.0,8,19,male,135000
+160,Antoine Mellet,4.4,2.58,Professor,CMNS,Ph.D,48.0,66,21,male,228000
+161,Antong Liu,4.7647,3.33,Lecturer,ARHU,Ph.D,35.0,17,28,male,40000
+162,Antony Jose,5.0,3.4,Associate Professor,CMNS,Ph.D,48.0,4,10,male,186000
+163,Antwon Key,5.0,3.7,Assistant Professor,ARHU,Master's,33.0,1,18,male,108000
+164,Anwar Mamat,3.8,2.9,Senior Lecturer,CMNS,Ph.D,47.0,52,17,male,133000
+165,Aravind Srinivasan,3.7857,3.36,Distinguished University Professor,CMNS,Ph.D,58.0,15,17,male,236000
+166,Archana Khurana,4.6933,2.78,Senior Lecturer,CMNS,Ph.D,51.0,76,35,female,100000
+167,Ari Israel,5.0,3.76,Lecturer,EDUC,Master's,55.0,4,9,male,4000
+168,Ariana Nash,4.2,3.55,Lecturer,ARHU,Master's,41.0,6,8,female,47000
+169,Arianna Gard,3.1429,3.52,Assistant Professor,BSOS,Ph.D,37.0,8,14,female,117000
+170,Aris Cleanthous,4.2917,3.13,Assistant Clinical Professor,ENGR,Master's,51.0,24,18,male,139000
+171,Aristos Christou,2.75,3.17,Professor,ENGR,Ph.D,80.0,4,26,male,218000
+172,Arjav Shah,4.4,3.67,Lecturer,INFO,Master's,29.0,5,13,male,22000
+173,Armand Makowski,1.9,2.37,Professor,ENGR,Ph.D,72.0,15,12,male,184000
+174,Aron Hirsch,5.0,3.16,Assistant Professor,ARHU,Ph.D,36.0,2,6,male,112000
+175,Arpita Upadhyaya,3.7143,3.08,Professor,CMNS,Ph.D,53.0,7,32,female,246000
+176,Arthur Eckstein,2.4,2.89,Distinguished University Professor Emeritus,ARHU,Ph.D,79.0,10,10,male,136000
+177,Ashish Kabra,3.0,3.17,Assistant Professor,BMGT,Ph.D,38.0,1,12,male,255000
+178,Ashish Nedungadi,5.0,2.4,Lecturer,ENGR,Ph.D,57.0,1,7,male,18000
+179,Ashley Baxter,3.2469,2.85,Lecturer,CMNS,Ph.D,31.0,81,8,female,43000
+180,Ashley Newby,5.0,2.96,Lecturer,BSOS,Ph.D,38.0,6,19,female,113000
+181,Ashok Agrawala,2.25,3.64,Professor,CMNS,Ph.D,87.0,16,21,male,239000
+182,Ashwani Gupta,1.6667,3.44,Distinguished University Professor,ENGR,Ph.D,81.0,3,8,male,312000
+183,Asim Ali,3.6667,2.92,Senior Lecturer,ARHU,Ph.D,58.0,3,23,male,78000
+184,Aubrey Zinn,4.625,3.25,Lecturer,ARHU,Master's,52.0,8,9,male,61000
+185,Audaldo Ponce,3.6667,3.35,Senior Lecturer,ENGR,Ph.D,52.0,3,14,male,128000
+186,Augusta Bolles,1.0,3.29,Professor Emerita,ARHU,Ph.D,76.0,1,12,female,136000
+187,Avik Dutt,3.5769,2.79,Assistant Professor,ENGR,Bachelor's,36.0,26,11,male,159000
+188,Avital Karpman,5.0,3.21,Associate Clinical Professor,ARHU,Ph.D,45.0,6,32,female,104000
+189,Ayanna Baccus,5.0,3.89,Associate Clinical Professor,EDUC,Ph.D,50.0,1,40,female,100000
+190,Ayodeji Dapherede-Otusanya,3.8,3.21,Lecturer,ARHU,Ph.D,41.0,6,25,male,136000
+191,Aysha Jawed,5.0,3.71,Lecturer,ARHU,Master's,38.0,10,20,female,53000
+192,Ayush Gupta,5.0,3.58,Adjunct Associate Professor,CMNS,Ph.D,47.0,1,4,male,136000
+193,Azi Gera,1.0,3.91,Lecturer,BMGT,Ph.D,49.0,1,4,male,8000
+194,Azieb Kidanu,4.0,3.49,Lecturer,SPHL,Ph.D,38.0,1,20,female,19000
+195,B Balachandran,3.5,3.08,Distinguished University Professor,ENGR,Ph.D,62.0,2,5,male,350000
+196,Babak Fotouhi,3.1429,3.43,Adjunct Assistant Professor,INFO,Ph.D,37.0,14,15,male,136000
+197,Bahar Asgari,4.5833,3.09,Assistant Professor,CMNS,Ph.D,36.0,12,7,female,196000
+198,Bahareh Jalehmahmoudi,5.0,3.18,Lecturer,ARHU,Master's,38.0,1,26,female,75000
+199,Bao Yang,3.375,3.74,Professor,ENGR,Ph.D,54.0,8,21,male,249000
+200,Barbara Michelato,1.9717,0.97,Lecturer,CMNS,Ph.D,43.0,108,11,female,74000
+201,Bardia Yousefi,5.0,3.79,Lecturer,ENGR,Ph.D,40.0,1,22,male,76000
+202,Barnet Pavao-Zuckerman,4.3333,3.42,Professor and Chair,BSOS,Ph.D,51.0,6,14,male,231000
+203,Barry Pearson,4.0,3.13,Professor,ARHU,Ph.D,79.0,8,17,male,141000
+204,Barton Forman,4.0,3.07,Associate Professor,ENGR,Ph.D,49.0,4,19,male,139000
+205,Bayley Marquez,5.0,3.15,Assistant Professor,ARHU,Ph.D,40.0,3,29,female,101000
+206,Beatrice Kondo,4.5,3.82,Senior Lecturer,ENGR,Ph.D,60.0,2,10,female,95000
+207,Becky Epanchin-Niell,4.1111,3.68,Associate Professor,AGNR,Ph.D,50.0,18,19,female,136000
+208,Behtash Babadi,4.75,2.65,Associate Professor and Associate Chair,ENGR,Ph.D,41.0,4,24,male,256000
+209,Behzad Gohari,4.6,3.86,Lecturer,UGST,Master's,53.0,10,8,male,1000
+210,Ben Bezejouh,2.0556,1.95,Lecturer,CMNS,Master's,56.0,18,16,male,36000
+211,Ben Hurley,1.0,2.93,Professor Emeritus,SPHL,Ph.D,75.0,1,3,male,136000
+212,Ben Shneiderman,5.0,3.6,Distinguished University Professor Emeritus,CMNS,Ph.D,79.0,1,7,male,136000
+213,Benedikt Diemer,3.2857,3.09,Assistant Professor,CMNS,Ph.D,39.0,28,9,male,162000
+214,Benjamin Huffman,4.75,3.77,Assistant Clinical Professor,SVPA,Ph.D,49.0,4,27,male,104000
+215,Benjamin Jones,4.2931,3.27,Lecturer,BSOS,Ph.D,33.0,59,20,male,118000
+216,Benjamin Silbaugh,2.5789,3.13,Lecturer,ENGR,Master's,46.0,19,19,male,102000
+217,Benjamin Worsley,5.0,3.18,Lecturer,JOUR,Bachelor's,37.0,1,10,male,9000
+218,Bernard Cooperman,4.0,2.76,Associate Professor,ARHU,Ph.D,79.0,26,59,male,138000
+219,Bharti Motwani,3.3673,3.13,Associate Clinical Professor,BMGT,Ph.D,52.0,55,8,female,178000
+220,Bilal Ayyub,4.1429,3.3,Professor,ENGR,Ph.D,67.0,7,25,male,228000
+221,Bill Fagan,2.1852,3.62,Distinguished University Professor,CMNS,Ph.D,55.0,27,13,male,136000
+222,Bill Ford,5.0,3.09,Lecturer,BMGT,Master's,66.0,1,10,male,136000
+223,Binod Paudyal,5.0,3.65,Senior Lecturer,UGST,Ph.D,45.0,13,35,male,105000
+224,Blake Wilder,4.0,3.14,Senior Lecturer,ARHU,Ph.D,44.0,15,26,male,63000
+225,Bo Zhou,5.0,3.59,Associate Professor,BMGT,Ph.D,41.0,8,17,male,302000
+226,Bongtae Han,3.4286,3.38,Professor,ENGR,Ph.D,66.0,14,11,male,247000
+227,Bonnie Dixon,3.5755,2.51,Principal Lecturer,CMNS,Ph.D,55.0,216,28,female,139000
+228,Boyu Zhang,2.8,2.91,Assistant Professor,CMNS,Ph.D,34.0,18,6,male,156000
+229,Bradley Boekeloo,2.0,3.4,Professor,SPHL,Ph.D,66.0,2,20,male,191000
+230,Brandi Slaughter,2.3636,3.33,Associate Clinical Professor,PLCY,Bachelor's,47.0,12,14,female,172000
+231,Brandon Donahue,5.0,3.6,Assistant Professor,ARHU,Master's,38.0,3,22,male,91000
+232,Brandon Morse,5.0,3.44,Associate Professor and Chair,ARHU,Master's,50.0,3,13,male,136000
+233,Brantley Hall,5.0,3.78,Assistant Professor,CMNS,Ph.D,35.0,6,15,male,136000
+234,Brenda Iraola,5.0,3.62,Lecturer,AGNR,Bachelor's,66.0,1,3,female,136000
+235,Brent Barbee,4.75,3.35,Lecturer,ENGR,Master's,44.0,4,12,male,27000
+236,Brent Goldfarb,2.0,2.97,Professor,BMGT,Ph.D,52.0,4,35,male,371000
+237,Brent Solomon,3.1818,3.39,Lecturer,BMGT,Master's,63.0,11,24,male,81000
+238,Brett Lacey,4.7419,3.42,Lecturer,BSOS,Ph.D,32.0,34,19,male,103000
+239,Bretton Kent,3.6818,2.83,Principal Lecturer Emeritus,CMNS,Ph.D,74.0,22,12,male,1000
+240,Brian Blair,3.8182,3.47,Lecturer,ENGR,Ph.D,46.0,22,20,male,93000
+241,Brian Clark,4.9,3.45,Assistant Professor,CMNS,Ph.D,33.0,11,3,male,181000
+242,Brian Connor,4.4,3.21,Senior Lecturer,BSOS,Ph.D,44.0,22,34,male,90000
+243,Brian Danielak,3.7692,3.49,Lecturer,ENGR,Ph.D,40.0,26,18,male,58000
+244,Brian Davis,5.0,3.17,Lecturer,ARHU,Ph.D,35.0,11,19,male,18000
+245,Brian Gilmore,5.0,3.78,Senior Lecturer,BSOS,Bachelor's,60.0,6,15,male,92000
+246,Brian Jefferson,4.8462,3.67,Lecturer,BMGT,Master's,46.0,13,8,male,72000
+247,Brian Johnson,4.6667,3.26,Professor,BSOS,Ph.D,50.0,6,12,male,235000
+248,Brian Needelman,5.0,3.79,Associate Professor,AGNR,Ph.D,54.0,1,33,male,142000
+249,Brian Pierce,5.0,3.42,Associate Professor,SVPA,Ph.D,47.0,2,19,male,330000
+250,Brian Richardson,3.5,3.18,Professor,ARHU,Ph.D,65.0,6,24,male,145000
+251,Brooke Liu,4.3333,3.15,Professor,ARHU,Ph.D,46.0,3,13,female,131000
+252,Brooklynn Hitchens,3.5,2.83,Assistant Professor,BSOS,Ph.D,34.0,6,10,female,104000
+253,Bruce Golden,1.5714,2.97,Professor,BMGT,Ph.D,75.0,7,9,male,455000
+254,Bruce James,4.6471,3.11,Professor Emeritus,AGNR,Ph.D,74.0,17,8,male,136000
+255,Bruno Jacobs,2.6667,2.33,Assistant Professor,BMGT,Ph.D,36.0,3,11,male,259000
+256,Bryan Eichhorn,3.9231,2.73,Professor Emeritus,CMNS,Ph.D,64.0,26,8,male,136000
+257,Burt Leete,4.0,2.93,Professor Emeritus,BMGT,Master's,85.0,10,2,male,136000
+258,Byoung-Suk Kweon,5.0,3.37,Professor,AGNR,Ph.D,55.0,1,23,male,158000
+259,Caitlin Fox,3.0,2.71,Senior Lecturer,CMNS,Ph.D,39.0,10,22,female,112000
+260,Caitlin Marshall,3.6,3.14,Senior Lecturer,ARHU,Ph.D,42.0,5,43,female,75000
+261,Calvert Jones,3.4286,3.42,Associate Professor,BSOS,Ph.D,44.0,14,13,male,143000
+262,Campbell Scribner,5.0,3.09,Associate Professor,EDUC,Ph.D,44.0,3,30,male,127000
+263,Candace Turitto,4.4,2.49,Lecturer,BSOS,Ph.D,42.0,5,18,female,105000
+264,Caren Chang,4.0,3.43,Professor,CMNS,Ph.D,65.0,1,9,female,218000
+265,Carina Zelaya,4.0,3.58,Assistant Professor,ARHU,Ph.D,31.0,2,9,female,136000
+266,Carl Stepp,4.0,3.16,Professor Emeritus,JOUR,Master's,77.0,2,8,male,136000
+267,Carlos Machado,2.7273,2.78,Professor,CMNS,Ph.D,55.0,12,16,male,199000
+268,Carly Woods,4.5,3.49,Associate Professor,ARHU,Ph.D,43.0,2,17,female,105000
+269,Carmen Benito-Vessels,4.1429,3.52,Professor,ARHU,Ph.D,72.0,7,19,female,127000
+270,Caro Williams-Pierce,4.75,3.18,Assistant Professor,INFO,Ph.D,43.0,4,25,female,159000
+271,Carol Espy-Wilson,2.4118,2.51,Professor,ENGR,Ph.D,68.0,17,11,female,280000
+272,Carol Mossman,4.5,3.52,Professor Emerita,ARHU,Ph.D,72.0,2,8,female,136000
+273,Carole Sebenick,4.6842,3.6,Lecturer,BSOS,Ph.D,63.0,19,9,female,13000
+274,Carolina Napp-Avelli,4.5,3.56,Assistant Clinical Professor,EDUC,Ph.D,45.0,3,18,female,136000
+275,Caroline Boules,4.5,3.46,Senior Lecturer,AGNR,Ph.D,38.0,4,21,female,112000
+276,Caroline Eades,4.8333,3.38,Professor,ARHU,Ph.D,69.0,7,39,female,123000
+277,Caroline Hickman,4.5,2.93,Lecturer,ARCH,Ph.D,72.0,2,9,female,9000
+278,Caroline Wilkins,3.4286,3.48,Principal Lecturer,ARHU,Master's,62.0,7,11,female,99000
+279,Carolyn Fink,3.8333,3.65,Lecturer,EDUC,Ph.D,68.0,6,26,female,21000
+280,Carter Hall,3.9231,3.07,Professor and Associate Chair,CMNS,Ph.D,51.0,13,22,male,199000
+281,Cassondra Pope,4.1053,3.47,Senior Lecturer,ARHU,Master's,54.0,19,16,female,70000
+282,Catherine Bayly,4.3333,3.26,Principal Lecturer,ARHU,Master's,43.0,13,16,female,87000
+283,Catherine Carr,2.0,2.66,Distinguished University Professor,CMNS,Ph.D,71.0,2,14,female,249000
+284,Catherine Hamel,4.95,3.52,Senior Lecturer,ENGR,Master's,32.0,42,27,female,138000
+285,Catherine Kuo,3.6667,3.48,Associate Professor,ENGR,Ph.D,50.0,9,7,female,227000
+286,Catherine Spirito,5.0,3.86,Associate Clinical Professor,SVPA,Ph.D,37.0,7,26,female,108000
+287,Cecile Accilien,4.6667,3.87,Professor,ARHU,Ph.D,52.0,3,7,female,163000
+288,Cecilia Shelton,4.6,3.14,Assistant Professor,ARHU,Ph.D,42.0,5,10,female,111000
+289,Cecily Hardaway,5.0,3.16,Assistant Professor,BSOS,Ph.D,45.0,1,22,female,136000
+290,Chad Doran,5.0,3.51,Lecturer,INFO,Ph.D,48.0,3,27,male,28000
+291,Chad Infante,4.6,3.4,Assistant Professor,ARHU,Ph.D,36.0,5,13,male,109000
+292,Chan Lin,3.8571,3.3,Lecturer,CMNS,Ph.D,45.0,21,41,female,128000
+293,Chandrasekhar Thamire,4.1389,2.71,Principal Lecturer,ENGR,Ph.D,60.0,36,21,male,136000
+294,Chantay Moye,5.0,3.71,Lecturer,ARHU,Master's,49.0,1,3,female,8000
+295,Charalampos Papamanthou,4.0,2.79,Adjunct Associate Professor,ENGR,Ph.D,44.0,1,14,male,136000
+296,Charles Alford,4.1429,3.55,Professor Emeritus,BSOS,Ph.D,78.0,7,6,male,136000
+297,Charles Delwiche,2.3929,3.49,Professor,CMNS,Ph.D,63.0,28,23,male,170000
+298,Charles Duquette,2.3333,0.42,Lecturer,EDUC,Master's,69.0,3,19,male,83000
+299,Charles Fenster,2.3636,3.33,Professor Emeritus,CMNS,Ph.D,68.0,11,3,male,136000
+300,Charles Gelso,4.3,2.4,Professor Emeritus,BSOS,Ph.D,84.0,10,8,male,136000
+301,Charles Hulten,1.8235,1.67,Professor Emeritus,BSOS,Ph.D,82.0,17,4,male,136000
+302,Charles Manekin,3.5,2.2,Professor Emeritus,ARHU,Ph.D,72.0,2,22,male,136000
+303,Charles Olson,4.0,3.28,Professor of Practice Emeritus,BMGT,Ph.D,83.0,1,10,male,136000
+304,Charles Stangor,2.1944,3.62,Professor Emeritus,BSOS,Ph.D,74.0,36,5,male,136000
+305,Charlotte Richardson-Deppe,4.6667,3.65,Lecturer,ARHU,Master's,28.0,6,13,female,38000
+306,Chelsea Mays-Williams,4.6286,3.7,Lecturer,AGNR,Master's,37.0,36,12,female,69000
+307,Cheng Gong,3.6667,3.08,Associate Professor,ENGR,Ph.D,39.0,3,10,male,196000
+308,Chengri Ding,5.0,3.44,Professor,ARCH,Ph.D,61.0,1,21,male,155000
+309,Chenyu Yang,3.0,2.09,Assistant Professor,BSOS,Ph.D,37.0,9,10,male,230000
+310,Cher Dallal,3.5,3.78,Associate Professor,SPHL,Ph.D,49.0,2,15,female,126000
+311,Cherisse Hall,3.6667,3.7,Assistant Clinical Professor,SVPA,Ph.D,40.0,9,25,female,88000
+312,Chiara Graf,4.3333,3.57,Assistant Professor,ARHU,Ph.D,34.0,6,17,female,86000
+313,Chila Hidalgo,4.5263,3.41,Senior Lecturer,ARHU,Ph.D,63.0,19,22,female,68000
+314,Chinyere Osuji,1.5833,2.59,Associate Professor,BSOS,Ph.D,47.0,13,18,female,132000
+315,Chloe Schwenke,4.5,3.64,Lecturer,PLCY,Ph.D,73.0,2,11,female,17000
+316,Chris Justice,4.0,2.36,Distinguished University Professor,BSOS,Ph.D,74.0,20,7,male,376000
+317,Chris Lewis,4.4,3.11,Assistant Clinical Professor,ARHU,Ph.D,41.0,5,19,male,136000
+318,Christian Rosendal,5.0,2.52,Professor,CMNS,Ph.D,47.0,1,13,male,235000
+319,Christian Zickert,3.0714,2.57,Associate Professor,CMNS,Ph.D,45.0,14,22,male,167000
+320,Christiana Guest,2.2778,2.87,Lecturer,CMNS,Ph.D,33.0,110,35,female,136000
+321,Christina Edmonds,5.0,3.57,Lecturer,EDUC,Bachelor's,42.0,5,11,female,19000
+322,Christina Getrich,5.0,3.35,Associate Professor,BSOS,Ph.D,50.0,10,22,female,149000
+323,Christina Hanhardt,4.75,3.41,Associate Professor,ARHU,Ph.D,53.0,8,34,female,153000
+324,Christina Hnatov,1.2,3.41,Lecturer,SVPA,Bachelor's,28.0,5,25,female,89000
+325,Christina Shields,3.1667,3.38,Assistant Clinical Professor,BSOS,Bachelor's,38.0,7,21,female,109000
+326,Christina Walter,4.5,2.89,Associate Professor,ARHU,Ph.D,39.0,2,25,female,117000
+327,Christine Alexander,3.1667,3.75,Lecturer,ENGR,Master's,35.0,12,8,female,84000
+328,Christine Hakenkamp,4.1563,3.66,Senior Lecturer,AGNR,Ph.D,59.0,32,16,female,47000
+329,Christine Hartzell,3.3333,2.57,Associate Professor,ENGR,Ph.D,39.0,3,9,female,225000
+330,Christine Harvey,2.25,2.89,Principal Lecturer,JOUR,Bachelor's,67.0,5,19,female,140000
+331,Christine Nickel,3.8889,3.1,Lecturer,CMNS,Ph.D,50.0,9,11,female,17000
+332,Christine Schaaf,5.0,3.62,Lecturer,BMGT,Master's,61.0,5,28,female,194000
+333,Christine Schull,3.875,3.3,Senior Lecturer,SPHL,Ph.D,54.0,8,38,female,94000
+334,Christine White,2.5625,3.39,Senior Lecturer,BSOS,Bachelor's,50.0,16,28,female,90000
+335,Christoph Brehm,4.0,3.1,Associate Professor,ENGR,Ph.D,42.0,1,16,male,237000
+336,Christoph Mergerson,5.0,3.68,Assistant Professor,JOUR,Ph.D,39.0,9,15,male,105000
+337,Christopher Ackermann,4.0,3.29,Lecturer,ENGR,Ph.D,41.0,2,7,male,25000
+338,Christopher Bonner,4.25,3.34,Associate Professor,ARHU,Ph.D,39.0,12,23,male,117000
+339,Christopher Cadou,2.1333,2.8,Professor,ENGR,Ph.D,58.0,15,15,male,218000
+340,Christopher Capp,4.2857,3.06,Senior Lecturer,CMNS,Ph.D,44.0,22,22,male,101000
+341,Christopher Crane,5.0,3.38,Senior Lecturer,ARHU,Ph.D,57.0,3,23,male,51000
+342,Christopher Ellis,5.0,3.56,Professor,AGNR,Ph.D,59.0,2,33,male,175000
+343,Christopher Ellis,5.0,3.56,Lecturer,EDUC,Bachelor's,47.0,2,33,male,175000
+344,Christopher Halsted,4.3636,3.07,Lecturer,ARHU,Ph.D,33.0,11,5,male,12000
+345,Christopher Hanson,3.6364,3.39,Associate Professor,JOUR,Ph.D,72.0,11,18,male,125000
+346,Christopher Jarzynski,4.8333,2.9,Distinguished University Professor,CMNS,Ph.D,60.0,12,18,male,287000
+347,Christopher Kauffman,4.8272,2.83,Senior Lecturer,CMNS,Ph.D,43.0,85,7,male,142000
+348,Christopher Lobb,5.0,2.86,Professor Emeritus,CMNS,Ph.D,73.0,6,12,male,88000
+349,Christopher Malackany,3.375,3.23,Lecturer,BSOS,Ph.D,41.0,19,10,male,71000
+350,Christopher Metzler,4.3333,3.26,Assistant Professor,CMNS,Ph.D,34.0,9,10,male,204000
+351,Christopher Morris,3.5,2.05,Professor Emeritus,ARHU,Ph.D,76.0,6,9,male,136000
+352,Christopher Palmer,2.2222,3.07,Assistant Professor,CMNS,Ph.D,40.0,11,11,male,196000
+353,Christopher Reynolds,4.8571,2.93,Professor,CMNS,Ph.D,55.0,7,8,male,240000
+354,Christopher Seitz-Brown,5.0,3.19,Assistant Clinical Professor,BSOS,Ph.D,37.0,2,17,male,14000
+355,Christopher Tamborini,5.0,3.21,Lecturer,BSOS,Ph.D,50.0,5,3,male,13000
+356,Christopher Walsh,5.0,3.19,Professor Emeritus,AGNR,Ph.D,78.0,4,11,male,9000
+357,Chryl Laird,5.0,3.75,Associate Professor,BSOS,Ph.D,42.0,3,10,female,155000
+358,Chunsheng Wang,2.0,3.46,Professor,ENGR,Ph.D,65.0,1,18,male,356000
+359,Cindy Driscoll,4.7143,3.76,Lecturer,AGNR,Bachelor's,74.0,7,3,female,136000
+360,Cinzia Cirillo,5.0,3.67,Professor,ENGR,Ph.D,53.0,1,15,female,219000
+361,Claire Dunning,5.0,3.63,Associate Professor,PLCY,Ph.D,39.0,4,12,female,156000
+362,Clare Lyons,3.5333,3.21,Associate Professor,ARHU,Ph.D,67.0,15,30,female,122000
+363,Clare Parsons,3.9375,3.7,Lecturer,ARHU,Ph.D,64.0,16,7,female,57000
+364,Clarence Wesley,2.7826,3.42,Senior Lecturer,BMGT,Master's,58.0,23,24,male,143000
+365,Clarence Williams,3.0,1.78,Lecturer,JOUR,Master's,54.0,8,8,male,9000
+366,Cliff Bakalian,3.3725,3.39,Lecturer,CMNS,Master's,27.0,153,21,male,132000
+367,Clyde Kruskal,2.8778,2.65,Associate Professor,CMNS,Ph.D,71.0,93,16,male,104000
+368,Cody Buntain,3.7143,3.15,Assistant Professor,INFO,Ph.D,40.0,7,12,male,170000
+369,Colenso Speer,3.25,3.06,Assistant Professor,CMNS,Ph.D,43.0,16,11,male,163000
+370,Colleen Terpos,2.1538,0.0,Lecturer,CMNS,Master's,59.0,13,8,female,59000
+371,Colleen Vacelet,3.25,3.3,Lecturer,AGNR,Bachelor's,45.0,4,9,female,136000
+372,Collin Mueller,5.0,3.55,Assistant Professor,BSOS,Ph.D,38.0,3,11,male,111000
+373,Colton Kilpatrick,5.0,3.74,Assistant Clinical Professor,SPHL,Ph.D,36.0,2,8,male,74000
+374,Constance Ford,1.125,2.71,Lecturer,JOUR,Master's,70.0,8,23,female,136000
+375,Cortney Fisher,3.5882,2.77,Lecturer,BSOS,Ph.D,48.0,36,39,female,109000
+376,Cory Smith,5.0,3.17,Assistant Professor,AGNR,Bachelor's,36.0,2,18,male,170000
+377,Courtney Douglass,1.5172,3.16,Lecturer,INFO,Master's,43.0,29,11,female,61000
+378,Craig Fryer,1.0,3.2,Associate Professor,SPHL,Bachelor's,55.0,1,23,male,101000
+379,Craig Potter,4.2,3.83,Senior Lecturer,ARHU,Master's,39.0,5,50,male,73000
+380,Craig Schlenoff,4.8387,3.08,Lecturer,ENGR,Ph.D,54.0,31,9,male,24000
+381,Cristian Dezso,5.0,2.86,Professor and Area Chair,BMGT,Master's,51.0,1,22,male,387000
+382,Cristina Risco,5.0,3.64,Associate Clinical Professor,BSOS,Ph.D,43.0,1,19,female,96000
+383,Crystal Davis,5.0,3.64,Associate Professor,ARHU,Master's,47.0,1,63,female,116000
+384,Cullen Merritt,5.0,3.57,Associate Professor,PLCY,Ph.D,38.0,4,2,male,183000
+385,Cunxi Yu,3.7143,3.29,Assistant Professor,ENGR,Ph.D,30.0,7,2,male,183000
+386,Curtis Valentine,3.6667,2.74,Lecturer,PLCY,Bachelor's,39.0,4,7,male,9000
+387,Cy Keener,4.375,3.26,Associate Professor,ARHU,Master's,49.0,8,23,male,131000
+388,Cynthia Martin,4.6667,3.58,Associate Professor,ARHU,Ph.D,67.0,3,47,female,118000
+389,Da-Lin Zhang,5.0,3.12,Professor,CMNS,Ph.D,71.0,1,11,male,198000
+390,Damena Agonafer,5.0,3.53,Associate Professor,ENGR,Master's,43.0,1,3,male,197000
+391,Damien Hagen,3.75,3.25,Lecturer,ARHU,Ph.D,38.0,8,11,male,136000
+392,Damien Pfister,4.625,3.36,Associate Professor,ARHU,Ph.D,47.0,8,29,male,126000
+393,Dan Goldsmith,2.5,2.93,Lecturer,BMGT,Master's,44.0,2,6,male,25000
+394,Dan Moller,4.0714,1.8,Professor,ARHU,Ph.D,49.0,15,22,male,127000
+395,Dana Dachman-Soled,4.0,3.01,Associate Professor,ENGR,Ph.D,41.0,2,27,female,248000
+396,Dana Fisher,2.3333,3.01,Professor Emerita,BSOS,Ph.D,54.0,3,18,female,136000
+397,Dana Grosser-Clarkson,5.0,3.61,Senior Lecturer,CMNS,Ph.D,40.0,4,27,female,101000
+398,Dana Nau,2.1667,2.67,Professor Emeritus,CMNS,Ph.D,73.0,12,6,female,24000
+399,Dane Grossnickle,3.8333,3.49,Lecturer,AGNR,Bachelor's,30.0,6,8,male,81000
+400,Daniel Abadi,3.075,3.04,Professor,CMNS,Ph.D,45.0,40,6,male,301000
+401,Daniel Blair,3.6176,3.0,Lecturer,ARHU,Master's,58.0,34,29,male,69000
+402,Daniel Butts,3.8333,2.97,Associate Professor,CMNS,Ph.D,53.0,6,30,male,136000
+403,Daniel Cristofaro-Gardiner,5.0,3.16,Associate Professor,CMNS,Ph.D,40.0,1,7,male,136000
+404,Daniel Falvey,4.6136,2.97,Professor,CMNS,Ph.D,64.0,44,15,male,198000
+405,Daniel Foster,3.2593,3.64,Lecturer,ARHU,Bachelor's,56.0,29,20,male,72000
+406,Daniel Foster,3.2593,3.64,Lecturer,ARHU,Ph.D,44.0,29,20,male,72000
+407,Daniel Gottesman,2.0,2.81,Professor,CMNS,Ph.D,55.0,15,8,male,330000
+408,Daniel Greene,4.25,3.24,Associate Professor,INFO,Ph.D,38.0,8,15,male,156000
+409,Daniel Gruner,3.6,2.93,Professor,CMNS,Ph.D,54.0,5,16,male,164000
+410,Daniel Lathrop,4.3333,3.25,Professor,CMNS,Ph.D,60.0,3,16,male,320000
+411,Daniel Reck,2.7,3.4,Assistant Professor,BSOS,Ph.D,37.0,10,3,male,205000
+412,Daniel Richter,3.5238,2.76,Lecturer,ARHU,Ph.D,46.0,21,35,male,57000
+413,Daniel Rosenthal,4.1667,3.84,Lecturer,UGST,Bachelor's,44.0,6,5,male,14000
+414,Daniel Saalfeld,3.9444,3.4,Senior Lecturer,ARHU,Master's,55.0,19,10,male,70000
+415,Daniel Sidman,3.8333,3.27,Lecturer,ARHU,Master's,36.0,12,10,male,47000
+416,Daniel Stein,3.5,3.52,Professor,CMNS,Ph.D,70.0,12,16,male,198000
+417,Daniel Swann,2.8182,3.25,Lecturer,BSOS,Master's,39.0,13,6,male,13000
+418,Daniel Vincent,3.1333,2.02,Professor,BSOS,Ph.D,66.0,15,19,male,194000
+419,Danielle Barker,4.0,3.91,Assistant Instructor,ENGR,Bachelor's,34.0,2,3,female,27000
+420,Danielle Catona,4.0,3.94,Lecturer,SPHL,Ph.D,39.0,3,7,female,87000
+421,Danielle Niu,5.0,3.87,Assistant Clinical Professor,SVPA,Ph.D,25.0,4,17,female,79000
+422,Danielle O'Neill,4.75,3.81,Lecturer,BSOS,Master's,41.0,4,5,female,20000
+423,Danilo Romero,2.65,3.24,Senior Lecturer,ENGR,Ph.D,66.0,20,34,male,202000
+424,Danusia Hubah,5.0,3.77,Adjunct Professor,UGST,Master's,45.0,1,10,female,8000
+425,Danuta Hinc,3.3333,3.57,Principal Lecturer,ARHU,Master's,56.0,10,22,female,74000
+426,Daphne Fuentevilla,5.0,3.48,Adjunct Assistant Professor,ENGR,Ph.D,45.0,1,7,female,11000
+427,Daphne Williams,5.0,3.44,Lecturer,EDUC,Bachelor's,34.0,1,6,female,5000
+428,Darlene Dennison,4.6667,3.37,Lecturer,BMGT,Master's,68.0,6,16,female,39000
+429,Darren Pierre,5.0,3.78,Senior Lecturer,ENGR,Ph.D,43.0,5,28,male,131000
+430,Darryll Pines,4.1667,3.67,President,PRES,Ph.D,61.0,6,3,male,986000
+431,Daune O'Brien,4.3333,3.11,Senior Lecturer,ARHU,Master's,43.0,9,18,female,79000
+432,Dave Levin,4.3684,3.33,Associate Professor,CMNS,Ph.D,45.0,19,20,male,136000
+433,David Akin,2.4737,3.69,Professor,ENGR,Bachelor's,73.0,19,31,male,195000
+434,David Andrews,4.5,3.22,Professor,SPHL,Ph.D,62.0,14,19,male,171000
+435,David Ashley,2.5556,3.7,Lecturer,BMGT,Master's,57.0,9,40,male,52000
+436,David Bigio,2.5714,2.81,Professor,ENGR,Ph.D,76.0,21,23,male,172000
+437,David Bowen,4.5,3.6,Lecturer,ENGR,Ph.D,41.0,2,6,male,47000
+438,David Brookshire,5.0,3.39,Lecturer,ARHU,Ph.D,59.0,36,5,male,54000
+439,David Buehrle,3.21,3.23,Senior Lecturer,CMNS,Master's,55.0,101,47,male,162000
+440,David Cunningham,4.5,3.34,Professor,BSOS,Ph.D,49.0,2,13,male,227000
+441,David Findlay,4.0,3.26,Adjunct Associate Professor,ENGR,Ph.D,64.0,1,8,male,20000
+442,David Freund,3.4545,2.67,Associate Professor,ARHU,Ph.D,60.0,11,26,male,116000
+443,David Fushman,3.875,2.72,Professor,CMNS,Ph.D,69.0,8,12,male,211000
+444,David Gormong,4.5455,3.6,Lecturer,AGNR,Master's,65.0,67,10,male,60000
+445,David Hamilton,2.2963,2.29,Professor,CMNS,Ph.D,70.0,55,19,male,84000
+446,David Hawthorne,4.6667,3.67,Associate Professor,CMNS,Ph.D,64.0,12,6,male,150000
+447,David Jacobs,3.7778,3.35,Professor,CMNS,Ph.D,65.0,9,9,male,158000
+448,David Karol,2.375,3.27,Associate Professor,BSOS,Ph.D,55.0,8,19,male,134000
+449,David Kass,4.7143,3.31,Clinical Professor,BMGT,Ph.D,82.0,22,10,male,161000
+450,David Kirsch,3.0,2.7,Associate Professor,BMGT,Ph.D,59.0,2,29,male,266000
+451,David Kriesberg,4.3333,3.84,Lecturer,ENGR,Master's,31.0,15,24,male,133000
+452,David Lei,3.0,2.25,Professor,AGNR,Ph.D,79.0,2,20,male,211000
+453,David Lightman,4.5,2.78,Lecturer,JOUR,Master's,76.0,4,10,male,9000
+454,David Lovell,2.0833,3.39,Professor and Director,UGST,Ph.D,57.0,13,81,male,257000
+455,David Miles,3.0,3.38,Lecturer,ARHU,Master's,35.0,3,17,male,56000
+456,David Mosser,4.0,2.75,Professor,CMNS,Ph.D,74.0,3,25,male,190000
+457,David Mount,4.7941,3.07,Professor,CMNS,Ph.D,70.0,35,17,male,108000
+458,David Myers,3.5,3.29,Associate Professor,AGNR,Ph.D,69.0,2,23,male,134000
+459,David Newburn,5.0,2.58,Associate Professor,AGNR,Ph.D,56.0,3,25,male,180000
+460,David Patrick,4.0,3.3,Lecturer,INFO,Master's,53.0,3,22,male,23000
+461,David Salem,3.6667,2.18,Senior Lecturer,BSOS,Master's,69.0,7,10,male,12000
+462,David Sartorius,2.4,2.39,Associate Professor,ARHU,Ph.D,52.0,15,25,male,110000
+463,David Sicilia,4.2857,2.93,Associate Professor,ARHU,Ph.D,71.0,14,22,male,138000
+464,David Simon,4.8,3.01,Associate Professor,ARHU,Ph.D,43.0,5,18,male,89000
+465,David Straney,4.7273,3.62,Associate Professor,CMNS,Ph.D,65.0,44,17,male,146000
+466,David Thomas,3.0,3.47,Lecturer,ENGR,Bachelor's,51.0,2,3,male,14000
+467,David Tilley,3.8,3.56,Associate Professor,AGNR,Ph.D,55.0,5,39,male,131000
+468,David Todd,1.875,3.35,Senior Lecturer,ARHU,Master's,66.0,8,9,male,39000
+469,David Tomblin,4.6923,3.72,Senior Lecturer,ENGR,Ph.D,56.0,13,28,male,150000
+470,David Waguespack,5.0,2.95,Associate Professor,BMGT,Bachelor's,58.0,1,20,male,266000
+471,David Weintrop,5.0,3.41,Associate Professor,EDUC,Ph.D,42.0,5,24,male,200000
+472,David Wyatt,4.5,3.28,Professor Emeritus,ARHU,Ph.D,77.0,8,8,male,136000
+473,David Yager,3.6364,2.76,Associate Professor Emeritus,BSOS,Ph.D,75.0,33,20,male,22000
+474,Davis McGregor,2.5,3.71,Assistant Professor,ENGR,Ph.D,30.0,6,3,male,137000
+475,Dawn Dow,3.5,2.69,Associate Professor,BSOS,Ph.D,51.0,3,12,female,141000
+476,DeNeen Brown,4.5,3.8,Professor,JOUR,Bachelor's,61.0,2,25,female,165000
+477,Deb Niemeier,1.3333,3.04,Professor,ENGR,Master's,65.0,9,10,female,371000
+478,Debabrata Biswas,2.0,3.51,Professor,AGNR,Ph.D,56.0,1,20,male,181000
+479,Deborah Goldberg,5.0,3.14,Senior Lecturer,ENGR,Ph.D,41.0,9,34,female,110000
+480,Deborah Nelson,3.7143,3.65,Professor,JOUR,Bachelor's,72.0,7,21,female,183000
+481,Deborah Rosenfelt,3.0,2.4,Professor Emerita,ARHU,Ph.D,83.0,5,6,female,136000
+482,Debra Franklin,4.0,2.68,Principal Lecturer,CMNS,Master's,69.0,4,11,female,45000
+483,Debra Shapiro,2.2857,3.03,Professor,BMGT,Ph.D,65.0,14,10,female,340000
+484,Deep Ray,5.0,2.82,Assistant Professor,CMNS,Ph.D,37.0,2,5,male,132000
+485,Deni Ruggeri,4.2222,3.61,Associate Professor,AGNR,Ph.D,46.0,12,13,male,114000
+486,Denise Gottfredson,4.0,3.81,Professor Emerita,BSOS,Ph.D,73.0,1,6,female,136000
+487,Denitsa Yotova,2.375,3.11,Lecturer,JOUR,Master's,33.0,8,12,female,27000
+488,Dennis Frezzo,3.9,3.39,Senior Lecturer,INFO,Ph.D,53.0,30,23,male,160000
+489,Dennis Herschbach,3.1429,2.79,Associate Professor Emeritus,EDUC,Ph.D,87.0,7,3,male,136000
+490,Dennis Leber,4.8333,2.4,Lecturer,ENGR,Ph.D,50.0,6,2,male,9000
+491,Dennis Nola,3.6667,3.64,Lecturer,AGNR,Bachelor's,68.0,9,25,male,136000
+492,Dennis Vacante,5.0,3.64,Lecturer,SPHL,Master's,76.0,3,3,male,136000
+493,Dennis Winston,4.4545,3.37,Senior Lecturer,ARHU,Ph.D,45.0,11,17,male,84000
+494,Dennis vanEngelsdorp,4.6667,3.38,Associate Professor,CMNS,Ph.D,55.0,3,6,male,156000
+495,Denny Gulick,3.9063,2.31,Professor Emeritus,CMNS,Ph.D,89.0,64,10,male,136000
+496,Deokhyo Choi,5.0,2.74,Assistant Professor,ARHU,Ph.D,47.0,2,3,male,94000
+497,Derek Iwamoto,3.0714,2.96,Associate Professor,BSOS,Ph.D,46.0,14,32,male,179000
+498,Derek Paley,4.6429,3.29,Professor,ENGR,Ph.D,50.0,14,20,male,317000
+499,Derek Richardson,4.5,3.3,Professor,CMNS,Ph.D,57.0,18,9,male,190000
+500,Derek Willis,5.0,3.56,Lecturer,JOUR,Bachelor's,55.0,1,26,male,101000
+501,Devin Entrikin,5.0,3.33,Lecturer,PLCY,Master's,40.0,1,8,male,66000
+502,Diana Cochran,2.8462,2.81,Assistant Clinical Professor,AGNR,Ph.D,42.0,13,23,female,126000
+503,Diana Obanda,1.0,3.39,Assistant Professor,AGNR,Ph.D,42.0,2,15,female,130000
+504,Dilip Madan,3.0,3.36,Professor Emeritus,BMGT,Ph.D,80.0,2,2,male,136000
+505,Dimitrios Goulias,2.625,3.51,Associate Professor,ENGR,Ph.D,60.0,8,14,male,207000
+506,Dina Broydo,2.5,3.43,Lecturer,BMGT,Bachelor's,31.0,4,9,female,6000
+507,Dinesh Manocha,2.0,2.95,Distinguished University Professor,ENGR,Ph.D,60.0,2,15,male,426000
+508,Dionisios Margetis,4.5,2.79,Professor,CMNS,Ph.D,55.0,50,23,male,183000
+509,Dionne Clemons,4.6667,3.65,Lecturer,ARHU,Ph.D,52.0,3,24,female,36000
+510,Dirk Parham,4.9143,3.22,Lecturer,BSOS,Master's,35.0,35,19,male,82000
+511,Dmitry Dolgopyat,2.2286,2.76,Distinguished University Professor,CMNS,Ph.D,53.0,35,19,male,319000
+512,Dominic Palumbo,3.3333,3.24,Lecturer,ENGR,Ph.D,81.0,3,8,male,19000
+513,Dominique Mwepu,4.1818,3.35,Lecturer,BSOS,Ph.D,42.0,11,8,male,11000
+514,Don DeVoe,4.4444,3.36,Professor and Associate Chair,ENGR,Ph.D,56.0,9,13,male,286000
+515,Donal Heidenblad,4.4667,3.53,Lecturer,INFO,Master's,44.0,15,28,male,138000
+516,Donald Bolger,5.0,3.69,Associate Professor,EDUC,Ph.D,49.0,3,19,male,182000
+517,Donald Perlis,3.3158,3.07,Professor Emeritus,CMNS,Ph.D,81.0,19,5,male,136000
+518,Donald Riley,1.4,3.17,Professor Emeritus,BMGT,Ph.D,78.0,5,6,male,136000
+519,Donald Sutherland,3.25,2.7,Professor Emeritus,ARHU,Ph.D,82.0,4,7,male,136000
+520,Donald Yeung,4.7895,2.5,Professor and Associate Chair,ENGR,Ph.D,57.0,20,11,male,274000
+521,Dongdong Wang,1.0,2.93,Associate Professor,BSOS,Ph.D,45.0,1,8,male,93000
+522,Donna Howard,3.8462,3.26,Associate Professor Emerita,SPHL,Master's,69.0,13,14,female,5000
+523,Dora Hanninen,1.5,2.86,Professor,ARHU,Ph.D,64.0,2,19,female,126000
+524,Dori Bejleri,5.0,2.94,Assistant Professor,CMNS,Ph.D,34.0,1,2,female,172000
+525,Doron Levy,4.0,2.87,Professor and Chair,CMNS,Ph.D,56.0,6,10,male,345000
+526,Doug Lombardi,5.0,3.59,Professor and Associate Dean,EDUC,Ph.D,60.0,3,12,male,211000
+527,Douglas Hamilton,1.9677,2.47,Professor Emeritus,CMNS,Ph.D,78.0,31,34,male,197000
+528,Douglas Hamilton,1.9677,2.47,Professor Emeritus,CMNS,Ph.D,78.0,31,34,male,197000
+529,Douglas Hamilton,1.9677,2.47,Professor,CMNS,Ph.D,59.0,31,34,male,197000
+530,Douglas Hamilton,1.9677,2.47,Professor,CMNS,Ph.D,59.0,31,34,male,197000
+531,Douglas Julin,3.8235,2.17,Associate Professor Emeritus,CMNS,Ph.D,69.0,34,15,male,1000
+532,Douglas Oard,4.6,3.28,Professor,INFO,Ph.D,68.0,11,25,male,218000
+533,Drew Baden,4.6667,1.36,Professor,CMNS,Ph.D,72.0,6,9,male,136000
+534,Drew Barker,4.2,3.66,Librarian II,LIBR,Master's,43.0,11,9,male,136000
+535,Dylan Carpenter,4.3,3.56,Lecturer,ARHU,Master's,33.0,11,3,male,45000
+536,Ed Fendley,5.0,3.88,Adjunct Professor,UGST,Bachelor's,60.0,2,11,male,9000
+537,Edgar Moctezuma,4.2045,3.29,Senior Lecturer,CMNS,Ph.D,56.0,45,12,male,97000
+538,Edlie Wong,5.0,3.38,Professor,ARHU,Ph.D,52.0,2,20,female,179000
+539,Edmond Shenassa,1.875,2.93,Professor,SPHL,Master's,61.0,8,25,male,153000
+540,Edo Waks,3.8889,3.31,Professor,ENGR,Ph.D,52.0,9,7,male,354000
+541,Edward Alwood,4.65,3.12,Lecturer,JOUR,Ph.D,75.0,20,11,male,18000
+542,Edward Bernat,2.3333,3.65,Associate Professor,BSOS,Ph.D,58.0,6,14,male,141000
+543,Edward Eisenstein,4.1176,3.5,Associate Professor,SVPA,Ph.D,68.0,17,15,male,210000
+544,Edward Lemay,4.2353,3.14,Professor,BSOS,Ph.D,57.0,17,18,male,194000
+545,Edward Magrab,2.0,1.9,Professor Emeritus,ENGR,Ph.D,87.0,2,3,male,136000
+546,Edward Orlando,3.3333,2.8,Lecturer,CMNS,Ph.D,60.0,3,9,male,18000
+547,Edward Ott,2.5,3.19,Distinguished University Professor Emeritus,ENGR,Ph.D,84.0,4,11,male,130000
+548,Edward Parker,5.0,3.34,Lecturer,ARHU,Ph.D,33.0,1,9,male,19000
+549,Edward Redish,3.6364,3.1,Professor Emeritus,CMNS,Ph.D,84.0,11,3,male,136000
+550,Efrain Rodriguez,3.4286,3.06,Professor,CMNS,Ph.D,44.0,14,16,male,239000
+551,Eitan Tadmor,3.0,2.76,Distinguished University Professor,CMNS,Ph.D,74.0,2,10,male,436000
+552,Elaine Anderson,4.6667,3.74,Professor Emerita,SPHL,Ph.D,74.0,3,6,female,136000
+553,Eleonora Tubaldi,2.1,2.42,Assistant Professor,ENGR,Ph.D,37.0,10,12,female,166000
+554,Elia Shahbazi,1.75,3.08,Lecturer,INFO,Ph.D,42.0,4,4,male,11000
+555,Elias Gonzalez,4.4146,3.39,Lecturer,CMNS,Bachelor's,30.0,84,24,male,148000
+556,Elie Ashery,3.2,3.52,Lecturer,BMGT,Master's,50.0,5,8,male,11000
+557,Elie Friedman,5.0,3.11,Lecturer,ARHU,Ph.D,55.0,1,8,male,136000
+558,Elisa Gironzetti,2.0,2.98,Associate Professor,ARHU,Ph.D,41.0,3,19,female,108000
+559,Elisa Klein,5.0,3.48,Associate Professor Emerita,EDUC,Ph.D,72.0,1,9,female,136000
+560,Elisabeth Maring,4.2143,3.44,Clinical Professor,SPHL,Ph.D,54.0,15,28,female,142000
+561,Elisabeth Smela,2.2222,3.08,Professor,ENGR,Ph.D,62.0,9,13,female,177000
+562,Eliza Kempton,3.7778,2.71,Professor,CMNS,Ph.D,44.0,9,14,female,203000
+563,Eliza Thompson,2.8333,3.07,Assistant Clinical Professor,BSOS,Master's,48.0,6,27,female,123000
+564,Elizabeth Bagley,5.0,3.81,Lecturer,BMGT,Bachelor's,40.0,1,4,female,18000
+565,Elizabeth Brown,4.7692,3.64,Instructor,SPHL,Bachelor's,82.0,13,34,male,115000
+566,Elizabeth Chang,3.0,3.09,Lecturer,ARHU,Master's,63.0,3,3,female,13000
+567,Elizabeth Conner,2.8333,2.76,Lecturer,ARHU,Ph.D,42.0,12,21,female,35000
+568,Elizabeth Duke,4.0,3.41,Clinical Professor,PLCY,Ph.D,89.0,1,19,female,176000
+569,Elizabeth Feldman,3.0,2.95,Lecturer,JOUR,Master's,67.0,2,4,female,4000
+570,Elizabeth Griffith,4.3597,2.7,Senior Lecturer,CMNS,Ph.D,33.0,142,18,female,72000
+571,Elizabeth Honig,2.25,2.81,Professor,ARHU,Ph.D,65.0,4,16,female,80000
+572,Elizabeth Marshall,3.8,3.48,Lecturer,ARHU,Master's,63.0,6,15,female,40000
+573,Elizabeth Martinez,3.0,3.31,Lecturer,EDUC,Master's,39.0,5,21,female,126000
+574,Elizabeth Massey,5.0,3.72,Assistant Clinical Professor,SVPA,Ph.D,35.0,1,10,female,74000
+575,Elizabeth Papazian,5.0,3.12,Associate Professor,ARHU,Ph.D,56.0,2,47,female,103000
+576,Elizabeth Redcay,5.0,3.43,Professor,BSOS,Ph.D,46.0,3,17,female,209000
+577,Elizabeth Schechter,3.3,2.76,Associate Professor,ARHU,Ph.D,46.0,10,8,female,132000
+578,Elke Frederiksen,4.5,3.02,Professor Emerita,ARHU,Ph.D,85.0,2,17,female,136000
+579,Ellen Lau,4.75,3.6,Associate Professor,ARHU,Ph.D,44.0,4,27,female,136000
+580,Ellen Williams,2.0,3.43,Distinguished University Professor Emerita,CMNS,Ph.D,71.0,1,3,female,109000
+581,Emanuel Zur,4.75,2.41,Associate Professor,BMGT,Bachelor's,45.0,4,15,male,412000
+582,Emily Becker,5.0,3.35,Lecturer,CMNS,Ph.D,50.0,2,2,female,9000
+583,Emily Bruns,4.8571,3.38,Assistant Professor,CMNS,Ph.D,42.0,14,10,female,118000
+584,Emily Conover,5.0,3.54,Senior Lecturer,ARHU,Master's,62.0,7,20,female,57000
+585,Emily Egan,4.1579,3.11,Assistant Professor,ARHU,Ph.D,45.0,19,20,female,94000
+586,Emily Flamm,4.3333,3.28,Senior Lecturer,ARHU,Master's,43.0,3,10,female,136000
+587,Emily Mitchell,3.5,3.63,Associate Professor,ARHU,Master's,50.0,4,17,female,110000
+588,Emily Shetty,4.6667,3.66,Lecturer,UGST,Bachelor's,42.0,3,4,female,9000
+589,Eni Baballari,3.75,3.14,Lecturer,AGNR,Master's,31.0,8,15,female,81000
+590,Eric Adler,3.8333,3.16,Professor and Chair,ARHU,Ph.D,52.0,6,21,male,206000
+591,Eric Bond,5.0,3.34,Lecturer,ARHU,Master's,59.0,3,11,male,40000
+592,Eric Dunning,4.8125,3.67,Senior Lecturer,AGNR,Ph.D,53.0,16,13,male,77000
+593,Eric Haag,2.3571,2.91,Professor,CMNS,Ph.D,57.0,28,14,male,182000
+594,Eric Hoover,5.0,3.83,Assistant Professor,BSOS,Ph.D,45.0,1,13,male,118000
+595,Eric Kasischke,4.0,3.04,Professor Emeritus,BSOS,Ph.D,73.0,1,3,male,136000
+596,Eric Pacuit,4.7,2.19,Professor,ARHU,Ph.D,49.0,10,43,male,157000
+597,Eric Slud,2.5,2.51,Professor,CMNS,Ph.D,75.0,4,17,male,101000
+598,Eric Thiel,4.1429,3.66,Senior Lecturer,ARHU,Master's,49.0,7,7,male,45000
+599,Eric Uslaner,1.6,2.99,Professor Emeritus,BSOS,Ph.D,79.0,5,8,male,136000
+600,Eric Wachsman,2.0,3.0,Distinguished University Professor and Director,ENGR,Ph.D,65.0,1,10,male,429000
+601,Eric Wish,3.1951,3.34,Associate Professor,BSOS,Ph.D,79.0,41,8,male,150000
+602,Eric Zakim,2.25,3.0,Associate Professor,ARHU,Ph.D,65.0,8,76,male,104000
+603,Erica Cochran,3.25,3.03,Lecturer,ARHU,Master's,32.0,13,11,female,79000
+604,Erich Studer-Ellis,4.3708,2.65,Senior Lecturer,BMGT,Ph.D,66.0,89,12,male,181000
+605,Erik Lichtenberg,4.0,1.84,Professor,AGNR,Ph.D,74.0,2,36,male,230000
+606,Erika Moore,5.0,3.87,Assistant Professor,ENGR,Ph.D,34.0,1,3,female,136000
+607,Erin Molloy,5.0,3.19,Assistant Professor,CMNS,Ph.D,36.0,5,7,female,148000
+608,Erin Moody,4.0702,2.82,Senior Lecturer,BSOS,Ph.D,40.0,58,13,female,171000
+609,Erin Mosely,4.1667,2.94,Assistant Professor,ARHU,Ph.D,44.0,6,16,female,100000
+610,Erin Tran,3.25,3.34,Senior Lecturer,CMNS,Ph.D,46.0,29,15,female,101000
+611,Erkut Ozbay,3.1667,2.46,Professor,BSOS,Ph.D,49.0,6,15,male,268000
+612,Ernesto Calvo,3.0,3.66,Professor,BSOS,Ph.D,57.0,2,19,male,229000
+613,Esthus Amos,2.75,3.4,Lecturer,ARHU,Bachelor's,50.0,4,6,male,38000
+614,Ethan Kaplan,3.7,1.73,Associate Professor,BSOS,Ph.D,55.0,10,17,male,159000
+615,Eugene Cantor,4.9,3.33,Associate Clinical Professor,BMGT,Bachelor's,75.0,10,24,male,143000
+616,Eugenia Lao,1.5,2.59,Lecturer,ARHU,Ph.D,51.0,6,12,female,14000
+617,Eun-Suk Seo,3.2222,2.35,Professor,CMNS,Ph.D,63.0,10,22,female,239000
+618,Eusebia Mont,3.5,2.07,Associate Clinical Professor,BSOS,Master's,47.0,2,21,female,136000
+619,Eva Hageman,4.2,3.55,Assistant Professor,ARHU,Ph.D,42.0,7,21,female,94000
+620,Evan Golub,2.3587,3.17,Principal Lecturer,CMNS,Ph.D,56.0,92,29,male,143000
+621,Evan Starr,5.0,2.65,Associate Professor,BMGT,Ph.D,40.0,4,18,male,327000
+622,Evelyn Canabal-Torres,3.7857,3.01,Principal Lecturer,ARHU,Ph.D,65.0,15,26,female,71000
+623,Eyad Abed,4.3333,2.78,Professor,ENGR,Ph.D,68.0,9,11,male,304000
+624,Eyda Merediz,3.0,2.71,Associate Professor,ARHU,Ph.D,58.0,6,20,female,124000
+625,Fabrizio Cariani,3.5,2.55,Professor,ARHU,Ph.D,44.0,8,17,male,198000
+626,Fanita Tyrell,3.8,3.61,Assistant Professor,BSOS,Ph.D,41.0,15,13,female,117000
+627,Fardina Alam,4.05,3.72,Lecturer,CMNS,Ph.D,34.0,43,12,female,140000
+628,Fatima Quander,5.0,3.63,Lecturer,ARHU,Master's,46.0,7,25,female,80000
+629,Fernando Rios,4.0,3.45,Associate Professor,ARHU,Ph.D,58.0,23,22,male,108000
+630,Foon Sham,3.5,3.55,Professor,ARHU,Master's,69.0,8,36,male,128000
+631,Frances Lee,4.6667,3.35,Professor Emerita,BSOS,Ph.D,56.0,3,6,female,136000
+632,Francesca Polito,4.25,3.67,Lecturer,INFO,Master's,27.0,7,11,female,55000
+633,Francis McCluskey,4.6667,2.41,Professor,ENGR,Ph.D,63.0,3,13,male,237000
+634,Francisco Barrenechea,4.625,3.38,Associate Professor,ARHU,Ph.D,51.0,16,58,male,113000
+635,Franklin Hildy,2.0,3.4,Professor,ARHU,Ph.D,72.0,2,48,female,130000
+636,Frederick Wellstood,4.3333,3.22,Professor Emeritus,CMNS,Ph.D,68.0,18,10,male,136000
+637,Furong Huang,3.1667,3.68,Assistant Professor,CMNS,Ph.D,37.0,6,10,female,110000
+638,Gabrielle Fuentes,3.8333,3.49,Associate Professor,ARHU,Ph.D,39.0,6,15,female,112000
+639,Galina Reitz,5.0,3.85,Senior Lecturer,INFO,Ph.D,39.0,4,12,female,178000
+640,Gananand Kini,4.0,3.36,Lecturer,ENGR,Master's,41.0,1,8,male,20000
+641,Ganesh Sriram,3.2143,3.32,Associate Professor,ENGR,Ph.D,50.0,29,24,male,198000
+642,Gang Qu,2.9167,3.3,Professor,ENGR,Ph.D,55.0,24,21,male,244000
+643,Garegin Papoian,2.875,2.16,Professor,CMNS,Ph.D,53.0,8,15,male,94000
+644,Gary Bulmash,4.8235,3.03,Clinical Professor Emeritus,BMGT,Master's,81.0,17,13,male,136000
+645,Gary Coleman,3.0,3.54,Associate Professor,AGNR,Ph.D,69.0,2,10,male,161000
+646,Gary Rubloff,4.0,3.65,Distinguished University Professor,ENGR,Ph.D,81.0,1,10,male,281000
+647,Ge Gao,2.4,3.41,Assistant Professor,INFO,Ph.D,40.0,5,16,male,155000
+648,Geetha Ramani,4.3333,3.19,Professor,EDUC,Ph.D,49.0,3,16,female,187000
+649,Gemirald Daus,1.5,2.86,Lecturer,UGST,Master's,59.0,2,12,male,5000
+650,Geoffrey Milsom,4.4286,3.71,Lecturer,BMGT,Master's,42.0,7,18,male,22000
+651,George Hambrecht,4.5625,3.38,Associate Professor,BSOS,Ph.D,52.0,16,41,male,122000
+652,George Hurtt,1.5,3.07,Professor and Associate Chair,BSOS,Ph.D,57.0,23,12,male,270000
+653,George Kintiba,2.5833,3.54,Lecturer,BSOS,Ph.D,56.0,25,32,male,79000
+654,George Kurtzweil,5.0,3.84,Lecturer,AGNR,Master's,52.0,41,7,male,72000
+655,George Lorimer,2.5,2.35,Distinguished University Professor Emeritus,CMNS,Ph.D,82.0,10,3,male,136000
+656,George Zaki,3.0,3.08,Lecturer,ENGR,Ph.D,42.0,2,14,male,39000
+657,Georgeanne Matthews,5.0,3.53,Assistant Professor,ARCH,Ph.D,52.0,1,10,female,114000
+658,Georges Rey,3.3333,1.26,Professor,ARHU,Ph.D,77.0,6,19,male,145000
+659,GerShun Avilez,5.0,3.08,Professor and Associate Dean,ARHU,Ph.D,45.0,3,15,male,314000
+660,Gerald Borgia,1.6875,3.12,Professor,CMNS,Ph.D,77.0,16,23,male,64000
+661,Gerald Wilkinson,2.2,3.26,Professor,CMNS,Ph.D,70.0,5,17,male,264000
+662,Gerard Holmes,4.8333,3.54,Lecturer,ARHU,Ph.D,58.0,6,15,male,83000
+663,Gerard Kunkel,4.75,3.74,Lecturer,ARHU,Bachelor's,72.0,4,30,male,27000
+664,Gerard Passannante,4.4545,3.42,Professor,ARHU,Ph.D,47.0,11,23,male,137000
+665,Gianna Valentino,5.0,3.22,Assistant Professor,ENGR,Ph.D,33.0,1,3,female,122000
+666,Gideon Mark,4.1333,3.23,Associate Professor,BMGT,Master's,68.0,15,6,male,247000
+667,Gilad Chen,5.0,3.38,Professor and Associate Dean,BMGT,Ph.D,51.0,1,19,male,468000
+668,Ginette Eldredge,3.6,2.99,Lecturer,ARHU,Ph.D,53.0,10,22,female,34000
+669,Ginger Jin,5.0,1.77,Professor,BSOS,Ph.D,55.0,4,14,female,294000
+670,Giovanni Baiocchi,5.0,3.66,Professor,BSOS,Ph.D,56.0,4,22,male,158000
+671,Giovanni Forni,1.9412,2.69,Professor,CMNS,Ph.D,59.0,17,21,male,219000
+672,Giuliano Scarcelli,3.5455,3.34,Associate Professor,ENGR,Ph.D,46.0,11,15,male,231000
+673,Gottlieb Oehrlein,2.0,3.04,Professor,ENGR,Ph.D,71.0,2,12,male,181000
+674,Greg Metcalf,5.0,3.25,Lecturer,ARHU,Ph.D,68.0,1,32,male,38000
+675,Greg Midgette,3.0,3.26,Associate Professor,BSOS,Ph.D,43.0,12,12,male,162000
+676,Gregg Duncan,5.0,3.13,Associate Professor,ENGR,Ph.D,38.0,4,13,male,202000
+677,Gregory Baecher,4.3333,3.37,Professor,ENGR,Ph.D,79.0,3,29,male,265000
+678,Gregory Bucher,4.75,3.28,Principal Lecturer,ARHU,Ph.D,50.0,4,33,male,74000
+679,Gregory Marr,2.2813,3.19,Lecturer,BMGT,Master's,44.0,37,24,male,103000
+680,Gregory Ramsay,4.3,3.26,Lecturer,PLCY,Ph.D,72.0,10,9,male,136000
+681,Gregory Staley,4.3889,3.25,Professor Emeritus,ARHU,Ph.D,77.0,18,23,male,12000
+682,Gregory Sullivan,4.0,3.28,Professor,CMNS,Ph.D,64.0,6,14,male,350000
+683,Gretchen Horlacher,5.0,2.96,Associate Professor and Associate Director,ARHU,Ph.D,63.0,3,20,female,117000
+684,Guangbin Li,2.6667,3.13,Assistant Professor,ENGR,Ph.D,38.0,3,14,male,147000
+685,Guiling Hu,5.0,3.32,Senior Lecturer,ARHU,Ph.D,49.0,7,39,female,95000
+686,Hadiya Woodham,3.5,3.58,Senior Lecturer,CMNS,Ph.D,49.0,2,32,female,147000
+687,Hailu Gebremariam,3.2222,2.46,Lecturer,CMNS,Ph.D,55.0,95,25,male,133000
+688,Haizhao Yang,3.875,2.61,Associate Professor,CMNS,Ph.D,37.0,8,5,male,210000
+689,Halli Weiner,5.0,3.63,Assistant Clinical Professor,SVPA,Ph.D,37.0,4,19,female,91000
+690,Hallie Liberto,2.8571,2.86,Professor,ARHU,Ph.D,43.0,43,14,female,157000
+691,Haluk Unal,2.0,3.38,Professor,BMGT,Ph.D,74.0,3,22,male,311000
+692,Hamil Harris,5.0,3.66,Lecturer,JOUR,Bachelor's,64.0,4,5,male,9000
+693,Hanan Samet,1.7857,2.64,Distinguished University Professor,CMNS,Ph.D,77.0,14,8,male,393000
+694,Hananya Cohen,4.25,3.79,Lecturer,INFO,Bachelor's,51.0,12,3,male,11000
+695,Hannah Wegmann,5.0,3.24,Assistant Clinical Professor,ARHU,Ph.D,38.0,1,17,female,71000
+696,Harjit Bhogal,4.8182,2.4,Associate Professor,ARHU,Ph.D,39.0,12,18,male,112000
+697,Harry Tamvakis,4.0909,2.79,Professor,CMNS,Ph.D,57.0,11,19,male,158000
+698,Hassan Ibrahim,3.05,3.64,Clinical Professor,BMGT,Bachelor's,67.0,20,31,male,257000
+699,Hatice Sahinoglu,2.6129,2.49,Senior Lecturer,CMNS,Ph.D,42.0,95,34,female,102000
+700,Hayim Lapin,2.8,2.65,Professor,ARHU,Ph.D,61.0,10,51,male,128000
+701,Heather McHale,4.75,3.27,Principal Lecturer,AGNR,Ph.D,46.0,4,33,female,117000
+702,Heather Mehrtens,5.0,0.0,Lecturer,EDUC,Master's,38.0,1,20,female,68000
+703,Heather-Erin Bremenstuhl,2.3636,3.57,Senior Lecturer,ARHU,Master's,44.0,11,31,male,89000
+704,Hector Alcala,4.0,3.53,Assistant Professor,SPHL,Bachelor's,38.0,2,10,male,126000
+705,Hee-Jung Song,3.6923,3.18,Associate Professor,AGNR,Ph.D,55.0,14,20,female,136000
+706,Heera Lee,4.0,3.79,Lecturer,INFO,Ph.D,39.0,1,12,female,109000
+707,Heidi Scott,4.375,3.54,Associate Clinical Professor,SPHL,Ph.D,46.0,8,18,female,81000
+708,Henry Willis,4.6667,3.79,Assistant Professor,BSOS,Ph.D,34.0,4,2,male,144000
+709,Hernisa Kacorri,5.0,3.22,Associate Professor,INFO,Ph.D,40.0,2,13,female,196000
+710,Herve Campangne,5.0,3.38,Professor,ARHU,Ph.D,63.0,5,20,male,124000
+711,Herve Franceschi,4.0233,2.89,Senior Lecturer,CMNS,Master's,65.0,43,12,male,157000
+712,Hester Baer,5.0,3.04,Professor,ARHU,Ph.D,55.0,1,50,female,125000
+713,Heven Sze,2.0,3.18,Professor Emerita,CMNS,Ph.D,79.0,4,10,female,136000
+714,Hilary Bierman,1.375,3.85,Senior Lecturer,CMNS,Ph.D,40.0,9,24,female,147000
+715,Holly Brewer,1.6,2.77,Associate Professor,ARHU,Ph.D,61.0,15,26,female,165000
+716,Holly Smith,4.0,3.47,Lecturer,ARHU,Master's,54.0,4,7,female,29000
+717,Hong Jiao,3.0,3.48,Professor,EDUC,Ph.D,58.0,1,15,female,227000
+718,Hongyi Zhang,4.0,3.69,Senior Lecturer,BMGT,Master's,58.0,4,19,male,165000
+719,Hosam Fathy,4.1364,3.13,Professor,ENGR,Ph.D,50.0,22,17,male,234000
+720,Hossein Abbasi,3.7195,3.02,Senior Lecturer,BSOS,Ph.D,53.0,84,23,male,128000
+721,Howard Elman,3.5,2.71,Professor,CMNS,Ph.D,72.0,4,35,male,236000
+722,Howard Leathers,3.8333,2.76,Associate Professor Emeritus,AGNR,Ph.D,73.0,12,9,male,136000
+723,Howard Milchberg,3.1053,3.43,Professor,CMNS,Ph.D,68.0,19,18,male,314000
+724,Howard Norman,4.0,3.96,Professor Emeritus,ARHU,Master's,75.0,1,4,male,136000
+725,Howard Smead,4.4906,3.21,Principal Lecturer,ARHU,Ph.D,77.0,56,35,male,136000
+726,Huaishu Peng,5.0,3.71,Assistant Professor,CMNS,Ph.D,37.0,2,14,male,203000
+727,Hui Liao,3.2,2.76,Professor,BMGT,Ph.D,50.0,5,17,female,387000
+728,Humberto Coronado,3.8,3.28,Senior Lecturer,BMGT,Master's,35.0,12,25,male,211000
+729,Huy Nguyen,5.0,2.86,Assistant Professor,CMNS,Ph.D,35.0,14,8,male,156000
+730,Hyunki Kim,3.4444,3.33,Lecturer,BSOS,Ph.D,32.0,10,11,male,55000
+731,I Suadin,5.0,3.75,Lecturer,ARHU,Bachelor's,62.0,4,14,male,6000
+732,Ian Miers,2.0,3.23,Assistant Professor,CMNS,Ph.D,37.0,1,12,male,147000
+733,Ian White,4.5,3.29,Professor and Associate Chair,ENGR,Ph.D,50.0,10,20,male,276000
+734,Ichiro Takeuchi,4.0,3.01,Professor,ENGR,Ph.D,60.0,3,33,male,322000
+735,Idil Yaveroglu,4.7,3.54,Associate Clinical Professor,BMGT,Ph.D,52.0,11,25,female,138000
+736,Il-Horn Hann,2.0,2.1,Professor,BMGT,Ph.D,53.0,1,18,male,275000
+737,Ilai Saltzman,4.3333,3.6,Assistant Research Professor,ARHU,Ph.D,44.0,12,29,male,136000
+738,Ilchul Yoon,2.4085,2.41,Lecturer,CMNS,Ph.D,48.0,155,22,male,137000
+739,Ilya Ryzhov,2.0,3.1,Professor and Chair,BMGT,Ph.D,43.0,4,14,male,136000
+740,Inderjit Chopra,1.0,3.51,Distinguished University Professor,ENGR,Bachelor's,82.0,2,13,male,419000
+741,Ingrid Satelmajer,4.1111,3.58,Lecturer,UGST,Ph.D,55.0,20,18,female,46000
+742,Inna Hardman,5.0,3.46,Lecturer,ARHU,Master's,58.0,9,14,female,56000
+743,Iqbal Hamza,4.125,1.88,Professor,AGNR,Ph.D,58.0,8,7,male,306000
+744,Ira Chinoy,5.0,3.74,Associate Professor,JOUR,Ph.D,70.0,9,8,female,41000
+745,Irene Pantelis,4.75,3.69,Lecturer,ARHU,Master's,54.0,4,14,female,21000
+746,Irene Pasquetto,5.0,3.42,Assistant Professor,INFO,Ph.D,38.0,2,3,female,119000
+747,Isaak Mayergoyz,5.0,3.46,Distinguished University Professor,ENGR,Bachelor's,84.0,6,7,male,393000
+748,Isabel Lloyd,2.0769,3.29,Associate Professor,ENGR,Ph.D,72.0,26,22,female,145000
+749,Isabelle Gournay,1.5,3.48,Associate Professor Emerita,ARCH,Ph.D,67.0,4,11,female,136000
+750,Jack Blanchard,4.3333,2.96,Professor and Associate Provost,SVPA,Ph.D,63.0,3,14,male,464000
+751,Jaclyn Bruner,4.75,3.49,Assistant Clinical Professor,SVPA,Ph.D,37.0,8,25,female,76000
+752,Jacob Coutts,4.5385,3.68,Lecturer,BSOS,Ph.D,29.0,15,10,male,120000
+753,Jacob Wenegrat,5.0,3.01,Assistant Professor,CMNS,Ph.D,41.0,4,15,male,171000
+754,Jacqueline Wallen,3.1667,2.99,Associate Professor Emerita,SPHL,Ph.D,82.0,6,3,female,136000
+755,Jade Olson,4.8889,3.17,Associate Clinical Professor,ARHU,Ph.D,38.0,18,24,female,90000
+756,Jaime Madden,4.75,3.36,Lecturer,ARHU,Ph.D,42.0,8,28,male,35000
+757,Jamaal Abdul-Alim,3.6667,2.84,Lecturer,JOUR,Bachelor's,51.0,4,2,male,4000
+758,James Archsmith,3.3333,3.44,Assistant Professor,AGNR,Master's,48.0,6,26,male,161000
+759,James Baeder,2.0,3.32,Professor,ENGR,Ph.D,64.0,1,24,male,250000
+760,James Carton,5.0,3.56,Professor,CMNS,Ph.D,71.0,4,19,male,141000
+761,James Conway,4.4691,2.68,Lecturer,CMNS,Ph.D,38.0,81,19,male,97000
+762,James Culver,5.0,3.58,Professor,SVPA,Ph.D,62.0,3,16,male,182000
+763,James Drake,3.6452,3.0,Distinguished University Professor,CMNS,Ph.D,78.0,31,15,male,312000
+764,James Farquhar,2.5333,3.49,Distinguished University Professor and Chair,CMNS,Ph.D,60.0,15,14,male,362000
+765,James Gimpel,3.6,3.41,Professor,BSOS,Ph.D,63.0,10,21,male,230000
+766,James Glass,3.7778,3.5,Professor Emeritus,BSOS,Ph.D,86.0,18,31,male,136000
+767,James Grand,5.0,3.56,Associate Professor,BSOS,Ph.D,41.0,3,17,male,159000
+768,James Green,3.2848,3.56,Clinical Professor,ENGR,Master's,50.0,180,43,male,344000
+769,James Hagberg,4.0,3.45,Professor,SPHL,Ph.D,75.0,5,29,male,262000
+770,James Hanson,2.9394,3.05,Professor Emeritus,AGNR,Ph.D,75.0,33,17,male,45000
+771,James Hunt,4.6667,3.12,Lecturer,CMNS,Master's,60.0,9,14,male,20000
+772,James McKinney,2.9355,3.39,Clinical Professor,BMGT,Ph.D,66.0,31,27,male,206000
+773,James Milke,5.0,3.38,Professor Emeritus,ENGR,Ph.D,73.0,3,30,male,35000
+774,James Purtilo,2.8095,3.52,Associate Professor,CMNS,Ph.D,69.0,21,18,male,309000
+775,James Rainbolt,2.5429,2.33,Lecturer,CMNS,Ph.D,45.0,105,11,male,40000
+776,James Reggia,4.0909,3.14,Professor Emeritus,CMNS,Ph.D,76.0,11,9,male,136000
+777,James Schafer,3.625,2.66,Professor Emeritus,CMNS,Ph.D,86.0,8,16,male,22000
+778,James Seward,5.0,3.37,Lecturer,BMGT,Ph.D,71.0,4,27,male,121000
+779,James Stillwell,4.8,3.63,Associate Clinical Professor,PLCY,Master's,41.0,5,8,male,145000
+780,Jamie Trevitt,2.7778,3.39,Assistant Clinical Professor,SPHL,Ph.D,44.0,9,13,male,136000
+781,Jamila Moore-Pewu,1.0,2.78,Assistant Professor,ARHU,Ph.D,44.0,5,12,female,92000
+782,Jandelyn Plane,3.0,3.48,Principal Lecturer Emerita,CMNS,Ph.D,60.0,36,16,female,136000
+783,Jane Donawerth,3.3333,3.18,Professor Emerita,ARHU,Ph.D,78.0,6,10,female,136000
+784,Janelle Wong,4.8182,3.37,Professor and Director,UGST,Ph.D,52.0,11,39,female,305000
+785,Janet Chernela,3.0,2.89,Professor Emerita,BSOS,Ph.D,82.0,1,24,female,136000
+786,Janet Shim,4.3333,3.55,Lecturer,ARHU,Master's,50.0,3,2,female,33000
+787,Janet Wagner,1.5,3.37,Associate Professor Emerita,BMGT,Ph.D,77.0,4,7,female,136000
+788,Janice Reutt-Robey,2.0,1.73,Professor and Chair,CMNS,Ph.D,67.0,10,6,female,136000
+789,Janna Bianchini,3.5882,2.7,Associate Professor,ARHU,Ph.D,48.0,17,35,female,112000
+790,Janna Soeder,3.9444,3.5,Senior Lecturer,ARHU,Ph.D,38.0,18,24,female,76000
+791,Jared Novick,5.0,3.62,Associate Professor,BSOS,Ph.D,49.0,13,21,male,150000
+792,Jared Wilmoth,5.0,3.9,Assistant Professor,AGNR,Ph.D,41.0,1,25,male,104000
+793,Jarred Young,3.4651,3.37,Senior Lecturer,ENGR,Ph.D,38.0,43,33,male,111000
+794,Jason Aston,5.0,3.44,Lecturer,INFO,Master's,44.0,6,23,male,101000
+795,Jason Blazakis,5.0,3.61,Lecturer,BSOS,Master's,50.0,3,9,male,7000
+796,Jason Choi,5.0,3.51,Assistant Professor,BMGT,Ph.D,35.0,1,12,male,136000
+797,Jason Farman,4.5,3.47,Professor and Associate Dean,GRAD,Ph.D,47.0,6,23,male,178000
+798,Jason Kahn,3.3226,2.6,Associate Professor,CMNS,Ph.D,64.0,36,28,male,124000
+799,Jason Kass,4.4,3.31,Senior Lecturer,ARHU,Ph.D,44.0,11,15,male,35000
+800,Jason Kuo,4.3333,3.57,Professor,ARHU,Ph.D,76.0,6,83,male,188000
+801,Jason Nichols,2.8462,3.15,Senior Lecturer,BSOS,Ph.D,47.0,26,34,male,98000
+802,Jason Rudy,3.6,3.41,Professor,ARHU,Ph.D,50.0,10,26,male,150000
+803,Jay Goldstein,2.2857,3.21,Senior Lecturer,SPHL,Ph.D,61.0,7,29,male,84000
+804,Jay Wilcox,5.0,3.47,Lecturer,ARHU,Master's,35.0,8,11,male,136000
+805,Jean McGloin,3.6667,3.17,Professor and Associate Dean,BSOS,Ph.D,48.0,3,9,female,264000
+806,Jeannette Schollaert,3.25,3.12,Lecturer,ARHU,Master's,32.0,8,10,female,11000
+807,Jeff MacSwan,5.0,3.32,Professor,EDUC,Ph.D,63.0,1,27,male,178000
+808,Jeff Miller,4.027,3.23,Senior Lecturer,BMGT,Bachelor's,56.0,120,21,male,224000
+809,Jeffery Davis,4.6842,3.38,Professor,CMNS,Ph.D,66.0,57,23,male,168000
+810,Jeffery Klauda,2.3333,3.08,Professor,ENGR,Ph.D,49.0,6,16,male,189000
+811,Jeffrey Adams,4.4444,2.93,Professor Emeritus,CMNS,Ph.D,70.0,9,18,male,136000
+812,Jeffrey Beans,1.6957,3.1,Lecturer,SPHL,Bachelor's,42.0,24,9,male,17000
+813,Jeffrey DeStefano,4.0,3.32,Professor,CMNS,Ph.D,64.0,2,16,male,175000
+814,Jeffrey Foster,4.5556,2.32,Adjunct Professor,CMNS,Ph.D,52.0,9,5,male,136000
+815,Jeffrey Harring,4.0,3.1,Professor,EDUC,Ph.D,61.0,1,19,male,209000
+816,Jeffrey Herf,5.0,2.83,Distinguished University Professor Emeritus,ARHU,Ph.D,78.0,8,19,male,136000
+817,Jeffrey Lawrence,4.0,3.93,Lecturer,BMGT,Master's,58.0,5,3,male,28000
+818,Jeffrey Lidz,4.25,3.5,Professor,ARHU,Ph.D,57.0,4,40,male,300000
+819,Jeffrey Lucas,5.0,3.44,Professor and Chair,BSOS,Ph.D,55.0,8,18,male,303000
+820,Jeffrey Milton,3.9091,3.46,Associate Clinical Professor,BMGT,Bachelor's,79.0,11,38,male,169000
+821,Jeffrey Mund,4.5439,2.63,Lecturer,BMGT,Master's,45.0,57,20,male,202000
+822,Jeffrey Parsells-Johnson,3.0714,3.02,Lecturer,BSOS,Ph.D,41.0,56,16,male,66000
+823,Jeffrey Shultz,2.3333,3.6,Associate Professor,CMNS,Ph.D,65.0,3,10,male,153000
+824,Jelena Srebric,5.0,3.13,Professor,ENGR,Ph.D,53.0,1,16,female,276000
+825,Jenna Mueller,5.0,3.83,Assistant Professor,ENGR,Ph.D,38.0,1,13,female,170000
+826,Jennie Lee-Kim,4.8333,3.55,Assistant Clinical Professor,EDUC,Ph.D,53.0,6,25,female,147000
+827,Jennifer Amilivia,3.8,3.72,Assistant Clinical Professor,EDUC,Ph.D,38.0,6,24,female,114000
+828,Jennifer Ashlock,2.3462,3.04,Lecturer,BSOS,Ph.D,51.0,28,12,female,55000
+829,Jennifer Cho,4.875,3.71,Lecturer,UGST,Ph.D,44.0,8,28,female,90000
+830,Jennifer German,5.0,3.59,Lecturer,SPHL,Ph.D,42.0,6,34,female,85000
+831,Jennifer Golbeck,4.0,3.56,Professor,INFO,Ph.D,48.0,17,57,female,259000
+832,Jennifer Gunnulfsen,4.2727,3.36,Lecturer,AGNR,Master's,55.0,11,18,female,65000
+833,Jennifer Hsin,4.5,3.73,Lecturer,UGST,Bachelor's,49.0,4,8,female,40000
+834,Jennifer Manly,4.8824,3.52,Lecturer,CMNS,Bachelor's,36.0,17,13,female,26000
+835,Jennifer McCatharn,5.0,3.84,Visiting Assistant Clinical Professor,EDUC,Ph.D,37.0,1,15,female,79000
+836,Jennifer Mullinax,1.0,3.76,Associate Professor,AGNR,Ph.D,49.0,1,33,female,166000
+837,Jennifer Roberts,4.0,3.33,Associate Professor,SPHL,Bachelor's,51.0,1,19,female,168000
+838,Jennifer Sturge,5.0,3.66,Lecturer,INFO,Master's,53.0,1,14,female,9000
+839,Jennifer Wallace,3.7,3.37,Senior Lecturer,BSOS,Ph.D,45.0,10,31,female,142000
+840,Jennifer Wessel,5.0,3.6,Associate Professor,BSOS,Ph.D,41.0,4,15,female,154000
+841,Jens Herberholz,4.5,3.28,Professor and Associate Chair,BSOS,Ph.D,55.0,2,16,male,203000
+842,Jeremy Grossman,4.7692,3.43,Lecturer,ARHU,Ph.D,39.0,13,6,male,28000
+843,Jeremy Simmons,4.3,2.84,Assistant Professor,ARHU,Ph.D,34.0,10,11,male,102000
+844,Jeron Davis,4.4,3.58,Lecturer,BMGT,Bachelor's,32.0,5,3,male,14000
+845,Jerrold Levinson,2.75,2.1,Distinguished University Professor Emeritus,ARHU,Ph.D,78.0,4,13,male,136000
+846,Jerry Wu,3.5,3.39,Lecturer,ENGR,Ph.D,54.0,14,40,male,139000
+847,Jesse Brooks,4.3333,3.41,Lecturer,ARHU,Master's,36.0,6,25,male,58000
+848,Jesse Kellner,3.875,3.37,Lecturer,BMGT,Master's,31.0,8,5,male,17000
+849,Jesse Klein,4.6923,3.74,Lecturer,INFO,Ph.D,37.0,15,19,male,173000
+850,Jesse Saginor,5.0,3.38,Associate Professor,ARCH,Bachelor's,50.0,2,9,male,172000
+851,Jessica Fish,5.0,2.86,Associate Professor,SPHL,Ph.D,39.0,1,7,female,168000
+852,Jessica Goldberg,5.0,1.9,Associate Professor,BSOS,Ph.D,46.0,2,17,female,210000
+853,Jessica Grimmer,3.7778,3.47,Lecturer,INFO,Ph.D,36.0,9,9,female,101000
+854,Jessica Lu,3.3333,3.61,Lecturer,ARHU,Ph.D,36.0,7,25,female,98000
+855,Jessica McKechnie,5.0,2.86,Assistant Clinical Professor,EDUC,Ph.D,44.0,2,20,female,103000
+856,Jessica Morabito,3.25,3.15,Lecturer,BSOS,Master's,32.0,44,21,female,75000
+857,Jessica O'Hara,5.0,3.75,Assistant Clinical Professor,SVPA,Ph.D,40.0,12,36,female,126000
+858,Jessica Sunshine,4.7273,3.14,Professor,CMNS,Ph.D,59.0,11,11,female,232000
+859,Jessica Vitak,3.0,3.41,Professor,INFO,Ph.D,45.0,4,33,female,207000
+860,Jia-Bin Huang,2.2143,2.54,Associate Professor,CMNS,Ph.D,41.0,16,6,male,224000
+861,Jian Wang,1.0,3.42,Associate Professor,CMNS,Ph.D,63.0,2,7,female,310000
+862,Jie Zhang,4.5455,3.63,Professor,BMGT,Ph.D,55.0,11,18,male,338000
+863,Jim Golden,2.7436,3.49,Lecturer,ARHU,Master's,64.0,39,2,male,70000
+864,Jin-Oh Hahn,5.0,3.8,Professor,ENGR,Ph.D,50.0,1,16,male,238000
+865,Jing Cai,5.0,3.58,Associate Professor,AGNR,Ph.D,43.0,3,27,male,192000
+866,Jing Lin,3.0,3.59,Professor,EDUC,Master's,64.0,1,28,female,170000
+867,Jingyi Qian,5.0,3.52,Assistant Professor,BMGT,Ph.D,32.0,8,1,female,284000
+868,Jinhee Kim,3.0,3.01,Professor and Associate Dean,AGNR,Ph.D,54.0,1,3,female,298000
+869,Jinwoo Lee,2.6316,3.15,Assistant Professor,CMNS,Ph.D,41.0,19,9,male,152000
+870,Jiqiang Ling,5.0,3.62,Associate Professor,CMNS,Ph.D,44.0,2,8,male,199000
+871,Jiyoun Kim,2.5,3.41,Associate Professor,ARHU,Ph.D,44.0,2,14,female,136000
+872,Jo Paoletti,3.0,2.99,Professor Emerita,ARHU,Ph.D,76.0,1,10,female,136000
+873,Jo Zimmerman,4.3333,3.7,Senior Lecturer,SPHL,Master's,53.0,3,38,female,119000
+874,Joan Kahn,3.0,3.19,Professor Emerita,BSOS,Ph.D,69.0,5,11,female,136000
+875,Joan Mooney,2.0,2.84,Lecturer,ARHU,Bachelor's,70.0,6,1,female,29000
+876,Joan Ren,5.0,3.02,Professor,CMNS,Ph.D,65.0,1,22,female,176000
+877,Joanna Goger,4.8947,3.62,Principal Lecturer,AGNR,Bachelor's,52.0,19,26,female,107000
+878,Joanne Klossner,4.5,3.49,Senior Lecturer,SPHL,Ph.D,54.0,4,27,female,91000
+879,Joannie Tremblay-Boire,2.4545,2.97,Assistant Professor,PLCY,Ph.D,40.0,11,12,female,146000
+880,Joel Chan,5.0,3.61,Assistant Professor,INFO,Ph.D,38.0,11,22,male,136000
+881,Joel Cohen,2.4211,2.57,Professor Emeritus,CMNS,Ph.D,84.0,19,9,male,136000
+882,Joelle Presson,4.1333,3.72,Assistant Dean,CMNS,Ph.D,73.0,15,10,female,76000
+883,Johan Larsson,4.6667,3.02,Professor,ENGR,Ph.D,48.0,3,23,male,136000
+884,Johanna Birnir,3.0667,3.43,Professor,BSOS,Ph.D,54.0,30,16,female,202000
+885,John Aloimonos,2.2963,3.73,Professor,CMNS,Ph.D,66.0,27,27,male,220000
+886,John Auchard,4.25,2.78,Professor Emeritus,ARHU,Ph.D,77.0,16,5,male,136000
+887,John Baras,1.0,3.52,Distinguished University Professor,ENGR,Ph.D,77.0,3,24,male,435000
+888,John Bono,3.8537,2.44,Associate Clinical Professor,BMGT,Bachelor's,46.0,41,39,male,360000
+889,John Brown,3.0,2.49,Associate Professor Emeritus,ARHU,Ph.D,95.0,2,2,male,148000
+890,John Buchner,3.375,3.28,Senior Lecturer,CMNS,Ph.D,51.0,16,15,male,92000
+891,John Chao,3.5,2.21,Professor,BSOS,Ph.D,60.0,4,22,male,216000
+892,John Cumings,3.3333,3.57,Associate Professor,ENGR,Ph.D,50.0,9,32,male,196000
+893,John Dickerson,3.7059,3.44,Associate Professor,CMNS,Ph.D,39.0,17,9,male,136000
+894,John Drabinski,4.75,3.5,Professor,BSOS,Ph.D,56.0,4,32,male,185000
+895,John Erwin,5.0,3.33,Professor and Chair,AGNR,Ph.D,64.0,1,8,male,255000
+896,John Fisher,2.3077,3.84,Professor and Chair,ENGR,Ph.D,52.0,13,21,male,351000
+897,John Fourkas,4.875,3.45,Professor and Associate Dean,CMNS,Ph.D,61.0,8,10,male,290000
+898,John Horty,5.0,2.31,Professor,ARHU,Ph.D,70.0,2,16,male,257000
+899,John Kim,4.75,3.45,Senior Lecturer,ARHU,Master's,47.0,5,15,male,56000
+900,John Laub,3.5,3.3,Distinguished University Professor Emeritus,BSOS,Ph.D,72.0,4,4,male,136000
+901,John Macintosh,4.7222,3.12,Lecturer,ARHU,Bachelor's,40.0,18,17,male,50000
+902,John Martin,4.0,2.15,Assistant Professor,ENGR,Ph.D,29.0,1,2,male,172000
+903,John McCauley,4.7273,3.55,Professor,BSOS,Ph.D,51.0,11,14,male,231000
+904,John McGahagan,5.0,3.86,Lecturer,UGST,Master's,28.0,7,4,male,8000
+905,John Millson,4.0476,2.89,Professor Emeritus,CMNS,Ph.D,79.0,21,2,male,136000
+906,John Pease,4.3158,2.99,Associate Professor Emeritus,BSOS,Ph.D,87.0,19,6,male,136000
+907,John Rendeiro,4.9231,3.36,Lecturer,ARHU,Ph.D,38.0,26,8,male,31000
+908,John Scott,4.0,2.36,Lecturer,ARHU,Ph.D,46.0,4,7,male,64000
+909,John Shea,4.3393,1.86,Associate Professor,BSOS,Ph.D,61.0,58,21,male,220000
+910,John Tobin,4.25,3.36,Lecturer,ARHU,Master's,33.0,4,6,male,47000
+911,John Tritschler,5.0,3.62,Lecturer,ENGR,Ph.D,42.0,1,11,male,28000
+912,John Wallis,4.0,2.01,Professor,BSOS,Ph.D,72.0,22,15,male,246000
+913,John Witzleben,3.5,3.6,Professor Emeritus,ARHU,Ph.D,71.0,2,22,male,136000
+914,Johnpierre Paglione,4.5,3.38,Professor and Director,CMNS,Ph.D,48.0,2,23,male,350000
+915,Jon Crocker,5.0,3.6,Clinical Professor,BMGT,Master's,59.0,8,37,male,278000
+916,Jon Sumida,4.5,2.55,Professor Emeritus,ARHU,Ph.D,76.0,14,6,male,136000
+917,Jonathan Auerbach,3.6,2.63,Professor Emeritus,ARHU,Ph.D,71.0,5,10,male,136000
+918,Jonathan Dinman,4.5,3.91,Professor and Associate Director,SVPA,Ph.D,67.0,8,34,male,275000
+919,Jonathan Fernandes,3.4797,3.22,Lecturer,CMNS,Ph.D,36.0,152,49,male,123000
+920,Jonathan Gemmell,5.0,3.18,Lecturer,AGNR,Bachelor's,38.0,3,2,male,6000
+921,Jonathan Katz,3.7273,3.14,Professor,CMNS,Ph.D,49.0,11,16,male,15000
+922,Jonathan Mohr,4.6667,2.33,Associate Professor,BSOS,Ph.D,59.0,3,24,male,132000
+923,Jonathan Poterjoy,5.0,3.15,Assistant Professor,CMNS,Ph.D,38.0,1,12,male,178000
+924,Jonathan Resop,5.0,3.32,Principal Lecturer,BSOS,Ph.D,43.0,1,29,male,156000
+925,Jonathan Rick,4.1212,2.71,Lecturer,ARHU,Bachelor's,42.0,34,5,male,15000
+926,Jonathan Rosenberg,2.6383,2.96,Professor,CMNS,Ph.D,75.0,47,27,male,192000
+927,Jonathan Simon,3.7,2.98,Professor,ENGR,Ph.D,62.0,10,19,male,253000
+928,Jordan Goodman,3.9,3.24,Distinguished University Professor,CMNS,Ph.D,74.0,20,16,male,316000
+929,Jose Aranda-Espinoza,1.5833,3.45,Associate Professor and Associate Chair,ENGR,Ph.D,57.0,36,25,male,188000
+930,Jose Calderon,4.619,3.22,Lecturer,CMNS,Ph.D,38.0,63,15,male,86000
+931,Jose Feijo,5.0,3.03,Professor,CMNS,Ph.D,61.0,1,10,male,243000
+932,Jose Magro,3.75,3.09,Assistant Clinical Professor,ARHU,Ph.D,52.0,4,24,male,69000
+933,Jose Naharro-Calderon,4.0,2.83,Professor,ARHU,Ph.D,73.0,3,22,male,86000
+934,Jose Ortiz,5.0,2.66,Assistant Professor,BSOS,Ph.D,43.0,2,16,male,125000
+935,Jose-Luis Izursa,2.25,2.87,Senior Lecturer,AGNR,Ph.D,59.0,4,44,male,94000
+936,Joseph Barnet,4.8974,3.43,Lecturer,BSOS,Ph.D,33.0,42,7,male,120000
+937,Joseph Brami,3.0,3.42,Professor Emeritus,ARHU,Ph.D,73.0,2,16,male,136000
+938,Joseph Falvo,4.3333,3.14,Associate Professor,ARHU,Ph.D,73.0,7,36,male,106000
+939,Joseph JaJa,2.5714,2.43,Professor,ENGR,Ph.D,73.0,7,12,male,311000
+940,Joseph Perfetti,3.88,3.42,Lecturer,BMGT,Bachelor's,49.0,25,12,male,149000
+941,Joseph Reiff,4.5,3.7,Assistant Professor,BMGT,Ph.D,32.0,2,2,male,230000
+942,Joseph Wappel,4.3333,3.68,Senior Lecturer,ARHU,Master's,70.0,3,13,male,39000
+943,Joseph Weber,5.0,3.23,Lecturer,JOUR,Bachelor's,62.0,2,3,male,5000
+944,Joseph Williams,3.1111,2.73,Assistant Professor,ARCH,Ph.D,38.0,9,32,male,107000
+945,Joseph Yasharoff,5.0,3.8,Lecturer,JOUR,Bachelor's,60.0,1,12,male,9000
+946,Josh Alvizu,2.3333,2.65,Assistant Professor,ARHU,Ph.D,42.0,3,30,male,84000
+947,Joshua Buursma,5.0,3.62,Lecturer,ARHU,Master's,42.0,9,6,male,34000
+948,Joshua Cocker,4.9375,3.68,Lecturer,ENGR,Master's,28.0,16,19,male,105000
+949,Joshua Davidsburg,3.0,3.45,Senior Lecturer,JOUR,Bachelor's,46.0,2,39,male,102000
+950,Joshua Linn,4.0,2.89,Professor,AGNR,Bachelor's,47.0,5,28,male,248000
+951,Joshua Radice,5.0,3.13,Lecturer,ENGR,Ph.D,53.0,4,5,male,10000
+952,Joshua Shannon,3.8,3.1,Professor,ARHU,Ph.D,53.0,5,22,male,68000
+953,Joshua Singer,2.6667,3.11,Professor and Chair,CMNS,Ph.D,54.0,13,15,male,294000
+954,Joshua Weiner,4.1818,3.63,Professor,ARHU,Ph.D,62.0,13,18,male,155000
+955,Joshua Weiss,4.6667,3.24,Senior Lecturer,ARHU,Ph.D,44.0,9,11,male,66000
+956,Joshua Westgard,4.0,3.19,Librarian III,LIBR,Ph.D,53.0,1,2,male,99000
+957,Jowita Wyszomirska,3.6,3.13,Senior Lecturer,ARHU,Master's,44.0,5,22,female,24000
+958,Juan Angueyra,5.0,3.78,Assistant Professor,CMNS,Ph.D,37.0,1,2,male,136000
+959,Juan Burke,4.2,3.52,Assistant Professor,ARCH,Ph.D,47.0,5,31,male,119000
+960,Juan Uriagereka,3.8333,3.13,Professor,ARHU,Ph.D,64.0,6,31,male,233000
+961,Judd Nelson,4.2424,3.2,Associate Professor Emeritus,CMNS,Ph.D,78.0,33,4,male,136000
+962,Jude Cassidy,1.5,3.53,Professor,BSOS,Ph.D,74.0,2,26,male,260000
+963,Judith Freidenberg,4.5,3.35,Professor Emerita,BSOS,Ph.D,78.0,2,22,female,136000
+964,Judith Hallett,5.0,3.07,Professor Emerita,ARHU,Ph.D,81.0,4,19,female,136000
+965,Judith Hellerstein,4.0,2.35,Professor,BSOS,Ph.D,60.0,10,9,female,183000
+966,Judy Frels,4.0,2.29,Clinical Professor,BMGT,Ph.D,59.0,2,39,female,290000
+967,Jui Ramaprasad,4.0,3.21,Associate Professor,BMGT,Bachelor's,46.0,2,23,female,387000
+968,Julia Chuang,3.5556,3.5,Associate Professor,BSOS,Ph.D,44.0,18,11,female,120000
+969,Julia Kwon,4.0,3.42,Lecturer,ARHU,Master's,35.0,6,14,female,25000
+970,Julia Steinberg,3.8333,3.33,Associate Professor,SPHL,Ph.D,46.0,6,11,female,169000
+971,Julie Daberkow,4.6364,2.48,Senior Lecturer,CMNS,Master's,76.0,11,8,female,77000
+972,Julie Greene,4.0,2.94,Professor,ARHU,Ph.D,67.0,1,14,female,136000
+973,Julie Koser,4.3333,2.9,Associate Professor,ARHU,Ph.D,48.0,3,41,female,105000
+974,Julie Park,2.5,3.37,Associate Professor,EDUC,Ph.D,43.0,16,46,female,160000
+975,Julie Park,2.5,3.37,Associate Professor,EDUC,Ph.D,43.0,16,46,female,160000
+976,Julie Park,2.5,3.37,Associate Professor,BSOS,Ph.D,53.0,16,46,female,160000
+977,Julie Park,2.5,3.37,Associate Professor,BSOS,Ph.D,53.0,16,46,female,160000
+978,Julie Pavlovsky,4.3077,3.6,Senior Lecturer,BMGT,Master's,52.0,13,19,female,226000
+979,Julius Goldhar,3.1053,3.26,Professor,ENGR,Ph.D,76.0,19,15,male,234000
+980,June Hargrove,4.1667,3.12,Professor Emerita,ARHU,Ph.D,79.0,6,10,female,136000
+981,Jungho Kim,3.1481,2.81,Professor,ENGR,Ph.D,65.0,27,10,male,235000
+982,Jungjung Lee-Heitz,4.6667,3.04,Senior Lecturer,ARHU,Master's,57.0,3,31,male,136000
+983,Justicia Opoku-Edusei,3.8143,2.75,Instructor,CMNS,Ph.D,65.0,72,29,female,113000
+984,Justin Foreman,4.0,3.65,Lecturer,ARHU,Master's,35.0,1,4,male,7000
+985,Justin Lohr,4.4545,3.26,Principal Lecturer,ARHU,Master's,39.0,11,27,male,82000
+986,Justin Reyna,3.5952,2.85,Associate Clinical Professor,BMGT,Bachelor's,48.0,44,18,male,254000
+987,Justin Strom,5.0,3.7,Associate Professor,ARHU,Master's,49.0,2,26,male,101000
+988,Justin Wyss-Gallifent,4.7172,3.04,Principal Lecturer,CMNS,Ph.D,56.0,297,48,male,207000
+989,Justine Madoo,4.5542,3.37,Senior Lecturer,BSOS,Ph.D,43.0,84,25,female,121000
+990,Jyana Browne,4.3333,3.39,Assistant Professor,ARHU,Ph.D,49.0,3,21,female,89000
+991,Kaiqing Zhang,4.3333,3.11,Assistant Professor,ENGR,Ph.D,32.0,3,4,female,170000
+992,Kang Namkoong,5.0,3.5,Associate Professor,ARHU,Ph.D,55.0,1,23,male,151000
+993,Kara Hoffman,2.5385,2.77,Professor,CMNS,Ph.D,55.0,13,15,female,235000
+994,Kara Pleasants,5.0,3.41,Lecturer,ARHU,Master's,39.0,9,5,female,54000
+995,Karen Carleton,4.65,3.57,Professor,CMNS,Ph.D,67.0,43,20,female,168000
+996,Karen Denny,5.0,3.5,Senior Lecturer,JOUR,Bachelor's,56.0,1,24,female,124000
+997,Karen Lips,2.8,2.52,Professor,CMNS,Ph.D,59.0,5,11,female,136000
+998,Karen McLaren,4.2,3.15,Principal Lecturer,CMNS,Ph.D,65.0,5,16,female,102000
+999,Karen O'Brien,5.0,2.18,Ombuds Officer,PRES,Ph.D,64.0,5,23,female,271000
+1000,Karen Prestegaard,3.5,3.16,Associate Professor,CMNS,Ph.D,71.0,4,16,female,115000
+1001,Kari Kraus,5.0,3.32,Associate Professor,INFO,Ph.D,56.0,4,30,female,116000
+1002,Karin Melnick,2.7273,2.91,Professor,CMNS,Ph.D,48.0,11,13,female,136000
+1003,Karin Rosemblatt,3.0,2.88,Professor,ARHU,Ph.D,61.0,2,20,female,168000
+1004,Kate Shin,5.0,3.77,Lecturer,SPHL,Master's,39.0,3,10,female,12000
+1005,Kate Tully,5.0,3.51,Associate Professor,AGNR,Ph.D,43.0,1,22,female,136000
+1006,Katerina Thompson,4.0909,3.37,Assistant Dean,CMNS,Ph.D,65.0,11,29,female,172000
+1007,Katharina Maisel,2.5,2.43,Associate Professor,ENGR,Ph.D,37.0,4,11,female,186000
+1008,Katharine Abraham,5.0,2.38,Distinguished University Professor,BSOS,Ph.D,71.0,1,25,female,197000
+1009,Katherine Joshi,4.1818,3.29,Senior Lecturer,ARHU,Master's,38.0,22,12,female,77000
+1010,Katherine Lieder,3.0,3.88,Assistant Clinical Professor,UGST,Ph.D,38.0,9,10,female,74000
+1011,Katherine Sharp,5.0,3.36,Clinical Professor,SPHL,Ph.D,57.0,1,10,female,132000
+1012,Katherine Wasdin,4.1765,3.43,Associate Professor,ARHU,Ph.D,44.0,18,24,female,105000
+1013,Kathleen Cunningham,5.0,3.64,Professor,BSOS,Ph.D,48.0,1,17,female,253000
+1014,Kathleen Kelly,4.0,3.56,Lecturer,BMGT,Ph.D,66.0,1,8,female,19000
+1015,Kathleen Moore,1.2,3.08,Lecturer,INFO,Ph.D,37.0,5,5,female,6000
+1016,Kathleen Orr,5.0,3.3,Senior Lecturer,ARHU,Master's,67.0,6,14,female,39000
+1017,Kathleen Stewart,3.4,2.95,Professor,BSOS,Ph.D,65.0,5,6,female,253000
+1018,Kathryn Corby,5.0,3.66,Lecturer,ARCH,Master's,42.0,2,9,female,22000
+1019,Kathryn Truman,4.25,2.25,Senior Lecturer,CMNS,Ph.D,47.0,16,8,female,94000
+1020,Kathy Weaver,3.6667,2.55,Senior Lecturer,INFO,Ph.D,59.0,3,25,female,136000
+1021,Katie Shilton,5.0,3.56,Professor,INFO,Ph.D,44.0,5,17,female,136000
+1022,Katrina Fenlon,4.6667,3.18,Assistant Professor,INFO,Ph.D,38.0,3,14,female,177000
+1023,Katrina Groth,5.0,2.83,Associate Professor,ENGR,Ph.D,43.0,5,7,female,217000
+1024,Katryna Andrusik,4.2,3.58,Assistant Clinical Professor,EDUC,Ph.D,47.0,6,22,female,97000
+1025,Katy Lawley,4.1,3.23,Senior Lecturer,INFO,Ph.D,52.0,10,30,female,136000
+1026,Kaustubh Agashe,4.5,2.62,Professor,CMNS,Ph.D,54.0,4,21,male,205000
+1027,Kawthar Zaki,5.0,3.51,Professor Emerita,ENGR,Ph.D,85.0,1,3,female,136000
+1028,Kaye Brubaker,4.5385,3.43,Professor,ENGR,Ph.D,68.0,13,25,female,185000
+1029,Kayo Ide,3.5,3.37,Associate Professor,CMNS,Ph.D,63.0,4,19,male,195000
+1030,Kazim Ruhi,3.0889,3.01,Clinical Professor,BMGT,Ph.D,67.0,47,24,female,240000
+1031,Keith Herold,2.0,3.07,Associate Professor Emeritus,ENGR,Ph.D,70.0,5,12,male,136000
+1032,Keith Yearwood,3.5128,2.81,Lecturer,BSOS,Ph.D,65.0,39,45,male,112000
+1033,Kellie Robertson,5.0,2.78,Professor,ARHU,Ph.D,57.0,1,10,female,154000
+1034,Kellie Rolstad,5.0,3.78,Associate Professor,EDUC,Ph.D,61.0,5,40,female,136000
+1035,Kelly Cresap,3.75,2.99,Senior Lecturer,ARHU,Ph.D,55.0,8,1,female,30000
+1036,Kelly Fleming,2.3077,3.8,Assistant Clinical Professor,AGNR,Bachelor's,51.0,13,7,female,86000
+1037,Kelsey Klotz,5.0,3.61,Assistant Professor,ARHU,Ph.D,37.0,14,6,female,83000
+1038,Ken Kiger,4.6,3.0,Professor and Associate Dean,ENGR,Ph.D,56.0,6,23,male,292000
+1039,Kendall Bustad,3.5455,3.68,Senior Lecturer,SPHL,Ph.D,39.0,11,33,male,108000
+1040,Kendall Williams,3.5042,2.36,Senior Lecturer,CMNS,Ph.D,42.0,122,32,male,139000
+1041,Kendra Portier,5.0,3.69,Assistant Professor,ARHU,Master's,45.0,1,89,female,116000
+1042,Kenneth Beck,1.0,2.84,Professor Emeritus,SPHL,Ph.D,75.0,1,10,male,136000
+1043,Kenneth Berg,4.2,2.74,Associate Professor Emeritus,CMNS,Ph.D,87.0,5,2,male,136000
+1044,Kenneth Filler,5.0,3.37,Lecturer,ARCH,Bachelor's,33.0,3,14,male,88000
+1045,Kenneth Frauwirth,3.7455,3.39,Senior Lecturer,CMNS,Ph.D,55.0,56,34,male,111000
+1046,Kenneth Fuller,3.4615,3.63,Lecturer,BMGT,Master's,64.0,13,30,male,146000
+1047,Kenneth Ingram,4.6667,3.4,Lecturer,AGNR,Master's,69.0,6,41,male,96000
+1048,Kenneth Klotz,5.0,3.51,Senior Lecturer,SPHL,Bachelor's,60.0,7,17,male,28000
+1049,Kenneth Leonard,3.4848,3.32,Professor,AGNR,Ph.D,58.0,33,27,male,265000
+1050,Kenneth O'Connell,4.6667,3.57,Lecturer,ENGR,Ph.D,66.0,3,18,male,45000
+1051,Kenneth Yu,4.5,3.14,Professor,ENGR,Ph.D,62.0,6,12,male,181000
+1052,Kerry Green,4.0,3.46,Professor and Acting Chair,SPHL,Ph.D,52.0,2,13,female,248000
+1053,Kerry Tripp,3.7391,3.42,Principal Lecturer,SPHL,Bachelor's,65.0,23,36,female,68000
+1054,Kevin Bock,5.0,3.5,Lecturer,UGST,Master's,30.0,3,3,male,8000
+1055,Kevin Calabro,4.625,3.19,Principal Lecturer,ENGR,Master's,42.0,48,26,male,196000
+1056,Kevin Daniels,5.0,3.6,Associate Professor,ENGR,Ph.D,38.0,4,16,male,199000
+1057,Kevin Glasz,5.0,3.48,Lecturer,SPHL,Master's,61.0,2,7,male,21000
+1058,Kevin Klose,4.5,3.82,Professor Emeritus,JOUR,Bachelor's,85.0,2,5,male,136000
+1059,Kevin McGarry,4.8333,2.79,Lecturer,BMGT,Master's,43.0,6,5,male,76000
+1060,Kevin Roy,4.9333,3.61,Professor,SPHL,Ph.D,59.0,15,26,male,224000
+1061,Kevin Tervala,5.0,3.53,Lecturer,ARHU,Ph.D,40.0,1,5,male,6000
+1062,Kevin Wisniewski,5.0,3.68,Lecturer,ARHU,Ph.D,44.0,16,12,male,62000
+1063,Ki-Yong Kim,3.4167,3.15,Professor,CMNS,Ph.D,52.0,12,12,male,162000
+1064,Kim Coles,3.6,3.21,Professor,ARHU,Master's,53.0,6,22,female,144000
+1065,Kimberli Munoz,4.875,3.68,Lecturer,ARHU,Bachelor's,34.0,16,1,female,66000
+1066,Kimberly Paczolt,2.8448,3.15,Senior Lecturer,CMNS,Ph.D,43.0,59,13,female,130000
+1067,Kimberly Stroka,4.5,3.09,Associate Professor,ENGR,Ph.D,41.0,2,18,female,206000
+1068,Kisa Lape,4.6667,3.01,Senior Lecturer,ARHU,Master's,44.0,6,13,female,83000
+1069,Konstantina Trivisa,3.6667,2.69,Professor and Director,CMNS,Ph.D,57.0,3,12,female,297000
+1070,Konstantinos Papadopoulos,2.75,2.74,Professor Emeritus,CMNS,Ph.D,87.0,4,2,male,136000
+1071,Korey Rothman,3.4844,3.68,Senior Lecturer,BSOS,Ph.D,53.0,64,19,male,145000
+1072,Kris Marsh,5.0,3.05,Professor,BSOS,Ph.D,51.0,10,30,male,169000
+1073,Krishnan Vasudevan,5.0,3.72,Associate Professor,JOUR,Ph.D,41.0,2,18,male,139000
+1074,Kristina Kramarczuk,5.0,3.95,Assistant Clinical Professor,SVPA,Master's,31.0,4,5,female,80000
+1075,Kristina Miler,4.125,3.06,Associate Professor,BSOS,Ph.D,51.0,8,18,female,159000
+1076,Kristjana Maddux,4.5385,3.22,Professor,ARHU,Ph.D,46.0,13,23,female,150000
+1077,Kuan-Hung Lo,5.0,3.54,Lecturer,ENGR,Ph.D,32.0,4,12,male,67000
+1078,Kuishuang Feng,3.8333,3.45,Associate Professor,BSOS,Ph.D,44.0,6,14,male,138000
+1079,Kumiko Akikawa,4.6667,2.56,Senior Lecturer,ARHU,Master's,47.0,3,14,female,75000
+1080,Kunpeng Zhang,1.0,3.52,Associate Professor,BMGT,Ph.D,38.0,1,20,male,362000
+1081,Kurt Finsterbusch,2.0,2.65,Professor Emeritus,BSOS,Ph.D,90.0,5,7,male,136000
+1082,Kyle Dorsey,4.8421,3.36,Lecturer,BSOS,Master's,33.0,19,13,male,16000
+1083,Kyung Koh,2.5862,3.44,Lecturer,ENGR,Ph.D,41.0,29,11,male,93000
+1084,L Gordon,2.5714,2.66,Lecturer,ARHU,Ph.D,79.0,7,5,male,314000
+1085,L Stevens,4.125,1.21,Associate Professor,BSOS,Ph.D,44.0,8,11,male,203000
+1086,LaRia Rogers,4.0,3.64,Lecturer,INFO,Bachelor's,27.0,6,13,female,6000
+1087,Lacey Curry,5.0,3.49,Assistant Clinical Professor,BSOS,Bachelor's,44.0,1,14,female,136000
+1088,Lai-Xi Wang,3.875,2.39,Professor,CMNS,Bachelor's,51.0,16,13,male,310000
+1089,Laixiang Sun,5.0,2.9,Professor,BSOS,Ph.D,69.0,3,15,male,182000
+1090,Lakeshia Watson,5.0,3.85,Lecturer,SPHL,Ph.D,32.0,1,6,female,20000
+1091,Lamia Zia,5.0,3.78,Lecturer,ARHU,Master's,49.0,3,12,female,62000
+1092,Lan Ma,5.0,3.54,Senior Lecturer,ENGR,Ph.D,46.0,1,21,male,124000
+1093,Lance Yonkos,4.9231,3.83,Associate Professor,AGNR,Ph.D,61.0,13,34,male,169000
+1094,Lara Payne,4.2143,3.75,Senior Lecturer,ARHU,Master's,52.0,14,13,female,37000
+1095,Larry Davis,3.0,3.19,Distinguished University Professor Emeritus,CMNS,Ph.D,77.0,2,10,male,136000
+1096,Larry Herman,3.2046,2.57,Lecturer,CMNS,Master's,62.0,308,10,male,136000
+1097,Larry Plotkin,5.0,3.45,Lecturer,SPHL,Bachelor's,57.0,3,27,male,50000
+1098,Lars Olson,2.1538,3.18,Professor,AGNR,Ph.D,66.0,14,28,male,265000
+1099,Laura Demaria,3.6667,3.26,Professor,ARHU,Ph.D,59.0,3,25,female,126000
+1100,Laura Duncanson,3.7,3.01,Associate Professor,BSOS,Ph.D,40.0,10,9,female,184000
+1101,Laura Gilchrest,2.3,3.6,Lecturer,BSOS,Ph.D,41.0,21,23,female,35000
+1102,Laura Golojuch,5.0,3.68,Lecturer,SPHL,Ph.D,34.0,2,10,female,22000
+1103,Laura Lising,4.1429,3.67,Lecturer,CMNS,Ph.D,55.0,7,4,female,14000
+1104,Laura Rosenthal,3.5714,3.02,Professor,ARHU,Ph.D,64.0,7,12,female,182000
+1105,Laura Williams,3.7273,2.91,Lecturer,ARHU,Ph.D,58.0,11,21,female,35000
+1106,Lauren Edelstein,5.0,3.65,Senior Lecturer,ARHU,Master's,43.0,3,21,female,44000
+1107,Lauren Kauffman,3.5,3.05,Lecturer,SPHL,Bachelor's,33.0,2,3,female,8000
+1108,Lauren Porter,2.5,3.24,Associate Professor,BSOS,Ph.D,41.0,3,17,female,171000
+1109,Lauren Rhue,4.3333,3.55,Assistant Professor,BMGT,Ph.D,43.0,8,10,female,136000
+1110,Lauren Trakhman,5.0,3.55,Assistant Clinical Professor,EDUC,Ph.D,28.0,4,17,female,93000
+1111,Laurent Montesi,1.3333,2.97,Professor,CMNS,Ph.D,53.0,3,18,male,148000
+1112,Lawrence Gordon,4.3333,3.61,Professor,BMGT,Ph.D,81.0,6,17,male,314000
+1113,Lawrence Sita,3.5556,3.13,Professor,CMNS,Ph.D,66.0,9,8,female,188000
+1114,Lawrence Washington,4.8571,3.49,Professor and Associate Chair,CMNS,Ph.D,76.0,35,17,male,225000
+1115,Laxman Dhulipala,4.7059,3.53,Assistant Professor,CMNS,Ph.D,33.0,17,8,male,204000
+1116,Le-Marie Thompson,2.0714,3.61,Lecturer,BMGT,Master's,49.0,14,31,male,40000
+1117,Lea Dougherty,4.75,1.63,Professor,BSOS,Ph.D,46.0,4,30,female,241000
+1118,Leah Dodson,1.7333,3.06,Assistant Professor,CMNS,Ph.D,37.0,60,21,female,149000
+1119,Lee Konstantinou,4.6667,3.27,Associate Professor,ARHU,Ph.D,47.0,3,26,male,133000
+1120,Lee Lipscomb,2.3333,3.34,Lecturer,INFO,Bachelor's,51.0,3,3,male,1000
+1121,Lee Mundy,2.55,2.88,Professor and Director,CMNS,Ph.D,70.0,20,8,male,279000
+1122,Lei Chen,4.25,3.38,Assistant Professor,CMNS,Ph.D,34.0,8,6,female,176000
+1123,Leigh Leslie,3.6667,3.45,Associate Professor Emerita,SPHL,Ph.D,72.0,3,7,female,136000
+1124,Leigha McReynolds,5.0,3.95,Assistant Clinical Professor,UGST,Ph.D,31.0,22,12,female,69000
+1125,Leland Gardner,4.2903,3.31,Principal Lecturer,BMGT,Master's,77.0,31,33,male,149000
+1126,Lena Johnson,5.0,3.97,Assistant Clinical Professor,SVPA,Master's,33.0,2,9,female,77000
+1127,Lenea Stocker,3.5873,2.48,Senior Lecturer,CMNS,Ph.D,40.0,127,25,female,94000
+1128,Leo Shapiro,3.3333,3.11,Senior Lecturer,CMNS,Ph.D,61.0,58,19,male,88000
+1129,Leonid Koralov,3.15,2.44,Professor and Associate Chair,CMNS,Ph.D,56.0,20,23,male,238000
+1130,Leonidas Lampropoulos,4.8,3.55,Assistant Professor,CMNS,Ph.D,35.0,5,10,male,206000
+1131,Leslie Felbain,5.0,3.7,Associate Professor,ARHU,Master's,72.0,1,43,female,95000
+1132,Leslie Jefferson,5.0,3.7,Lecturer,PLCY,Master's,37.0,1,4,female,22000
+1133,Leslie Pick,3.9444,3.1,Professor and Chair,CMNS,Ph.D,70.0,18,16,female,357000
+1134,Leslie Rowland,1.4,2.73,Associate Professor,ARHU,Ph.D,79.0,5,16,female,93000
+1135,Li-Qun Zhang,2.0,2.78,Professor,ENGR,Ph.D,65.0,1,6,female,246000
+1136,Liam Daley,4.75,3.63,Lecturer,ARHU,Master's,44.0,8,15,male,46000
+1137,Liam Healy,2.0,2.84,Senior Lecturer,ENGR,Ph.D,68.0,6,9,male,15000
+1138,Liana Sayer,4.3333,2.23,Professor,BSOS,Ph.D,64.0,3,20,female,257000
+1139,Liangbing Hu,4.5,3.81,Distinguished University Professor,ENGR,Ph.D,45.0,4,20,male,230000
+1140,Liangli Yu,4.0,3.62,Professor,AGNR,Ph.D,63.0,1,16,female,209000
+1141,Lillian Doherty,3.7059,2.83,Professor Emerita,ARHU,Ph.D,73.0,17,30,female,6000
+1142,Linda Aldoory,5.0,3.62,Professor Emerita,ARHU,Ph.D,59.0,2,5,female,136000
+1143,Linda Coleman,3.4667,2.56,Associate Professor,ARHU,Ph.D,74.0,15,17,female,101000
+1144,Linda Kauffman,2.2,3.0,Professor Emerita,ARHU,Ph.D,76.0,5,8,female,136000
+1145,Linda Zou,4.6667,3.47,Assistant Professor,BSOS,Ph.D,35.0,12,13,female,129000
+1146,Lindley Darden,5.0,2.58,Professor Emerita,ARHU,Ph.D,79.0,1,14,male,136000
+1147,Lindsay Yotsukura,4.5,3.19,Associate Professor,ARHU,Ph.D,63.0,2,13,female,108000
+1148,Lindsey May,5.0,3.06,Associate Clinical Professor,ARCH,Bachelor's,37.0,2,10,female,139000
+1149,Lisa Davis,5.0,3.66,Lecturer,EDUC,Master's,56.0,1,8,female,78000
+1150,Lisa Eaker,4.6667,3.72,Assistant Clinical Professor,EDUC,Ph.D,63.0,6,28,female,79000
+1151,Lisa Nathans,5.0,3.61,Associate Professor,ARHU,Master's,39.0,1,41,female,142000
+1152,Lisa Rickard,1.0,3.6,Assistant Clinical Professor,BSOS,Master's,66.0,1,15,female,95000
+1153,Liu Yang,5.0,2.81,Associate Professor,BMGT,Ph.D,50.0,1,12,female,288000
+1154,Long Doan,4.7692,3.59,Associate Professor,BSOS,Ph.D,38.0,13,17,male,149000
+1155,Lori Sefton,4.2037,3.71,Senior Lecturer,AGNR,Ph.D,61.0,55,8,female,62000
+1156,Lorin Milescu,1.0,3.92,Senior Lecturer,CMNS,Ph.D,53.0,1,11,female,47000
+1157,Louiqa Raschid,2.25,3.32,Professor,BMGT,Ph.D,67.0,24,13,male,250000
+1158,Louis Preonas,5.0,3.44,Assistant Professor,AGNR,Master's,40.0,1,21,male,162000
+1159,Louisa Wu,3.9429,3.58,Associate Professor,CMNS,Ph.D,59.0,72,17,female,120000
+1160,Lu Zhang,4.8889,3.46,Lecturer,BMGT,Ph.D,40.0,9,21,female,122000
+1161,Lucas Butler,3.375,3.47,Associate Professor,EDUC,Ph.D,42.0,8,17,male,130000
+1162,Luis Orozco,4.0,2.66,Professor Emeritus,CMNS,Ph.D,67.0,2,7,male,1000
+1163,Luiz Pessoa,4.0,3.26,Professor and Director,BSOS,Ph.D,58.0,1,17,male,345000
+1164,Luka Arsenjuk,4.8333,3.41,Associate Professor,ARHU,Ph.D,45.0,6,50,male,101000
+1165,Lutf Alkebsi,4.0,3.3,Senior Lecturer,ARHU,Bachelor's,50.0,3,36,male,76000
+1166,Luz Martinez-Miranda,1.875,3.35,Professor,ENGR,Ph.D,70.0,8,23,female,149000
+1167,Lyle Isaacs,3.6129,2.8,Professor,CMNS,Ph.D,56.0,32,13,male,224000
+1168,Lyra Hilliard,4.5,3.28,Principal Lecturer,ARHU,Master's,40.0,4,16,female,136000
+1169,M Reynolds,4.5556,3.65,Senior Lecturer,SPHL,Ph.D,61.0,10,35,male,557000
+1170,M Sauter,5.0,3.75,Assistant Professor,INFO,Ph.D,37.0,8,18,male,125000
+1171,Madeline Brown,5.0,3.37,Assistant Professor,BSOS,Ph.D,37.0,2,18,female,104000
+1172,Madeline Hsu,2.0,3.08,Professor,ARHU,Ph.D,58.0,7,5,female,179000
+1173,Madeline Zilfi,4.3333,2.73,Professor Emerita,ARHU,Ph.D,83.0,3,12,female,136000
+1174,Madlen Simon,2.6667,3.42,Professor,ARCH,Bachelor's,73.0,6,16,female,165000
+1175,Magdalene Ngeve,4.2222,3.12,Lecturer,CMNS,Ph.D,40.0,441,20,female,91000
+1176,Mahmoud Massoud,4.25,3.38,Lecturer,ENGR,Ph.D,73.0,8,12,male,39000
+1177,Maira Goytia,4.5455,3.98,Senior Lecturer,CMNS,Ph.D,45.0,22,5,female,94000
+1178,Maissam Barkeshli,2.5,2.77,Associate Professor,CMNS,Ph.D,43.0,2,10,female,136000
+1179,Majid Raissi-Dehkordi,4.0,3.36,Lecturer,ENGR,Ph.D,58.0,4,11,male,58000
+1180,Makiko Inoue,4.0667,2.5,Senior Lecturer,ARHU,Master's,46.0,15,14,female,76000
+1181,Maksym Morawski,2.81,2.91,Lecturer,CMNS,Master's,37.0,206,15,male,142000
+1182,Mamadou Wade,3.1667,3.47,Lecturer,ENGR,Ph.D,43.0,36,14,male,85000
+1183,Manoj Franklin,2.6531,3.11,Associate Professor,ENGR,Ph.D,63.0,50,61,male,222000
+1184,Manouchehr Mokhtari,4.0,3.13,Professor and Associate Chair,SPHL,Ph.D,70.0,10,22,male,250000
+1185,Manoussos Grillakis,3.0435,2.91,Professor,CMNS,Ph.D,66.0,69,28,male,177000
+1186,Mansoor Moaddel,3.6667,2.93,Professor,BSOS,Ph.D,71.0,3,32,male,213000
+1187,Marccus Hendricks,4.125,3.63,Associate Professor,ARCH,Ph.D,37.0,8,16,male,183000
+1188,Marcia Shofner,3.6765,3.27,Senior Lecturer,CMNS,Ph.D,65.0,34,36,female,140000
+1189,Marco Colombini,3.0,2.73,Professor Emeritus,CMNS,Ph.D,77.0,5,9,male,136000
+1190,Marcus Ervin,5.0,3.75,Lecturer,ARCH,Bachelor's,40.0,2,7,male,1000
+1191,Margaret Antonisse,3.84,2.72,Senior Lecturer,ARHU,Ph.D,74.0,26,32,female,77000
+1192,Margaret Brindle,4.0,3.57,Lecturer,PLCY,Ph.D,55.0,25,15,female,99000
+1193,Margaret Malewski,4.0,3.55,Lecturer,BMGT,Master's,40.0,1,8,female,40000
+1194,Margaret Pearson,4.5,3.42,Professor,BSOS,Ph.D,67.0,2,14,female,229000
+1195,Margaret Peterson,5.0,3.38,Associate Clinical Professor,ARHU,Ph.D,53.0,4,24,female,148000
+1196,Margaret Scull,5.0,3.17,Associate Professor,CMNS,Ph.D,46.0,9,11,female,198000
+1197,Margaret Udahogora,1.5714,3.28,Lecturer,AGNR,Ph.D,46.0,7,18,female,119000
+1198,Margaret Walker,5.0,3.7,Associate Clinical Professor,EDUC,Master's,56.0,1,43,female,85000
+1199,Margret Bjarnadottir,4.0,3.48,Associate Professor,BMGT,Ph.D,46.0,1,17,female,304000
+1200,Maria Bardossy,2.037,3.27,Associate Clinical Professor,BMGT,Ph.D,45.0,28,44,female,222000
+1201,Maria Bustamante,4.5,3.1,Associate Professor,BMGT,Ph.D,44.0,2,19,female,335000
+1202,Maria Cameron,2.2941,3.01,Professor,CMNS,Ph.D,49.0,17,39,female,212000
+1203,Maria Molina,5.0,3.79,Assistant Professor,CMNS,Ph.D,42.0,1,3,female,156000
+1204,Maria Mukhina,5.0,3.46,Assistant Professor,CMNS,Ph.D,39.0,1,1,female,171000
+1205,Maria Polinsky,5.0,3.16,Professor,ARHU,Ph.D,68.0,2,16,female,75000
+1206,Maria Soppelsa,4.2222,2.67,Lecturer and Director,AGNR,Bachelor's,45.0,9,5,female,119000
+1207,Maria Velez,3.5,2.94,Associate Professor,BSOS,Ph.D,55.0,8,14,female,173000
+1208,Maria Wydra,5.0,3.48,Lecturer,BSOS,Ph.D,52.0,1,6,female,12000
+1209,Marianne Conroy,2.4,2.86,Lecturer,ARHU,Ph.D,66.0,5,25,female,34000
+1210,Marie Thoma,5.0,3.72,Associate Professor,SPHL,Ph.D,47.0,2,12,female,135000
+1211,Marilee Lindemann,3.0,3.0,Associate Professor and Executive Director,UGST,Ph.D,66.0,3,5,female,199000
+1212,Marilena Draganescu,5.0,0.0,Lecturer,EDUC,Master's,55.0,2,16,female,66000
+1213,Marilyn Matar,5.0,3.08,Assistant Clinical Professor,ARHU,Ph.D,47.0,3,12,female,82000
+1214,Marina Ellis,5.0,3.44,Lecturer,ARHU,Ph.D,29.0,1,4,female,40000
+1215,Marine Carpuat,4.0,3.09,Associate Professor,CMNS,Ph.D,49.0,6,9,female,228000
+1216,Marino diMarzo,4.1667,2.97,Professor Emeritus,ENGR,Ph.D,71.0,6,6,male,136000
+1217,Mario Dagenais,3.0,2.95,Professor,ENGR,Ph.D,73.0,2,16,male,209000
+1218,Marisa Franco,4.7895,3.74,Assistant Clinical Professor,UGST,Ph.D,36.0,19,14,female,58000
+1219,Marisa Parham,3.4,3.23,Professor and Associate Director,ARHU,Ph.D,51.0,5,12,female,269000
+1220,Marjan Moosavi,5.0,2.78,Lecturer,ARHU,Ph.D,45.0,1,36,female,66000
+1221,Marjorie Bonavia,4.0909,3.17,Lecturer,BMGT,Master's,58.0,11,15,female,27000
+1222,Marjorie Reaka,2.6,3.16,Professor,CMNS,Ph.D,82.0,25,9,female,71000
+1223,Mark Austin,2.6667,3.5,Associate Professor,ENGR,Ph.D,67.0,10,24,male,177000
+1224,Mark Carroll,3.5,2.95,Associate Professor and Director,AGNR,Ph.D,68.0,4,34,male,142000
+1225,Mark Feldstein,3.8125,3.07,Professor,JOUR,Ph.D,68.0,16,27,male,207000
+1226,Mark Fitzgerald,3.0,2.9,Senior Lecturer,ARHU,Master's,53.0,5,10,male,78000
+1227,Mark Forrester,4.931,3.68,Principal Lecturer,ARHU,Master's,55.0,29,22,male,85000
+1228,Mark Freidlin,1.6667,2.71,Distinguished University Professor Emeritus,CMNS,Ph.D,88.0,3,16,male,8000
+1229,Mark Fuge,1.8182,3.51,Associate Professor,ENGR,Ph.D,38.0,11,13,male,123000
+1230,Mark Leone,4.2,3.05,Distinguished University Professor,BSOS,Ph.D,84.0,10,46,male,206000
+1231,Mark Loewenstein,3.75,3.36,Associate Professor,BMGT,Ph.D,64.0,4,20,male,291000
+1232,Mark Shayman,2.4667,2.76,Professor,ENGR,Ph.D,72.0,15,19,male,275000
+1233,Mark Zakota,4.3333,2.97,Assistant Professor,BMGT,Ph.D,31.0,10,3,male,282000
+1234,Marsha Rozenblit,2.3529,1.83,Professor,ARHU,Ph.D,76.0,18,42,female,184000
+1235,Martha Geores,2.3333,2.98,Associate Professor Emerita,BSOS,Ph.D,74.0,6,13,female,136000
+1236,Martin Dresner,5.0,3.53,Professor,BMGT,Ph.D,68.0,3,29,male,263000
+1237,Martin Kobren,4.1667,3.29,Senior Lecturer,BSOS,Bachelor's,67.0,7,16,male,30000
+1238,Martin Loeb,3.0,3.38,Professor,BMGT,Ph.D,77.0,9,11,male,358000
+1239,Martin Peckerar,2.9,2.94,Professor Emeritus,ENGR,Ph.D,79.0,10,5,male,38000
+1240,Martin Rabenhorst,5.0,3.7,Professor,AGNR,Ph.D,72.0,1,51,male,163000
+1241,Martina Copelman,3.2222,2.54,Senior Lecturer,BSOS,Ph.D,59.0,27,16,female,98000
+1242,Marwa Maziad,1.625,3.19,Lecturer,ARHU,Master's,47.0,8,10,female,14000
+1243,Mary Bowden,4.9063,3.63,Senior Lecturer,ENGR,Master's,69.0,32,29,female,165000
+1244,Mary Byrne,4.3333,1.47,Clinical Professor,BSOS,Ph.D,55.0,3,25,female,136000
+1245,Mary Harms,4.0,2.97,Associate Clinical Professor,BMGT,Master's,74.0,8,20,female,146000
+1246,Mary Keim,1.5,2.67,Senior Lecturer,BMGT,Ph.D,67.0,2,15,female,147000
+1247,Mary Washington,3.0,2.6,Distinguished University Professor Emerita,ARHU,Ph.D,85.0,8,16,female,136000
+1248,Marybeth Shea,4.2273,3.76,Principal Lecturer,ARHU,Bachelor's,65.0,22,15,female,136000
+1249,Maryl Gensheimer,4.5385,2.73,Associate Professor,ARHU,Ph.D,34.0,27,17,female,86000
+1250,Massimo Ricotti,4.1429,2.86,Professor,CMNS,Ph.D,51.0,7,15,male,150000
+1251,Matei Machedon,3.7385,2.83,Professor,CMNS,Ph.D,65.0,65,18,male,161000
+1252,Matt Severson,3.0909,3.33,Lecturer,CMNS,Ph.D,45.0,45,36,male,106000
+1253,Matthew Griffin,4.1059,3.4,Lecturer,CMNS,Master's,55.0,173,25,male,101000
+1254,Matthew Hansen,2.375,2.73,Professor,BSOS,Ph.D,59.0,8,10,male,278000
+1255,Matthew Kirschenbaum,3.0,3.35,Distinguished University Professor,ARHU,Ph.D,55.0,3,26,male,209000
+1256,Matthew McLaughlin,3.25,3.3,Senior Lecturer,ARHU,Master's,40.0,8,50,male,41000
+1257,Matthew O'Malley,5.0,3.45,Lecturer,ARCH,Master's,47.0,1,5,male,11000
+1258,Matthew Palus,5.0,2.77,Senior Lecturer,BSOS,Ph.D,54.0,2,27,male,81000
+1259,Matthew Patrick,3.3684,3.34,Lecturer,INFO,Master's,26.0,21,13,male,183000
+1260,Matthew Regan,4.0,3.52,Lecturer,PLCY,Master's,44.0,7,21,male,18000
+1261,Matthew Roesch,4.3333,3.62,Professor and Director,BSOS,Ph.D,50.0,3,27,male,227000
+1262,Matthew Suriano,4.9167,3.38,Associate Professor,ARHU,Ph.D,54.0,14,63,male,110000
+1263,Matthew Thomann,5.0,3.63,Associate Professor,BSOS,Ph.D,40.0,6,25,male,124000
+1264,Matthias Zwicker,5.0,3.58,Professor and Chair,CMNS,Ph.D,49.0,1,13,male,398000
+1265,Maud Casey,5.0,3.55,Professor,ARHU,Master's,56.0,1,15,female,143000
+1266,Maureen Cropper,4.9412,2.3,Distinguished University Professor,BSOS,Ph.D,78.0,17,21,female,310000
+1267,Mauro Resmini,5.0,3.42,Associate Professor,ARHU,Ph.D,44.0,4,51,male,110000
+1268,Maushami DeSoto,1.0,3.1,Lecturer,SPHL,Ph.D,43.0,1,5,female,7000
+1269,Maxine Grossman,4.3636,2.82,Associate Professor and Director,ARHU,Ph.D,57.0,12,43,female,185000
+1270,Mayron Tsong,1.0,3.74,Associate Professor,ARHU,Master's,56.0,3,20,male,119000
+1271,McBlaine Boyle,2.9615,2.1,Professor Emeritus,CMNS,Ph.D,73.0,26,8,male,136000
+1272,Meg O'Neill,5.0,3.56,Assistant Clinical Professor,BSOS,Ph.D,40.0,1,25,female,136000
+1273,Megan Fritz,3.0,3.6,Associate Professor,CMNS,Ph.D,42.0,10,11,female,130000
+1274,Megan Fromm,5.0,3.64,Lecturer,JOUR,Ph.D,42.0,7,11,female,10000
+1275,Megan Newcombe,5.0,2.87,Assistant Professor,CMNS,Ph.D,36.0,4,21,female,158000
+1276,Mehl Penrose,5.0,3.19,Associate Professor,ARHU,Ph.D,57.0,1,28,male,102000
+1277,Mei Kong,4.6667,3.2,Senior Lecturer,ARHU,Master's,61.0,6,28,male,62000
+1278,Melanie Cohen,2.0,3.35,Lecturer,BMGT,Bachelor's,64.0,1,6,female,4000
+1279,Melanie Killen,4.0,3.26,Professor,EDUC,Ph.D,69.0,5,17,female,224000
+1280,Meleah Boyle,4.5,3.02,Lecturer,SPHL,Bachelor's,37.0,2,2,female,13000
+1281,Melinda Baldwin,5.0,3.5,Associate Professor,ARHU,Ph.D,43.0,5,13,female,136000
+1282,Melissa Caras,2.0455,2.64,Assistant Professor,CMNS,Ph.D,40.0,22,14,female,155000
+1283,Melissa Hayes-Gehrke,3.675,3.36,Principal Lecturer,CMNS,Ph.D,51.0,40,18,female,120000
+1284,Melissa Kearney,2.8235,2.28,Professor,BSOS,Ph.D,51.0,17,8,female,332000
+1285,Melissa Lucas,5.0,3.55,Associate Clinical Professor,ARHU,Ph.D,36.0,5,21,female,125000
+1286,Melvette Davis,4.5,3.3,Lecturer,ARHU,Ph.D,45.0,6,2,female,37000
+1287,Melvin Seale,5.0,3.77,Assistant Clinical Professor,SPHL,Master's,39.0,2,22,male,184000
+1288,Menglu Liang,1.0,3.49,Assistant Clinical Professor,SPHL,Ph.D,33.0,2,6,female,106000
+1289,Mengqiang Zhu,4.0,1.81,Associate Professor,CMNS,Ph.D,45.0,3,9,male,191000
+1290,Mercedes Taylor,4.4,3.44,Assistant Professor,CMNS,Ph.D,36.0,10,7,female,146000
+1291,Meredith Epstein,5.0,3.64,Senior Lecturer,AGNR,Master's,39.0,5,38,female,116000
+1292,Meredith Gill,4.75,3.59,Professor Emerita,ARHU,Ph.D,67.0,4,8,female,136000
+1293,Meredith Gore,4.6667,3.49,Professor,BSOS,Ph.D,48.0,3,7,female,219000
+1294,Meredith Kleykamp,4.0,3.1,Professor,BSOS,Ph.D,49.0,1,20,female,169000
+1295,Merle Collins,3.4,2.85,Professor Emerita,ARHU,Ph.D,75.0,5,14,female,136000
+1296,Merrilee Cox,5.0,3.22,Lecturer,JOUR,Ph.D,75.0,5,8,female,14000
+1297,Mestiyage Gunatilleka,4.0769,2.86,Lecturer,CMNS,Master's,38.0,147,46,male,128000
+1298,Meyer Kestnbaum,3.75,3.06,Associate Professor,BSOS,Ph.D,61.0,5,23,male,101000
+1299,Miao Yu,3.125,3.48,Professor,ENGR,Ph.D,51.0,8,15,female,279000
+1300,Michael Abrams,2.6667,3.2,Clinical Professor,ARCH,Bachelor's,50.0,10,25,male,85000
+1301,Michael Ball,4.0,3.49,Professor Emeritus,BMGT,Ph.D,75.0,1,7,male,33000
+1302,Michael Bazaco,5.0,3.11,Lecturer,SPHL,Ph.D,46.0,1,9,male,20000
+1303,Michael Busse,4.2857,3.33,Lecturer,PLCY,Master's,58.0,7,20,male,61000
+1304,Michael Cichello,4.8333,3.3,Clinical Professor,BMGT,Ph.D,57.0,6,6,male,251000
+1305,Michael Collier,4.4286,3.38,Professor Emeritus,ARHU,Master's,71.0,7,11,male,136000
+1306,Michael Coplan,4.0,2.81,Professor Emeritus,CMNS,Ph.D,87.0,1,5,male,136000
+1307,Michael Crescimanno,3.5,2.83,Lecturer,CMNS,Ph.D,58.0,2,1,male,20000
+1308,Michael Cummings,2.8,3.13,Professor,CMNS,Ph.D,64.0,5,19,male,277000
+1309,Michael Dorothy,5.0,3.5,Lecturer,SPHL,Bachelor's,43.0,3,8,female,8000
+1310,Michael Dougherty,4.0,3.45,Professor and Chair,BSOS,Ph.D,54.0,2,11,male,313000
+1311,Michael Evans,3.0,3.12,Professor,CMNS,Ph.D,55.0,2,19,male,146000
+1312,Michael Faulkender,3.4,2.64,Professor,BMGT,Ph.D,53.0,5,11,male,410000
+1313,Michael Friedman,2.7273,2.84,Lecturer,SPHL,Ph.D,55.0,11,20,male,28000
+1314,Michael Galczynski,4.9,3.43,Senior Lecturer,ENGR,Master's,35.0,122,25,male,129000
+1315,Michael Hicks,4.0909,3.06,Professor Emeritus,CMNS,Ph.D,54.0,11,14,male,136000
+1316,Michael Israel,2.1818,2.55,Associate Professor,ARHU,Ph.D,58.0,15,22,male,99000
+1317,Michael Jakobson,1.9655,2.38,Professor,CMNS,Ph.D,80.0,29,20,male,154000
+1318,Michael Keller,4.28,3.3,Senior Lecturer,CMNS,Ph.D,60.0,103,19,male,110000
+1319,Michael Laskowski,4.3636,3.0,Professor,CMNS,Ph.D,69.0,11,17,male,215000
+1320,Michael Mack,4.0,3.55,Assistant Instructor,ENGR,Bachelor's,79.0,1,4,male,7000
+1321,Michael Marsh,3.7595,2.84,Lecturer,CMNS,Ph.D,53.0,79,26,male,135000
+1322,Michael McMillan,3.0571,3.36,Associate Clinical Professor,BMGT,Ph.D,64.0,36,18,male,188000
+1323,Michael Miller,2.6923,2.16,Professor,CMNS,Ph.D,63.0,13,20,male,212000
+1324,Michael Montague-Smith,4.2093,2.52,Principal Lecturer Emerita,CMNS,Ph.D,58.0,43,14,male,136000
+1325,Michael Ohadi,3.4,3.29,Professor,ENGR,Ph.D,70.0,5,25,male,312000
+1326,Michael Otte,5.0,3.35,Assistant Professor,ENGR,Ph.D,42.0,1,13,male,135000
+1327,Michael Padhi,4.3125,3.15,Senior Lecturer,BMGT,Ph.D,50.0,34,24,male,224000
+1328,Michael Pecht,1.0,3.25,Distinguished University Professor,ENGR,Ph.D,71.0,1,10,male,324000
+1329,Michael Pratt,4.04,3.67,Lecturer,ENGR,Master's,74.0,25,20,male,112000
+1330,Michael Raupp,4.0,3.46,Professor Emeritus,CMNS,Ph.D,72.0,7,5,male,38000
+1331,Michael Ross,4.5179,3.2,Professor,ARHU,Ph.D,61.0,56,29,male,154000
+1332,Michael Schmidt,5.0,3.44,Lecturer,ARHU,Master's,48.0,9,15,male,63000
+1333,Michael Spivey,4.6,3.24,Senior Lecturer,BSOS,Ph.D,70.0,15,38,male,66000
+1334,Michael Trusov,3.6667,3.07,Professor,BMGT,Ph.D,54.0,3,19,male,345000
+1335,Michel Cukier,1.3333,3.44,Professor and Director,UGST,Ph.D,61.0,45,34,male,253000
+1336,Michel Wedel,4.0,3.56,Distinguished University Professor,BMGT,Ph.D,67.0,1,13,male,599000
+1337,Michele Dudash,4.25,2.9,Professor Emerita,CMNS,Ph.D,70.0,4,5,female,136000
+1338,Michele Mason,4.0,3.11,Associate Professor,ARHU,Ph.D,58.0,3,22,female,101000
+1339,Michelle Girvan,2.6667,3.35,Professor,CMNS,Ph.D,48.0,30,28,female,254000
+1340,Michelle Jamin,5.0,3.56,Lecturer,SPHL,Bachelor's,31.0,1,5,female,15000
+1341,Michelle Mazurek,3.8889,3.44,Associate Professor,CMNS,Ph.D,34.0,9,12,female,251000
+1342,Michelle Moncrieffe,4.7143,3.67,Lecturer,ARHU,Master's,54.0,7,15,female,136000
+1343,Michelle Rowley,2.7143,2.79,Associate Professor,ARHU,Ph.D,55.0,14,42,female,130000
+1344,Miguel Vilar,4.7143,3.71,Assistant Professor,BSOS,Ph.D,50.0,7,13,male,121000
+1345,Mihai Pop,4.3,3.08,Professor and Director,CMNS,Ph.D,53.0,10,11,male,376000
+1346,Mikael Lindvall,2.0,2.85,Lecturer,ENGR,Ph.D,53.0,1,11,male,24000
+1347,Mike Hewitt,5.0,3.53,Professor,ARHU,Ph.D,59.0,1,24,male,136000
+1348,Mike Kolakoski,4.4737,3.11,Senior Lecturer,ARHU,Ph.D,48.0,19,10,male,136000
+1349,Mikhail Anisimov,1.5714,3.3,Distinguished University Professor Emeritus,ENGR,Ph.D,83.0,7,15,male,136000
+1350,Mikhail Dolbilov,3.4667,3.12,Associate Professor,ARHU,Ph.D,54.0,15,20,male,110000
+1351,Millard Alexander,2.1667,2.76,Distinguished University Professor Emeritus,CMNS,Ph.D,83.0,6,3,male,136000
+1352,Min Ouyang,2.8889,3.08,Professor,CMNS,Ph.D,52.0,9,21,male,221000
+1353,Min Wang,3.3333,3.02,Professor,SPHL,Ph.D,73.0,12,31,male,215000
+1354,Min Wang,3.3333,3.02,Professor,SPHL,Ph.D,73.0,12,31,male,215000
+1355,Min Wang,3.3333,3.02,Professor,EDUC,Ph.D,60.0,12,31,male,215000
+1356,Min Wang,3.3333,3.02,Professor,EDUC,Ph.D,60.0,12,31,male,215000
+1357,Min Wu,4.0,3.06,Professor and Associate Dean,ENGR,Ph.D,51.0,1,18,male,330000
+1358,Min Xie,1.0,3.54,Professor,BSOS,Ph.D,50.0,1,10,female,183000
+1359,Minglang Zhou,1.0,3.06,Professor,ARHU,Ph.D,69.0,4,14,male,133000
+1360,Mira Azarm,3.4,3.46,Lecturer,SVPA,Master's,46.0,5,52,female,100000
+1361,Mircea Raianu,4.6667,3.06,Associate Professor,ARHU,Ph.D,38.0,6,15,male,115000
+1362,Miroslaw Skibniewski,1.8571,3.0,Professor,ENGR,Ph.D,66.0,7,21,male,206000
+1363,Mitchell Hebert,5.0,3.72,Professor Emeritus,ARHU,Master's,67.0,1,20,male,136000
+1364,Mitchell Pavao-Zuckerman,4.5,3.53,Associate Professor,AGNR,Ph.D,52.0,2,26,male,167000
+1365,Mohamad Al-Sheikhly,2.6667,3.82,Professor,ENGR,Ph.D,73.0,3,27,male,222000
+1366,Mohamed Aggour,5.0,3.46,Professor,ENGR,Ph.D,83.0,4,16,male,96000
+1367,Mohammad Bazargan,5.0,3.46,Assistant Clinical Professor,ARHU,Ph.D,54.0,1,16,male,90000
+1368,Mohammad Fazelpour,3.5625,3.51,Lecturer,ENGR,Ph.D,42.0,16,19,male,108000
+1369,Mohammad Hajiaghayi,2.5882,3.19,Professor,CMNS,Ph.D,47.0,17,17,male,312000
+1370,Mollie Kaufer,4.8333,3.43,Lecturer,ARHU,Master's,36.0,6,29,female,57000
+1371,Mollye Bendell,5.0,3.36,Assistant Professor,ARHU,Master's,35.0,5,25,female,90000
+1372,Mona Mittal,5.0,3.72,Associate Professor,SPHL,Ph.D,49.0,1,24,female,139000
+1373,Monerah Al-Dubayan,5.0,3.78,Lecturer,EDUC,Master's,30.0,1,5,female,13000
+1374,Mong-Han Huang,5.0,3.3,Associate Professor,CMNS,Ph.D,42.0,1,13,male,127000
+1375,Monica Kearney,2.7632,3.49,Lecturer and Assistant Chair,BSOS,Ph.D,34.0,40,32,female,154000
+1376,Monica VanKlompenberg,3.3333,3.02,Senior Lecturer,AGNR,Ph.D,39.0,6,37,female,114000
+1377,Monique Koppel,3.2917,2.71,Senior Lecturer,CMNS,Ph.D,46.0,77,31,female,107000
+1378,Morad Elsana,4.0,2.79,Lecturer,ARHU,Master's,51.0,1,7,female,14000
+1379,Morgan Stinson,5.0,3.21,Lecturer,ARHU,Ph.D,38.0,4,8,male,61000
+1380,Mrim Boutla,4.4286,3.84,Lecturer,ARHU,Ph.D,48.0,7,9,female,27000
+1381,Mumu Xu,1.7857,3.18,Associate Professor,ENGR,Ph.D,39.0,14,14,female,136000
+1382,Muna Adem,4.8889,3.55,Assistant Professor,BSOS,Ph.D,34.0,9,2,male,141000
+1383,Munther Hassouneh,5.0,2.77,Lecturer,ENGR,Ph.D,48.0,3,5,male,23000
+1384,Musa Subasi,4.3333,2.49,Associate Professor,BMGT,Ph.D,42.0,6,9,male,341000
+1385,Myeong-Gu Seo,4.2,3.19,Professor,BMGT,Ph.D,59.0,5,26,male,305000
+1386,Myles Poulin,4.4444,2.54,Assistant Professor,CMNS,Ph.D,40.0,9,24,male,147000
+1387,Myungin Lee,3.5,3.19,Lecturer,CMNS,Ph.D,32.0,3,4,female,116000
+1388,Nadine Sahyoun,3.75,3.18,Professor,AGNR,Ph.D,73.0,4,16,female,208000
+1389,Naeemul Hassan,4.1667,3.29,Assistant Professor,JOUR,Ph.D,38.0,6,29,male,147000
+1390,Nahal Akbari-Saneh,5.0,3.12,Associate Clinical Professor,ARHU,Ph.D,52.0,1,25,female,132000
+1391,Nahid Ahmadian,3.25,2.65,Lecturer,ARHU,Ph.D,43.0,16,12,female,39000
+1392,Naijun Zhou,4.08,3.26,Senior Lecturer,BSOS,Ph.D,54.0,25,35,female,132000
+1393,Najib El-Sayed,2.9268,3.39,Professor,CMNS,Ph.D,62.0,42,25,male,292000
+1394,Nan Ratner,5.0,2.83,Professor,BSOS,Master's,73.0,1,18,female,226000
+1395,Nancy Lineman,3.1429,2.61,Lecturer,PLCY,Bachelor's,50.0,7,8,female,22000
+1396,Naomi Feldman,5.0,3.26,Professor,ARHU,Ph.D,44.0,1,43,female,186000
+1397,Naomi Sachs,1.0,3.44,Assistant Professor,AGNR,Ph.D,55.0,2,13,female,103000
+1398,Narendra Ratnapala,3.3333,3.05,Lecturer,ARHU,Master's,70.0,9,14,male,28000
+1399,Nasim DarouieHaghighi,2.5,3.11,Lecturer,ARHU,Ph.D,38.0,8,10,male,41000
+1400,Natalia Tchetcherina,2.8571,2.75,Lecturer,CMNS,Master's,55.0,16,26,female,49000
+1401,Natalia White,2.6129,2.78,Senior Lecturer,CMNS,Master's,68.0,31,27,female,96000
+1402,Natasha Cabrera,3.0,3.38,Professor,EDUC,Ph.D,62.0,9,21,female,199000
+1403,Natasha Williams,2.6667,3.43,Lecturer,SPHL,Ph.D,34.0,3,9,female,13000
+1404,Nathan Hultman,2.25,3.52,Professor,PLCY,Ph.D,51.0,4,15,male,307000
+1405,Naveen Sarna,3.1429,2.59,Senior Lecturer,BSOS,Ph.D,68.0,59,15,male,92000
+1406,Nazish Salahuddin,4.5556,3.52,Principal Lecturer,BSOS,Ph.D,46.0,18,21,female,193000
+1407,Neha Kamran,4.9,3.69,Lecturer,ARHU,Ph.D,32.0,10,1,female,59000
+1408,Neil Blough,4.1,3.02,Professor,CMNS,Ph.D,70.0,10,19,male,147000
+1409,Neil Goldsman,4.1818,3.35,Professor,ENGR,Ph.D,66.0,11,14,male,134000
+1410,Neil Lund,4.0,3.48,Lecturer,BSOS,Master's,37.0,4,16,male,78000
+1411,Nekabari Sigalo,4.4286,3.31,Lecturer,INFO,Ph.D,35.0,7,15,male,17000
+1412,Nelson Padua-Perez,4.2511,3.02,Principal Lecturer,CMNS,Master's,57.0,235,32,male,218000
+1413,Neslihan Uler,4.4,3.43,Associate Professor,AGNR,Master's,46.0,5,23,female,174000
+1414,Neta Moye,5.0,3.54,Clinical Professor,BMGT,Ph.D,60.0,1,20,female,309000
+1415,Nia Crawford,3.4,3.08,Senior Lecturer,ARHU,Master's,52.0,15,4,female,60000
+1416,Nicholas Fletcher,4.6857,3.3,Lecturer,CMNS,Ph.D,38.0,70,17,male,93000
+1417,Nicholas Roussopoulos,2.6,3.12,Professor Emeritus,CMNS,Ph.D,78.0,5,5,male,136000
+1418,Nicholas Schmerr,4.0,2.86,Associate Professor,CMNS,Ph.D,46.0,1,19,male,189000
+1419,Nick Joyce,2.6667,3.31,Associate Professor,ARHU,Ph.D,43.0,3,19,male,136000
+1420,Nick Seybert,5.0,3.43,Associate Professor,BMGT,Ph.D,44.0,1,15,male,136000
+1421,Nicole Coomber,4.2,3.73,Clinical Professor,BMGT,Ph.D,46.0,10,61,female,276000
+1422,Nicole Cuffy,4.5833,3.58,Lecturer,ARHU,Master's,37.0,12,17,female,61000
+1423,Nicole LaRonde,3.0,2.99,Adjunct Professor,CMNS,Ph.D,52.0,3,7,female,136000
+1424,Nicole Mogul,2.6071,3.73,Senior Lecturer,ENGR,Ph.D,55.0,29,31,female,89000
+1425,Nicole Powlison,3.4737,3.48,Lecturer,ARHU,Ph.D,36.0,19,12,female,10000
+1426,Nicole Romeiser,5.0,3.32,Lecturer,BSOS,Master's,58.0,1,14,female,11000
+1427,Nidhi Rawat,5.0,3.61,Associate Professor,AGNR,Ph.D,45.0,3,8,female,158000
+1428,Nikhil Chopra,3.3333,3.03,Professor,ENGR,Ph.D,46.0,6,13,male,233000
+1429,Nikolas Francis,5.0,3.88,Assistant Professor,CMNS,Ph.D,44.0,1,8,male,162000
+1430,Nima Farshchi,5.0,3.72,Lecturer,BMGT,Bachelor's,33.0,6,6,male,168000
+1431,Ning Zeng,4.5,3.22,Professor,CMNS,Ph.D,60.0,2,17,female,121000
+1432,Niranjan Ramachandran,4.7692,3.31,Professor,CMNS,Ph.D,56.0,26,32,male,179000
+1433,Niranjana Krishnan,4.0,3.56,Assistant Professor,CMNS,Ph.D,36.0,16,2,female,120000
+1434,Niratcha Tungtisanont,4.0,3.14,Lecturer,BMGT,Ph.D,39.0,4,11,female,130000
+1435,Nirupam Roy,3.3333,3.16,Assistant Professor,CMNS,Ph.D,39.0,9,8,male,204000
+1436,Nishanth Sunny,3.75,3.55,Associate Professor,AGNR,Ph.D,46.0,4,11,male,125000
+1437,Nolan Pope,5.0,2.33,Associate Professor,BSOS,Ph.D,36.0,1,14,male,188000
+1438,Norma Andrews,4.8571,3.5,Professor,CMNS,Ph.D,70.0,7,10,female,265000
+1439,Norman Wereley,3.6667,3.28,Professor,ENGR,Ph.D,64.0,6,25,male,251000
+1440,Nuno Martins,2.3333,2.72,Professor,ENGR,Ph.D,50.0,11,14,male,258000
+1441,Oded Rabin,3.1667,3.16,Associate Professor,ENGR,Ph.D,51.0,6,13,male,158000
+1442,Olga Walker,4.25,3.58,Lecturer,EDUC,Ph.D,42.0,4,27,female,87000
+1443,Oliver Gaycken,4.5833,3.33,Associate Professor,ARHU,Ph.D,53.0,12,44,male,117000
+1444,Oliver Schlake,2.3429,3.52,Clinical Professor,BMGT,Ph.D,54.0,36,66,male,381000
+1445,Olivia Saracho,5.0,3.9,Professor,EDUC,Ph.D,80.0,1,25,female,132000
+1446,Oludolapo Demuren,4.85,3.7,Lecturer,ARHU,Master's,32.0,23,13,female,89000
+1447,Omar Agha,5.0,3.12,Assistant Professor,ARHU,Ph.D,31.0,1,7,male,108000
+1448,Orrin Wang,1.6,2.8,Professor,ARHU,Ph.D,68.0,5,20,male,152000
+1449,P Kshetry,2.7143,3.36,Lecturer,INFO,Master's,33.0,7,21,male,25000
+1450,PATRINA CLARK,1.0,3.6,Lecturer,CLAR,Bachelor's,29.0,3,9,female,28000
+1451,Pablo Slutzky,3.0,3.4,Assistant Professor,BMGT,Ph.D,39.0,3,17,male,334000
+1452,Padric Mylod,5.0,3.68,Lecturer,INFO,Master's,30.0,1,6,male,27000
+1453,Pamela Abshire,4.125,3.5,Professor,ENGR,Ph.D,55.0,8,21,female,267000
+1454,Pamela Duffy,4.4444,3.59,Lecturer,INFO,Bachelor's,65.0,20,43,female,144000
+1455,Pamela Gerhardt,5.0,3.56,Principal Lecturer,ARHU,Master's,64.0,7,9,female,70000
+1456,Pamela Orel,3.6,3.55,Principal Lecturer,ARHU,Master's,69.0,5,2,female,81000
+1457,Paolo Santorio,3.4118,2.11,Professor,ARHU,Ph.D,42.0,17,16,male,147000
+1458,Partha Lahiri,3.0,2.62,Professor and Director,BSOS,Ph.D,68.0,2,30,male,287000
+1459,Patricia Alexander,4.4167,3.7,Distinguished University Professor,EDUC,Ph.D,77.0,13,18,female,212000
+1460,Patricia Bory,4.5,3.66,Associate Clinical Professor,PLCY,Bachelor's,34.0,3,14,female,74000
+1461,Patricia Collins,5.0,3.29,Distinguished University Professor Emerita,BSOS,Ph.D,78.0,1,6,female,32000
+1462,Patricia Greenspan,2.0,2.48,Professor Emerita,ARHU,Ph.D,81.0,2,13,female,136000
+1463,Patrick Brosnan,2.6739,3.05,Professor,CMNS,Ph.D,56.0,47,23,male,189000
+1464,Patrick Chung,2.6667,2.95,Assistant Professor,ARHU,Ph.D,38.0,3,19,male,102000
+1465,Patrick Craig,4.3333,3.19,Associate Professor,ARHU,Master's,73.0,6,17,male,107000
+1466,Patrick Fitzpatrick,4.7778,3.06,Professor Emeritus,CMNS,Ph.D,81.0,18,8,male,136000
+1467,Patrick Kanold,4.0,3.28,Professor Emeritus,CMNS,Ph.D,53.0,1,17,male,136000
+1468,Patrick Killion,5.0,3.73,Director,SVPA,Ph.D,50.0,3,4,male,209000
+1469,Patrick McAvoy,4.4783,3.28,Senior Lecturer,ENGR,Ph.D,44.0,23,19,male,133000
+1470,Patrick McNamee,2.4,3.67,Lecturer,BMGT,Master's,67.0,22,20,male,93000
+1471,Patrick Nelson,2.0909,3.54,Lecturer,ARHU,Bachelor's,56.0,15,2,male,27000
+1472,Patrick O'Shea,5.0,3.07,Professor,ENGR,Ph.D,68.0,5,6,male,509000
+1473,Patrick Wohlfarth,4.2353,3.21,Professor,BSOS,Ph.D,43.0,34,15,male,211000
+1474,Patrik Widrig,5.0,3.67,Professor,ARHU,Bachelor's,66.0,3,67,male,117000
+1475,Paul Albertus,5.0,3.04,Associate Professor,ENGR,Ph.D,44.0,3,13,male,196000
+1476,Paul Anderson,4.7778,3.34,Lecturer,ENGR,Ph.D,45.0,9,19,male,89000
+1477,Paul Cote,4.6818,3.38,Senior Lecturer,ARHU,Master's,41.0,22,64,male,87000
+1478,Paul Hanges,5.0,3.6,Professor,BSOS,Ph.D,67.0,2,22,male,193000
+1479,Paul Kline,2.8571,3.07,Lecturer,CMNS,Master's,28.0,91,6,male,39000
+1480,Paul Landau,2.7,2.83,Professor,ARHU,Ph.D,63.0,10,26,male,142000
+1481,Paul Leisnham,5.0,3.69,Professor and Chair,AGNR,Ph.D,47.0,1,39,male,248000
+1482,Paul Maykish,4.0,3.02,Adjunct Professor,UGST,Ph.D,36.0,3,11,male,8000
+1483,Paul Paukstelis,3.2258,2.11,Associate Professor,CMNS,Ph.D,50.0,31,16,male,120000
+1484,Paul Pietroski,3.3333,2.21,Distinguished University Professor Emeritus,ARHU,Ph.D,61.0,3,17,male,136000
+1485,Paul Schonfeld,1.5,3.25,Professor,ENGR,Ph.D,73.0,2,17,male,199000
+1486,Paul Shackel,4.25,3.24,Professor and Acting Chair,BSOS,Ph.D,66.0,4,49,male,257000
+1487,Paul Shapiro,4.2222,3.66,Associate Clinical Professor,BMGT,Ph.D,50.0,9,34,male,237000
+1488,Paul Smith,2.3333,2.65,Associate Professor Emeritus,CMNS,Ph.D,82.0,3,18,male,144000
+1489,Paulo Prochno,3.8571,3.47,Clinical Professor,BMGT,Ph.D,53.0,7,74,male,288000
+1490,Pedram Sadeghian,3.6117,2.57,Senior Lecturer,CMNS,Ph.D,47.0,114,19,male,177000
+1491,Peggy Wilson,5.0,1.61,Associate Clinical Professor,EDUC,Ph.D,51.0,9,22,female,76000
+1492,Peng Huang,3.6667,3.5,Associate Professor,BMGT,Ph.D,47.0,12,12,male,288000
+1493,Periloux Peay,3.3333,3.45,Assistant Professor,BSOS,Ph.D,39.0,3,5,female,152000
+1494,Perla Guerrero,3.4,3.02,Associate Professor,ARHU,Ph.D,44.0,10,36,female,140000
+1495,Peter Bernard,3.6,3.05,Professor Emeritus,ENGR,Ph.D,75.0,5,9,male,136000
+1496,Peter Carruthers,4.0,2.53,Professor,ARHU,Ph.D,72.0,18,17,male,213000
+1497,Peter Chang,1.8667,2.51,Associate Professor,ENGR,Ph.D,72.0,30,26,male,162000
+1498,Peter Chung,3.0,2.95,Professor,ENGR,Ph.D,53.0,7,10,male,266000
+1499,Peter Coughlin,3.0323,1.82,Associate Professor,BSOS,Ph.D,74.0,31,11,male,97000
+1500,Peter Cramton,3.7143,3.07,Professor Emeritus,BSOS,Ph.D,67.0,7,4,male,136000
+1501,Peter Glanville,5.0,3.04,Associate Professor,ARHU,Ph.D,50.0,1,18,male,93000
+1502,Peter Grybauskas,4.5417,3.0,Principal Lecturer,ARHU,Master's,39.0,24,12,male,108000
+1503,Peter Keleher,2.8438,2.78,Associate Professor,CMNS,Ph.D,61.0,32,13,male,172000
+1504,Peter Kofinas,4.0526,3.7,Professor and Chair,ENGR,Ph.D,58.0,19,24,male,337000
+1505,Peter Leone,3.6,3.53,Professor Emeritus,EDUC,Ph.D,75.0,5,10,male,136000
+1506,Peter Mallios,4.6429,3.58,Associate Professor and Executive Director,UGST,Ph.D,57.0,14,21,male,213000
+1507,Peter May,3.0,3.64,Lecturer,AGNR,Ph.D,55.0,4,29,male,25000
+1508,Peter Morici,3.0,3.28,Professor Emeritus,BMGT,Ph.D,77.0,3,2,male,136000
+1509,Peter Murrell,3.5789,1.74,Professor,BSOS,Ph.D,76.0,19,19,male,266000
+1510,Peter Nemes,3.0,2.11,Professor,CMNS,Ph.D,43.0,4,8,male,200000
+1511,Peter Osorio,5.0,3.25,Assistant Professor,ARHU,Ph.D,35.0,2,8,male,82000
+1512,Peter Sandborn,3.9474,2.88,Professor,ENGR,Ph.D,65.0,19,13,male,257000
+1513,Peter Shawhan,3.8125,2.09,Professor,CMNS,Ph.D,57.0,32,31,male,195000
+1514,Peter Sunderland,3.3684,3.34,Professor,ENGR,Ph.D,64.0,19,21,male,236000
+1515,Peter Wien,3.5,2.79,Professor,ARHU,Ph.D,48.0,2,33,male,152000
+1516,Peter Witte,5.0,3.51,Senior Lecturer,ARHU,Master's,40.0,7,20,male,15000
+1517,Philip Cohen,4.0,2.76,Professor,BSOS,Ph.D,55.0,19,26,male,177000
+1518,Philip DeShong,3.7692,2.93,Professor Emeritus,CMNS,Ph.D,76.0,13,11,male,22000
+1519,Philip Evers,4.25,3.48,Associate Professor,BMGT,Ph.D,60.0,4,20,male,281000
+1520,Philip Johnson,4.6667,3.42,Associate Professor,CMNS,Ph.D,46.0,3,18,male,148000
+1521,Philip Joyce,4.8,3.31,Professor,PLCY,Ph.D,69.0,10,22,male,328000
+1522,Philip Nash,5.0,3.76,Lecturer,UGST,Bachelor's,69.0,3,6,male,6000
+1523,Philip Resnik,5.0,3.06,Professor,ARHU,Ph.D,60.0,3,23,male,260000
+1524,Philip Soergel,5.0,3.36,Professor,ARHU,Ph.D,67.0,2,10,male,185000
+1525,Phillip Moses,3.8182,3.62,Principal Lecturer,ARHU,Master's,44.0,11,2,male,115000
+1526,Phoebe Hamilton,5.0,2.43,Assistant Professor,CMNS,Ph.D,40.0,2,2,female,182000
+1527,Ping McLemore,5.0,3.3,Lecturer,BMGT,Ph.D,45.0,2,6,female,19000
+1528,Ping Wang,2.5,3.52,Associate Professor,INFO,Ph.D,52.0,2,25,male,63000
+1529,Ping-Tong Ho,3.0,2.61,Professor Emeritus,ENGR,Master's,74.0,1,3,male,136000
+1530,Pino Martin,2.0,2.89,Professor,ENGR,Ph.D,53.0,2,9,male,136000
+1531,Piotr Swistak,3.3333,2.63,Associate Professor,BSOS,Ph.D,69.0,21,19,male,114000
+1532,Po-Yen Chen,5.0,3.72,Assistant Professor,ENGR,Ph.D,38.0,1,15,male,167000
+1533,Polyvia Parara,4.3333,3.4,Senior Lecturer,ARHU,Ph.D,57.0,3,34,female,76000
+1534,Porter Olsen,4.1429,3.6,Lecturer,ARHU,Master's,43.0,14,18,male,63000
+1535,Prabahkar Tamboli,5.0,3.36,Adjunct Professor,AGNR,Ph.D,97.0,2,1,male,136000
+1536,Prakash Narayan,3.6667,2.66,Professor,ENGR,Ph.D,71.0,6,14,male,278000
+1537,Pratap Tokekar,4.0,3.44,Associate Professor,CMNS,Ph.D,39.0,4,7,male,237000
+1538,Pratyush Tiwary,5.0,3.48,Professor,CMNS,Ph.D,40.0,2,24,male,227000
+1539,Progyan Basu,3.5468,3.29,Clinical Professor,BMGT,Ph.D,64.0,140,29,male,309000
+1540,Protiti Dastidar,3.4444,3.3,Clinical Professor,BMGT,Ph.D,61.0,9,24,female,230000
+1541,Psyche Williams-Forson,5.0,2.07,Professor and Chair,ARHU,Ph.D,60.0,2,9,female,273000
+1542,Qin Wang,4.4286,2.93,Professor,AGNR,Ph.D,55.0,7,24,male,196000
+1543,Qingbin Cui,3.125,3.31,Professor,ENGR,Ph.D,54.0,8,24,male,212000
+1544,Quincy Mills,5.0,2.09,Associate Professor,ARHU,Ph.D,50.0,1,26,male,201000
+1545,Quira Zeidan,5.0,3.83,Assistant Clinical Professor,SVPA,Ph.D,48.0,3,17,female,92000
+1546,R Apter,4.8,3.5,Senior Lecturer,AGNR,Ph.D,67.0,11,34,male,138000
+1547,Rabiatu Barrie,4.6667,3.26,Assistant Professor,SPHL,Ph.D,35.0,3,7,female,141000
+1548,Rabindra Mohapatra,3.1667,2.63,Distinguished University Professor Emeritus,CMNS,Ph.D,83.0,18,9,male,58000
+1549,Rachael Bradley-Montgomery,1.0,2.82,Lecturer,INFO,Master's,49.0,6,8,female,136000
+1550,Rachel Cote,5.0,2.83,Lecturer,ARHU,Master's,40.0,4,2,female,27000
+1551,Rachel Ellis,4.3333,3.66,Assistant Professor,BSOS,Ph.D,37.0,6,10,female,120000
+1552,Rachel Gammons,5.0,3.17,Librarian IV,LIBR,Master's,37.0,2,6,female,109000
+1553,Rachel Haber,4.3846,3.41,Senior Lecturer,BSOS,Ph.D,39.0,13,11,female,111000
+1554,Rachel Lamb,3.0,3.03,Adjunct Assistant Professor,BSOS,Ph.D,35.0,4,8,female,11000
+1555,Rachel Pinker,2.8571,3.29,Professor,CMNS,Ph.D,82.0,7,15,female,180000
+1556,Rachel Romeo,4.0,3.77,Assistant Professor,EDUC,Ph.D,36.0,1,8,female,144000
+1557,Rachel Rudinger,2.5,3.2,Assistant Professor,CMNS,Ph.D,34.0,14,6,female,204000
+1558,Rachel Schine,4.3333,3.24,Assistant Professor,ARHU,Ph.D,34.0,9,19,female,89000
+1559,Rachel Singpurwalla,4.6364,1.84,Associate Professor,ARHU,Ph.D,54.0,11,28,female,117000
+1560,Rachel VanDaalen,4.0,3.51,Lecturer,BSOS,Ph.D,33.0,18,12,female,136000
+1561,Rachel Waugh,5.0,3.72,Senior Lecturer,ARHU,Master's,56.0,15,13,female,45000
+1562,Rachelle Sampson,5.0,3.09,Associate Professor,BMGT,Ph.D,55.0,1,24,female,289000
+1563,Radford Skudrna,4.5217,3.15,Senior Lecturer,ARHU,Master's,37.0,23,12,male,71000
+1564,Radu Balan,2.8333,2.62,Professor,CMNS,Ph.D,55.0,6,25,male,252000
+1565,Radu Lazar,3.1379,2.91,Senior Lecturer,BMGT,Ph.D,52.0,89,21,male,191000
+1566,Raghu Murtugudde,3.0,2.9,Professor Emeritus,CMNS,Ph.D,64.0,2,14,male,136000
+1567,Rajarshi Roy,4.3333,3.12,Professor,CMNS,Ph.D,74.0,18,16,male,314000
+1568,Rajeev Barua,3.7647,3.32,Professor,ENGR,Ph.D,55.0,17,14,male,176000
+1569,Rajshree Agarwal,5.0,3.04,Professor,BMGT,Ph.D,61.0,2,18,female,136000
+1570,Ralph Bauer,3.2857,2.53,Professor,ARHU,Ph.D,56.0,7,9,male,179000
+1571,Ralph Dubayah,2.3333,2.62,Professor,BSOS,Ph.D,65.0,6,9,male,316000
+1572,Raluca Rosca,2.0758,2.56,Lecturer,CMNS,Ph.D,57.0,70,28,female,77000
+1573,Ramani Duraiswami,3.1429,2.57,Professor,CMNS,Ph.D,62.0,7,27,female,261000
+1574,Randy Ontiveros,4.5135,3.51,Associate Professor,ARHU,Ph.D,50.0,37,30,male,136000
+1575,Raphael Mazzone,5.0,3.64,Associate Clinical Professor,ARHU,Ph.D,44.0,5,28,male,105000
+1576,Rashawn Ray,5.0,3.27,Professor,BSOS,Master's,44.0,1,18,male,289000
+1577,Raymond Adomaitis,4.75,3.47,Professor,ENGR,Ph.D,63.0,4,19,male,207000
+1578,Raymond StLeger,3.8824,3.41,Distinguished University Professor,CMNS,Ph.D,69.0,37,10,male,136000
+1579,Raymond Weil,3.8,3.04,Professor,AGNR,Ph.D,77.0,11,45,male,169000
+1580,Rebecca Hann,4.6,3.29,Professor and Assistant Dean,BMGT,Ph.D,54.0,6,14,female,442000
+1581,Rebecca Holden,3.5625,3.16,Principal Lecturer,ARHU,Ph.D,58.0,16,13,female,70000
+1582,Rebecca Ratner,4.5,3.64,Professor,BMGT,Ph.D,55.0,10,11,female,372000
+1583,Reeve Vanneman,2.6,2.81,Professor,BSOS,Ph.D,80.0,10,20,male,177000
+1584,Regina Haag,3.0,3.6,Associate Clinical Professor,ARHU,Ph.D,42.0,2,17,female,108000
+1585,Regina Igel,4.8,3.2,Professor Emerita,ARHU,Ph.D,78.0,5,19,female,136000
+1586,Reid Compton,2.8261,3.6,Principal Lecturer,CMNS,Ph.D,69.0,23,22,male,108000
+1587,Rellie Rozin,5.0,3.53,Professor,BMGT,Ph.D,42.0,2,37,male,374000
+1588,Renee Ater,3.5,3.24,Associate Professor Emerita,ARHU,Ph.D,60.0,10,15,female,136000
+1589,Renee Hill,5.0,3.51,Principal Lecturer,INFO,Ph.D,50.0,1,34,female,187000
+1590,Renina Jarmon,2.5,3.48,Lecturer,BSOS,Master's,47.0,2,6,female,7000
+1591,Reza Ghodssi,4.0,3.22,Professor and Executive Director,ENGR,Ph.D,57.0,1,10,male,368000
+1592,Reza Monfaredi,2.0,3.2,Lecturer,ENGR,Ph.D,44.0,1,7,male,58000
+1593,Rhoda Margesson,1.25,3.62,Adjunct Professor,UGST,Ph.D,59.0,4,10,female,1000
+1594,Ricardo Araneda,2.25,3.7,Professor,CMNS,Ph.D,61.0,4,43,male,172000
+1595,Ricardo Nochetto,2.0,2.76,Professor,CMNS,Ph.D,71.0,4,18,male,289000
+1596,Ricco Hall,3.0,3.32,Lecturer,PLCY,Master's,48.0,4,16,male,38000
+1597,Richard Bell,4.5455,3.07,Professor,ARHU,Ph.D,48.0,22,30,male,202000
+1598,Richard Calabrese,4.3333,3.24,Professor Emeritus,ENGR,Ph.D,78.0,3,8,male,136000
+1599,Richard Daniels,4.0,2.72,Lecturer,BMGT,Bachelor's,74.0,13,3,male,136000
+1600,Richard Greene,5.0,3.24,Professor,CMNS,Ph.D,87.0,9,11,male,334000
+1601,Richard Hutchins,2.4667,3.16,Lecturer,BMGT,Master's,80.0,15,9,male,17000
+1602,Richard King,4.4286,3.17,Associate Professor Emeritus,ARHU,Ph.D,66.0,21,10,male,136000
+1603,Richard Klank,2.6875,3.6,Associate Professor,ARHU,Master's,85.0,16,34,male,92000
+1604,Richard Kohn,3.5,3.5,Professor,AGNR,Ph.D,62.0,2,25,male,170000
+1605,Richard La,2.9286,2.62,Professor,ENGR,Ph.D,53.0,14,24,male,271000
+1606,Richard Layton,4.6667,2.64,Lecturer,ARHU,Master's,68.0,7,8,male,21000
+1607,Richard McCuen,4.5,3.07,Professor Emeritus,ENGR,Ph.D,80.0,10,7,male,136000
+1608,Richard Mushotzky,3.8,2.97,Professor,CMNS,Ph.D,79.0,10,14,male,202000
+1609,Richard Panzer,4.0,3.31,Lecturer,INFO,Master's,51.0,2,3,male,6000
+1610,Richard Reynnells,4.7778,3.72,Lecturer,ARHU,Ph.D,75.0,10,7,male,28000
+1611,Richard Toohey,3.6,3.44,Lecturer,BMGT,Master's,66.0,7,8,male,20000
+1612,Richard Wentworth,3.2593,2.99,Professor,CMNS,Ph.D,62.0,27,17,male,249000
+1613,Richmond Mathews,3.75,2.88,Associate Professor,BMGT,Ph.D,51.0,8,25,male,365000
+1614,Rion Scott,3.4375,3.3,Associate Professor,ARHU,Master's,45.0,16,16,male,109000
+1615,Riva Riley,5.0,3.97,Assistant Clinical Professor,UGST,Ph.D,35.0,8,8,male,41000
+1616,Roald Sagdeev,4.0,3.65,Distinguished Professor Emeritus,CMNS,Ph.D,92.0,4,1,male,136000
+1617,Roan Parrish,3.1,3.76,Lecturer,ENGR,Master's,30.0,10,5,male,21000
+1618,Rob Wells,4.6,3.25,Associate Professor,JOUR,Ph.D,63.0,5,22,male,140000
+1619,Robert Ballenger,4.8182,3.59,Senior Lecturer,AGNR,Master's,50.0,23,14,male,69000
+1620,Robert Briber,4.3333,3.39,Professor and Associate Dean,ENGR,Ph.D,68.0,6,8,male,390000
+1621,Robert Buchanan,3.0,3.09,Professor Emeritus,AGNR,Ph.D,78.0,1,18,male,204000
+1622,Robert Chambers,4.2,3.15,Professor,AGNR,Ph.D,75.0,5,28,male,363000
+1623,Robert Chester,4.75,2.81,Senior Lecturer,ARHU,Ph.D,48.0,8,48,male,81000
+1624,Robert Chiles,4.8,3.47,Senior Lecturer,ARHU,Ph.D,43.0,68,47,male,101000
+1625,Robert Choflet,4.375,3.22,Lecturer,BSOS,Ph.D,42.0,9,33,male,84000
+1626,Robert Feldman,1.0,3.16,Professor Emeritus,SPHL,Ph.D,83.0,2,9,male,136000
+1627,Robert Friedel,2.9375,2.52,Professor Emeritus,ARHU,Ph.D,76.0,16,14,male,136000
+1628,Robert Gibson,5.0,3.47,Professor,ARHU,Master's,75.0,1,13,male,108000
+1629,Robert Graham,5.0,3.85,Assistant Clinical Professor,UGST,Ph.D,46.0,7,10,male,76000
+1630,Robert Harris,1.7727,3.32,Lecturer,ARHU,Bachelor's,35.0,24,1,male,71000
+1631,Robert Levine,4.2727,3.19,Distinguished University Professor,ARHU,Ph.D,72.0,11,14,male,222000
+1632,Robert Lucci,4.8125,3.41,Senior Lecturer,ARHU,Master's,32.0,34,20,male,94000
+1633,Robert Newcomb,2.9,3.66,Professor Emeritus,ENGR,Ph.D,92.0,10,13,male,136000
+1634,Robert Patro,3.8182,2.97,Associate Professor,CMNS,Ph.D,41.0,22,8,male,250000
+1635,Robert Pernick,4.3333,2.94,Lecturer,BSOS,Ph.D,71.0,3,8,male,7000
+1636,Robert Sanner,3.5172,2.73,Associate Professor and Associate Chair,ENGR,Ph.D,62.0,29,20,male,146000
+1637,Robert Schwab,3.7241,1.98,Professor Emeritus,BSOS,Ph.D,78.0,29,6,male,136000
+1638,Robert Slevc,2.6667,3.57,Associate Professor and Associate Chair,BSOS,Ph.D,48.0,3,24,male,136000
+1639,Robert Smith,5.0,3.28,Lecturer,ARHU,Master's,43.0,4,9,male,82000
+1640,Robert Sprinkle,1.0,3.39,Associate Professor,PLCY,Ph.D,76.0,1,22,male,165000
+1641,Robert Stewart,5.0,3.94,Assistant Professor,BSOS,Ph.D,35.0,9,11,male,105000
+1642,Robert Vann,3.2,2.9,Professor Emeritus,ARCH,Ph.D,79.0,10,9,male,136000
+1643,Robin Allen-Klein,4.75,3.61,Senior Lecturer,ARHU,Bachelor's,61.0,4,9,male,46000
+1644,Robin Sundaramoorthy,5.0,3.56,Faculty Specialist,JOUR,Master's,52.0,4,7,male,30000
+1645,Robyn Muncy,4.25,3.16,Professor,ARHU,Ph.D,70.0,8,20,female,147000
+1646,Rochelle Newman,2.0,3.09,Professor and Chair,BSOS,Ph.D,56.0,5,10,female,305000
+1647,Rod Brunson,2.0,3.16,Professor and Chair,BSOS,Ph.D,51.0,1,6,male,487000
+1648,Rodolphe Gentili,4.4444,3.57,Associate Professor,SPHL,Ph.D,50.0,9,39,male,163000
+1649,Rodrigo Trevino,3.0,2.75,Assistant Professor,CMNS,Ph.D,40.0,34,18,male,173000
+1650,Roland Rust,1.9,3.35,Distinguished University Professor,BMGT,Ph.D,73.0,11,7,male,584000
+1651,Romel Gomez,4.0,3.57,Professor,ENGR,Ph.D,67.0,12,33,male,271000
+1652,Ronald Mower,4.9167,3.36,Senior Lecturer,SPHL,Ph.D,41.0,13,40,male,116000
+1653,Ronald Yaros,3.6364,3.6,Associate Professor,JOUR,Ph.D,67.0,11,25,male,140000
+1654,Ronit Eisenbach,3.28,3.45,Professor,ARCH,Bachelor's,62.0,25,20,female,161000
+1655,Roohollah Ebrahimian,4.7667,2.55,Principal Lecturer,CMNS,Ph.D,37.0,60,38,male,119000
+1656,Rosemary Lindle,3.0,2.83,Lecturer,SPHL,Ph.D,61.0,3,10,female,7000
+1657,Ross Miller,4.0,3.59,Associate Professor,SPHL,Ph.D,44.0,5,33,male,155000
+1658,Ross Salawitch,5.0,3.7,Professor,CMNS,Ph.D,66.0,4,23,male,245000
+1659,Rossina Liu,2.6667,3.5,Assistant Professor,EDUC,Ph.D,49.0,3,21,female,141000
+1660,Roxanne Clements,5.0,3.21,Lecturer,ARHU,Bachelor's,67.0,1,7,female,13000
+1661,Roxanne Lefkoff,3.5714,3.35,Clinical Professor,BMGT,Ph.D,67.0,44,18,female,198000
+1662,Roy Thomason,3.75,3.69,Lecturer,BMGT,Bachelor's,41.0,26,40,male,193000
+1663,Russell Wermers,5.0,3.02,Professor,BMGT,Ph.D,58.0,1,15,male,467000
+1664,Ruth Lozner,4.0,3.25,Associate Professor Emerita,ARHU,Master's,75.0,1,5,female,136000
+1665,Ruth Phillips,5.0,3.55,Senior Lecturer,ARHU,Ph.D,52.0,4,7,female,39000
+1666,Ruth Zambrana,1.0,1.8,Distinguished University Professor,ARHU,Ph.D,78.0,1,21,female,242000
+1667,Ryan Long,4.8333,3.43,Professor,ARHU,Ph.D,53.0,6,31,male,132000
+1668,Ryan O'Grady,4.8621,3.69,Lecturer,INFO,Master's,42.0,30,37,male,184000
+1669,Ryan Sochol,3.1579,3.73,Associate Professor,ENGR,Ph.D,41.0,20,25,male,215000
+1670,Sabeen Sheikh,4.125,3.7,Lecturer,ARHU,Master's,44.0,8,1,female,28000
+1671,Sabrina Baron,4.25,3.1,Principal Lecturer,ARHU,Ph.D,66.0,20,23,female,94000
+1672,Sabrina Islam,4.1538,3.41,Lecturer,ARHU,Master's,33.0,13,15,female,58000
+1673,Sacoby Wilson,1.0,3.26,Professor,SPHL,Ph.D,49.0,1,59,male,197000
+1674,Sahil Shah,5.0,3.69,Assistant Professor,ENGR,Bachelor's,36.0,4,5,male,189000
+1675,Sajeela Yaqub,3.1667,3.05,Lecturer,ARHU,Master's,54.0,7,2,female,42000
+1676,Sally Simpson,2.0,3.16,Distinguished University Professor Emerita,BSOS,Ph.D,71.0,3,9,female,136000
+1677,Samah Al-salami,5.0,3.15,Lecturer,ARHU,Bachelor's,43.0,2,22,female,48000
+1678,Samantha Kemper,2.8333,2.98,Lecturer,INFO,Bachelor's,49.0,24,13,female,39000
+1679,Sami Ainane,3.2727,2.52,Senior Lecturer,ENGR,Ph.D,68.0,11,24,male,159000
+1680,Samir Khuller,4.0,2.9,Professor Emeritus,CMNS,Ph.D,61.0,3,7,male,136000
+1681,Samira Anderson,5.0,3.84,Professor and Associate Chair,BSOS,Ph.D,68.0,3,18,female,189000
+1682,Samrat Bhattacharjee,3.2083,2.49,Professor,CMNS,Ph.D,53.0,24,12,male,201000
+1683,Samuel Handwerger,4.8286,3.47,Lecturer,BMGT,Master's,72.0,40,50,male,155000
+1684,Samuel Holley-Kline,4.5,3.85,Assistant Clinical Professor,UGST,Ph.D,35.0,4,6,male,41000
+1685,Samuel Kerstein,3.4667,2.29,Professor and Chair,ARHU,Ph.D,60.0,15,14,male,251000
+1686,Samuel Kessel,5.0,3.98,Visiting Clinical Professor,BSOS,Bachelor's,77.0,3,8,male,125000
+1687,Samuel Ramsey,4.2,3.17,Professor Emeritus,ARHU,Ph.D,81.0,5,5,male,136000
+1688,Samuel Rubin,4.7813,3.79,Lecturer,AGNR,Master's,69.0,64,8,male,62000
+1689,Sandra Cerrai,3.6667,2.6,Professor and Associate Chair,CMNS,Ph.D,55.0,15,29,female,266000
+1690,Sandra Quinn,1.0,3.49,Professor Emerita,SPHL,Ph.D,74.0,1,11,female,136000
+1691,Sandra Saperstein,4.75,3.76,Lecturer,SPHL,Ph.D,64.0,4,34,female,73000
+1692,Sangbok Lee,2.3333,3.16,Professor,CMNS,Ph.D,57.0,9,5,male,247000
+1693,Sangeeta Ray,4.0,3.25,Professor,ARHU,Ph.D,67.0,3,31,female,185000
+1694,Sangeetha Madhavan,2.3913,2.73,Professor and Chair,BSOS,Ph.D,59.0,23,27,female,255000
+1695,Sanghamitra Dutta,4.5,3.3,Assistant Professor,ENGR,Master's,32.0,2,6,female,176000
+1696,Santiago Bonetti,5.0,3.97,Lecturer,ENGR,Ph.D,48.0,3,3,male,10000
+1697,Sara Browning,5.0,3.48,Lecturer,JOUR,Master's,44.0,2,7,female,66000
+1698,Sara Faradji,5.0,3.3,Lecturer,ARHU,Master's,34.0,7,16,female,69000
+1699,Sara Lombardi,4.3333,3.24,Senior Lecturer,CMNS,Ph.D,40.0,18,16,female,136000
+1700,Sara Pearson,4.0,3.69,Professor,ARHU,Bachelor's,76.0,2,48,female,119000
+1701,Sara Strey,4.0,3.9,Assistant Clinical Professor,SVPA,Ph.D,40.0,1,7,female,73000
+1702,Sara Via,2.1463,3.07,Professor,CMNS,Ph.D,73.0,41,7,female,127000
+1703,Sara Wilder,5.0,3.14,Assistant Professor,ARHU,Ph.D,37.0,2,17,female,109000
+1704,Sarah Benharrech,3.0,3.32,Associate Professor,ARHU,Ph.D,56.0,1,31,female,56000
+1705,Sarah Cameron,2.5,3.01,Associate Professor,ARHU,Ph.D,48.0,2,11,female,155000
+1706,Sarah Croco,3.3333,3.33,Professor,BSOS,Ph.D,47.0,40,23,female,246000
+1707,Sarah Dammeyer,4.9091,3.52,Senior Lecturer,ARHU,Master's,44.0,11,13,female,101000
+1708,Sarah Eno,4.5,3.41,Professor,CMNS,Ph.D,63.0,4,19,female,214000
+1709,Sarah Glancy,5.0,3.41,Assistant Professor,SPHL,Ph.D,39.0,5,25,female,121000
+1710,Sarah Goodson,2.0,3.18,Lecturer,ARHU,Master's,33.0,16,8,female,53000
+1711,Sarah Henson-Darko,5.0,3.72,Senior Lecturer,CMNS,Bachelor's,43.0,5,23,female,114000
+1712,Sarah Humud,3.04,3.25,Assistant Clinical Professor,ARHU,Ph.D,37.0,26,25,female,89000
+1713,Sarah Kroncke,3.75,3.59,Senior Lecturer,BMGT,Master's,54.0,4,28,female,237000
+1714,Sarah Lee,3.0,3.19,Senior Lecturer,CMNS,Ph.D,45.0,22,10,female,226000
+1715,Sarah Moore,4.0,3.69,Assistant Clinical Professor,EDUC,Ph.D,47.0,2,18,female,96000
+1716,Sarah Oates,4.75,3.6,Professor,JOUR,Ph.D,62.0,12,20,female,216000
+1717,Sarah Penniston-Dorland,4.25,3.09,Professor,CMNS,Ph.D,61.0,8,15,female,148000
+1718,Sarah Racz,5.0,3.58,Assistant Clinical Professor,BSOS,Ph.D,44.0,1,4,female,136000
+1719,Sarah Sohns,5.0,3.63,Assistant Clinical Professor,BSOS,Bachelor's,40.0,2,21,female,122000
+1720,Sarah Tahamont,2.9375,3.02,Associate Professor,BSOS,Ph.D,43.0,17,12,female,146000
+1721,Sarah Zsak,3.6667,3.32,Lecturer,BSOS,Master's,43.0,3,7,female,7000
+1722,Saul Sosnowski,3.5,2.92,Professor,ARHU,Ph.D,80.0,2,25,male,223000
+1723,Saverio Giovacchini,4.125,3.0,Associate Professor,ARHU,Ph.D,62.0,8,33,male,139000
+1724,Sayan Bhattacharya,4.8,3.1,Assistant Professor,ARHU,Ph.D,40.0,5,7,male,120000
+1725,Scot Reese,4.0,3.81,Professor,ARHU,Master's,66.0,2,46,male,184000
+1726,Scott Jackson,2.8788,3.5,Lecturer,INFO,Ph.D,47.0,34,9,male,112000
+1727,Scott Juntti,4.0625,3.33,Assistant Professor,CMNS,Ph.D,46.0,16,12,male,177000
+1728,Scott Kastner,4.5417,3.32,Professor,BSOS,Ph.D,52.0,24,18,male,177000
+1729,Scott Roberts,4.1176,3.4,Senior Lecturer,BSOS,Ph.D,47.0,17,14,male,18000
+1730,Scott Schmidt,5.0,3.23,Assistant Instructor,ENGR,Bachelor's,60.0,2,7,male,21000
+1731,Scott Trudell,4.75,2.95,Associate Professor,ARHU,Ph.D,45.0,4,17,male,116000
+1732,Scott Wible,5.0,3.23,Associate Professor,ARHU,Ph.D,47.0,1,13,male,127000
+1733,Sean Cao,4.0,3.55,Associate Professor,BMGT,Ph.D,36.0,8,9,male,136000
+1734,Sean Gruber,4.9153,3.47,Lecturer,CMNS,Ph.D,34.0,61,10,male,107000
+1735,Sebastian Galiani,3.5,2.52,Professor,BSOS,Ph.D,57.0,4,13,male,351000
+1736,Sebastian Wang,2.2,3.5,Lecturer,ARHU,Bachelor's,40.0,5,14,male,6000
+1737,Selena Price,1.7333,2.69,Lecturer,BSOS,Master's,46.0,33,7,female,64000
+1738,Selvon Waldron,4.6,3.79,Lecturer,PLCY,Bachelor's,27.0,5,7,male,18000
+1739,Sennur Ulukus,3.8,2.58,Distinguished University Professor and Chair,ENGR,Ph.D,56.0,5,19,female,374000
+1740,Seong-Ho Lee,5.0,3.54,Professor,AGNR,Ph.D,56.0,1,20,male,142000
+1741,Seppo Iso-Ahola,3.9286,3.0,Professor,SPHL,Ph.D,76.0,14,29,male,119000
+1742,Sergei Sukharev,2.6061,3.23,Professor,CMNS,Ph.D,67.0,33,26,male,166000
+1743,Sergii Skakun,5.0,3.03,Associate Professor,BSOS,Ph.D,45.0,5,12,male,186000
+1744,Sergio Urzua,2.8182,1.8,Professor,BSOS,Ph.D,47.0,11,24,male,265000
+1745,Serguey Braguinsky,4.0,3.61,Professor,BMGT,Ph.D,65.0,3,15,male,271000
+1746,Serhiy Kozak,5.0,3.33,Associate Professor,BMGT,Ph.D,42.0,2,12,male,363000
+1747,Shabnam Jabeen,3.9091,3.41,Associate Clinical Professor,SVPA,Ph.D,51.0,11,30,female,93000
+1748,Shaik Rahaman,2.0,3.53,Professor,AGNR,Master's,56.0,2,17,male,189000
+1749,Shana Webster-Trotman,1.6667,3.29,Lecturer,ENGR,Ph.D,51.0,6,19,female,18000
+1750,Shane Walsh,4.5789,3.37,Lecturer,BSOS,Ph.D,35.0,20,19,male,110000
+1751,Shanna Pearson,1.0,3.4,Professor,PLCY,Ph.D,49.0,12,11,female,136000
+1752,Shannon Browne,5.0,3.47,Senior Lecturer,AGNR,Ph.D,40.0,2,28,female,98000
+1753,Shannon Carcelli,5.0,3.44,Assistant Professor,BSOS,Ph.D,39.0,3,12,female,116000
+1754,Shannon Collis,5.0,3.31,Associate Professor,ARHU,Master's,46.0,2,22,female,113000
+1755,Shannon Jette,3.8571,3.17,Associate Professor,SPHL,Ph.D,49.0,14,41,female,140000
+1756,Shapour Azarm,2.0,2.99,Professor,ENGR,Ph.D,70.0,3,16,male,227000
+1757,Sharon Fries-Britt,4.0,2.57,Professor,EDUC,Ph.D,66.0,1,19,female,215000
+1758,Sharon Harley,3.3333,2.62,Professor,BSOS,Ph.D,77.0,3,26,female,162000
+1759,Shawn Parry-Giles,4.0,3.54,Professor and Chair,ARHU,Ph.D,63.0,6,65,male,257000
+1760,Shay Hazkani,3.0,2.65,Associate Professor,ARHU,Ph.D,39.0,6,41,male,88000
+1761,Sheetal Singh,2.0667,3.64,Associate Clinical Professor,BMGT,Ph.D,37.0,17,37,male,142000
+1762,Shelbi Meissner,5.0,3.67,Assistant Professor,ARHU,Ph.D,33.0,3,3,female,133000
+1763,Shen Pan,4.7368,3.19,Lecturer,ARHU,Master's,33.0,19,14,male,34000
+1764,Sheri Parks,3.0,2.87,Associate Professor Emerita,ARHU,Ph.D,69.0,2,6,female,136000
+1765,Sherry Russell,4.0,3.36,Lecturer,AGNR,Master's,54.0,5,11,female,41000
+1766,Sheryl Ehrman,4.5,3.45,Professor Emerita,ENGR,Ph.D,56.0,4,7,female,136000
+1767,ShiaauLir Wang,5.0,3.21,Lecturer,ENGR,Ph.D,57.0,1,4,male,136000
+1768,Shihab Shamma,4.5,3.41,Professor,ENGR,Ph.D,71.0,2,13,male,293000
+1769,Shirley Logan,3.6667,3.59,Professor Emerita,ARHU,Ph.D,83.0,3,5,female,136000
+1770,Shirley Micallef,2.6667,3.66,Professor,AGNR,Ph.D,56.0,3,14,female,170000
+1771,Shrihari Santosh,2.8889,3.2,Associate Professor,BMGT,Ph.D,41.0,12,9,male,359000
+1772,Shunlin Liang,3.0,3.09,Professor Emeritus,BSOS,Ph.D,64.0,2,5,female,136000
+1773,Shunyuan Xiao,4.8333,3.58,Professor,SVPA,Ph.D,63.0,6,15,male,180000
+1774,Shuvra Bhattacharyya,1.5,3.63,Professor,ENGR,Ph.D,60.0,4,11,female,247000
+1775,Siddhartha Das,4.0,3.48,Professor,ENGR,Ph.D,42.0,4,23,male,224000
+1776,Silvina Matysiak,2.5455,3.24,Associate Professor,ENGR,Ph.D,46.0,11,16,female,176000
+1777,Sima Pirmoradi,3.5,3.72,Lecturer,ARHU,Master's,38.0,2,6,female,11000
+1778,Simone-Gunde Kulin,3.0,3.11,Lecturer,CMNS,Ph.D,53.0,4,11,male,117000
+1779,Sining Song,4.8,3.59,Assistant Professor,BMGT,Ph.D,36.0,5,5,female,230000
+1780,Siv Lie,5.0,3.45,Associate Professor,ARHU,Ph.D,39.0,6,20,female,101000
+1781,Siva Viswanathan,3.3333,1.71,Professor,BMGT,Ph.D,47.0,3,19,male,372000
+1782,Soheil Feizi,3.6,3.57,Associate Professor,CMNS,Ph.D,37.0,5,12,male,144000
+1783,Sonalde Desai,3.0,2.48,Distinguished University Professor,BSOS,Ph.D,69.0,2,11,male,222000
+1784,Sonia Hirschauer,4.8364,2.29,Lecturer,CMNS,Ph.D,38.0,57,4,female,67000
+1785,Sonney Wolfe,5.0,3.65,Lecturer,ARHU,Master's,37.0,19,9,male,59000
+1786,Sougata Roy,5.0,3.3,Associate Professor,CMNS,Ph.D,52.0,2,16,male,139000
+1787,Soyoung Bae,3.25,2.95,Senior Lecturer,ARHU,Ph.D,44.0,8,28,female,67000
+1788,Sreeramamurthy Ankem,3.0,3.39,Professor,ENGR,Ph.D,75.0,3,23,male,136000
+1789,Srinivasa Raghavan,5.0,3.27,Professor,ENGR,Ph.D,55.0,4,18,male,278000
+1790,Stacey Decker,3.0,3.84,Lecturer,JOUR,Bachelor's,39.0,3,12,female,84000
+1791,Stacy Surla,4.0,1.28,Lecturer,INFO,Master's,56.0,2,16,female,59000
+1792,Stanley Presser,5.0,2.43,Distinguished University Professor,BSOS,Ph.D,76.0,1,27,male,219000
+1793,Stefan Doboszczak,4.3662,2.64,Senior Lecturer,CMNS,Ph.D,37.0,73,35,male,110000
+1794,Stefania Scandizzo,3.0108,2.69,Senior Lecturer,BSOS,Ph.D,56.0,95,20,female,100000
+1795,Stefano Passeri,5.0,3.46,Lecturer,ARCH,Bachelor's,37.0,2,9,male,43000
+1796,Stefano Villani,4.7,3.02,Professor,ARHU,Ph.D,56.0,10,30,male,152000
+1797,Stefanos Ghebrehawariat,5.0,3.77,Lecturer,BMGT,Master's,42.0,2,1,male,9000
+1798,Stephanie Allen,4.0,2.93,Lecturer,ARHU,Master's,61.0,9,4,female,91000
+1799,Stephanie Shonekan,5.0,3.78,Professor and Dean,ARHU,Ph.D,59.0,1,1,female,382000
+1800,Stephanie Yarwood,4.8,3.81,Professor,AGNR,Ph.D,49.0,10,44,female,183000
+1801,Stephen Brighton,4.125,3.29,Associate Professor and Associate Chair,BSOS,Ph.D,55.0,8,30,male,151000
+1802,Stephen Loeb,4.0,3.43,Professor Emeritus,BMGT,Ph.D,86.0,4,1,male,136000
+1803,Stephen McDaniel,1.5455,2.36,Associate Professor,SPHL,Ph.D,62.0,11,32,male,96000
+1804,Stephen Mount,2.4444,2.76,Associate Professor,CMNS,Ph.D,69.0,18,30,male,130000
+1805,Stephen Sclafani,5.0,3.82,Lecturer,BMGT,Bachelor's,52.0,1,3,male,68000
+1806,Stephen Wolniak,5.0,3.31,Professor Emeritus,CMNS,Ph.D,75.0,1,6,male,136000
+1807,Steve Fetter,5.0,3.03,Professor,PLCY,Ph.D,66.0,1,5,male,272000
+1808,Steve Halperin,3.6667,2.8,Professor,CMNS,Ph.D,82.0,18,9,male,136000
+1809,Steven Anlage,5.0,3.29,Professor,CMNS,Ph.D,65.0,7,16,male,214000
+1810,Steven Ault,3.0,3.79,Lecturer,SPHL,Master's,73.0,2,11,male,136000
+1811,Steven Brauth,4.0833,3.12,Professor Emeritus,BSOS,Ph.D,80.0,12,5,male,136000
+1812,Steven Chadwick,3.6111,2.7,Senior Lecturer,CMNS,Ph.D,35.0,91,27,male,109000
+1813,Steven Gabriel,5.0,2.65,Professor,ENGR,Ph.D,66.0,1,29,male,196000
+1814,Steven Heston,3.0,3.52,Professor,BMGT,Ph.D,64.0,5,19,male,136000
+1815,Steven Jaffee,2.3333,2.45,Lecturer,AGNR,Ph.D,65.0,3,3,male,12000
+1816,Steven Jay,5.0,3.63,Associate Professor,ENGR,Ph.D,43.0,3,26,male,205000
+1817,Steven Jones,4.3333,3.48,Lecturer,ARHU,Master's,49.0,3,39,male,28000
+1818,Steven Mansbach,4.7273,2.84,Distinguished University Professor Emeritus,ARHU,Ph.D,75.0,11,10,male,136000
+1819,Steven Marcus,4.2,3.08,Professor Emeritus,ENGR,Ph.D,76.0,5,6,male,136000
+1820,Steven Mitchell,2.6471,3.38,Senior Lecturer,ENGR,Ph.D,42.0,17,22,male,133000
+1821,Steven Prior,5.0,3.1,Associate Professor,SPHL,Ph.D,48.0,3,29,male,189000
+1822,Steven Rolston,4.0,3.32,Professor and Chair,CMNS,Ph.D,67.0,4,11,male,437000
+1823,Steven Sax,4.5,2.25,Lecturer,CMNS,Bachelor's,55.0,23,5,male,45000
+1824,Steven Selden,5.0,3.93,Professor Emeritus,EDUC,Master's,84.0,1,3,male,136000
+1825,Steven Tretter,2.6667,2.6,Associate Professor Emeritus,ENGR,Ph.D,85.0,3,7,male,8000
+1826,Stevens Miller,3.35,3.03,Lecturer,CMNS,Master's,67.0,20,17,male,138000
+1827,Stuart Vogel,4.4615,3.13,Professor Emeritus,CMNS,Ph.D,72.0,13,7,male,136000
+1828,Sujay Kaushal,4.6667,3.44,Professor,CMNS,Ph.D,50.0,15,23,male,212000
+1829,Sujin Kim,3.0,3.1,Associate Clinical Professor,BMGT,Ph.D,52.0,12,34,female,187000
+1830,Sujith Kumar,3.5122,2.72,Senior Lecturer,BSOS,Ph.D,49.0,41,14,male,55000
+1831,Sung Lee,4.0,3.5,Professor,ENGR,Ph.D,81.0,6,30,male,264000
+1832,Susan Campbell,4.0,3.4,Senior Lecturer,INFO,Ph.D,47.0,7,16,female,162000
+1833,Susan Dwyer,4.1111,3.33,Associate Professor,ARHU,Ph.D,62.0,18,29,female,136000
+1834,Susan Mazzullo,4.8043,3.3,Lecturer,CMNS,Master's,60.0,46,33,female,21000
+1835,Susan Moeller,2.6471,3.37,Professor,JOUR,Ph.D,68.0,34,14,female,179000
+1836,Susan Powell,2.1667,3.73,Lecturer,BMGT,Bachelor's,52.0,6,9,female,5000
+1837,Susan Pramschufer,4.25,2.9,Senior Lecturer,ARHU,Master's,47.0,25,26,female,66000
+1838,Susan Schwab,5.0,3.39,Professor Emerita,PLCY,Ph.D,71.0,1,6,female,136000
+1839,Susan Simon,3.25,3.23,Senior Lecturer,ARHU,Master's,69.0,4,17,female,68000
+1840,Susan White,3.6538,3.17,Clinical Professor Emerita,BMGT,Ph.D,57.0,26,10,female,9000
+1841,Susannah Paletz,4.5,3.53,Associate Professor,INFO,Ph.D,53.0,4,14,female,148000
+1842,Susannah Washburn,4.8182,3.7,Clinical Professor,PLCY,Bachelor's,54.0,11,26,female,147000
+1843,Sushant Ranadive,3.3333,3.4,Associate Professor,SPHL,Ph.D,42.0,3,25,male,148000
+1844,Suzanne Muir,4.875,3.87,Lecturer,EDUC,Master's,58.0,8,3,female,14000
+1845,Swarna Mohan,3.1519,3.36,Senior Lecturer,CMNS,Ph.D,41.0,82,17,female,98000
+1846,Sydney Lewis,3.0,3.35,Lecturer,ARHU,Ph.D,48.0,4,43,female,75000
+1847,Sydney Sharpstene,5.0,3.43,Lecturer,ARHU,Master's,28.0,18,5,female,60000
+1848,Sylvain Veilleux,4.2222,2.94,Professor and Director,CMNS,Ph.D,63.0,9,8,male,248000
+1849,T Anenson,5.0,3.29,Professor,BMGT,Bachelor's,57.0,5,10,male,293000
+1850,TJ Rainsford,3.3333,3.51,Lecturer,INFO,Master's,52.0,3,8,male,136000
+1851,Takumi Saegusa,2.5833,2.92,Associate Professor,CMNS,Ph.D,45.0,12,19,male,136000
+1852,Talia Chicherio,5.0,2.91,Lecturer,ARHU,Master's,34.0,2,5,female,6000
+1853,Tamara Clegg,4.25,3.42,Associate Professor,INFO,Ph.D,45.0,4,24,female,188000
+1854,Tamas Darvas,4.4615,3.03,Associate Professor,CMNS,Ph.D,39.0,13,13,male,203000
+1855,Tammatha O'Brien,3.0645,3.51,Principal Lecturer,CMNS,Ph.D,51.0,31,34,female,95000
+1856,Tao Lowe,3.0,3.7,Professor,ENGR,Ph.D,57.0,2,5,male,284000
+1857,Tasha Harris,3.0,3.75,Lecturer,BSOS,Master's,45.0,1,11,female,5000
+1858,Taylor Oshan,3.0,2.83,Associate Professor,BSOS,Ph.D,37.0,1,8,male,153000
+1859,Taylor Woehl,4.5,3.16,Associate Professor,ENGR,Ph.D,38.0,2,16,female,187000
+1860,Tejwansh Anand,4.0,3.69,Clinical Professor,BMGT,Master's,62.0,2,23,male,243000
+1861,Temim Nusraty,4.75,3.71,Lecturer,UGST,Bachelor's,56.0,4,7,male,15000
+1862,Teng Li,4.0,3.36,Professor,ENGR,Ph.D,51.0,9,14,female,222000
+1863,Terence Long,4.3247,3.14,Senior Lecturer,CMNS,Ph.D,40.0,77,49,male,116000
+1864,Tess Korobkin,3.8571,3.52,Assistant Professor,ARHU,Ph.D,41.0,14,19,female,136000
+1865,Thaddeus Komacek,4.7,3.24,Assistant Professor,CMNS,Ph.D,34.0,10,9,male,109000
+1866,Thanicha Ruangmas,4.8462,3.71,Assistant Clinical Professor,SVPA,Ph.D,36.0,13,16,female,88000
+1867,Thayse Lima,2.25,3.21,Associate Professor,ARHU,Ph.D,33.0,4,43,female,101000
+1868,Theodore Dayie,3.1111,2.36,Professor,CMNS,Ph.D,57.0,9,10,male,159000
+1869,Theodore Jacobson,3.3,2.73,Distinguished University Professor,CMNS,Ph.D,70.0,10,14,male,257000
+1870,Theodore Kirkpatrick,2.5882,2.83,Professor Emeritus,CMNS,Ph.D,70.0,17,3,male,136000
+1871,Theodore Leinwand,4.75,2.8,Professor Emeritus,ARHU,Ph.D,74.0,8,4,male,136000
+1872,Theresa Coletti,4.0,3.03,Professor Emerita,ARHU,Ph.D,76.0,1,7,female,136000
+1873,Thomas Alexander,5.0,3.13,Lecturer,BSOS,Ph.D,68.0,1,11,male,64000
+1874,Thomas Beigel,4.0625,2.77,Senior Lecturer,ENGR,Master's,50.0,49,20,male,109000
+1875,Thomas Cohen,3.8571,2.45,Professor and Associate Chair,CMNS,Ph.D,67.0,7,16,male,267000
+1876,Thomas Corsi,5.0,3.74,Professor,BMGT,Ph.D,76.0,5,22,male,331000
+1877,Thomas Drechsel,2.7778,1.93,Assistant Professor,BSOS,Ph.D,37.0,9,12,male,178000
+1878,Thomas Ernst,4.8889,3.6,Assistant Professor,BMGT,Bachelor's,32.0,9,8,male,337000
+1879,Thomas Goldstein,4.4286,3.33,Professor,CMNS,Ph.D,40.0,7,30,male,315000
+1880,Thomas Haines,4.5,3.35,Professor,CMNS,Ph.D,57.0,14,18,male,215000
+1881,Thomas Kocher,4.04,3.53,Professor,CMNS,Ph.D,66.0,25,14,male,291000
+1882,Thomas Lowderbaugh,3.7143,3.59,Principal Lecturer,ARHU,Ph.D,82.0,7,13,male,19000
+1883,Thomas Mauriello,4.8,3.6,Senior Lecturer,BSOS,Bachelor's,74.0,10,13,male,27000
+1884,Thomas Mazzone,5.0,3.74,Lecturer,AGNR,Master's,37.0,16,25,male,99000
+1885,Thomas McCloskey,4.9,3.7,Lecturer,ARHU,Ph.D,42.0,20,4,male,40000
+1886,Thomas Murphy,4.8571,2.77,Professor and Associate Chair,ENGR,Ph.D,53.0,15,10,male,310000
+1887,Thomas Spreen,5.0,3.37,Associate Professor,PLCY,Ph.D,38.0,1,10,male,180000
+1888,Thomas Zeller,3.4,2.84,Professor,ARHU,Ph.D,52.0,11,18,male,137000
+1889,Tianyi Zhou,2.4762,3.32,Assistant Professor,CMNS,Ph.D,39.0,21,5,male,137000
+1890,Tim Knight,4.1429,3.84,Lecturer and Director,AGNR,Master's,45.0,14,25,male,106000
+1891,Timothy Canty,4.1282,3.51,Associate Professor,CMNS,Ph.D,53.0,40,22,male,204000
+1892,Timothy Horiuchi,4.1,3.4,Associate Professor,ENGR,Ph.D,58.0,20,20,male,180000
+1893,Timothy Jacobsen,4.0,3.63,Lecturer,JOUR,Bachelor's,59.0,7,29,male,52000
+1894,Timothy Koeth,3.0,3.39,Assistant Professor,ENGR,Ph.D,50.0,2,19,male,187000
+1895,Timothy Pilachowski,2.3533,2.6,Senior Lecturer,CMNS,Master's,69.0,153,33,male,92000
+1896,Timothy Reedy,4.0526,3.66,Lecturer,ENGR,Ph.D,38.0,20,24,male,76000
+1897,Ting Zhang,4.3333,3.26,Associate Professor,ARHU,Ph.D,43.0,9,13,male,137000
+1898,Toby Egan,4.5455,3.32,Associate Professor,PLCY,Ph.D,57.0,33,19,male,169000
+1899,Todd Allee,3.9,3.34,Associate Professor,BSOS,Ph.D,53.0,10,10,male,148000
+1900,Todd Cooke,4.3333,3.7,Professor Emeritus,CMNS,Ph.D,73.0,19,8,male,136000
+1901,Todd Rowland,3.1429,3.06,Lecturer,CMNS,Bachelor's,55.0,85,28,male,103000
+1902,Tom Bettag,1.0,3.36,Lecturer,JOUR,Master's,81.0,1,17,male,136000
+1903,Tom Brune,4.0,2.09,Lecturer,JOUR,Bachelor's,72.0,1,8,male,136000
+1904,Tom Hatcher,3.1538,3.57,Lecturer,ARHU,Master's,37.0,27,9,male,136000
+1905,Tonia Bleam,4.52,2.72,Senior Lecturer,ARHU,Ph.D,56.0,25,30,female,77000
+1906,Tony Barber,2.0,3.64,Lecturer,ENGR,Master's,48.0,1,16,male,60000
+1907,Tony Whitehead,2.0,3.14,Professor Emeritus,BSOS,Ph.D,82.0,1,16,male,136000
+1908,Tori Page-Voth,4.0,3.6,Associate Clinical Professor,EDUC,Ph.D,65.0,1,13,female,136000
+1909,Tracey Centorbi,2.7,3.0,Lecturer,CMNS,Master's,44.0,63,29,female,87000
+1910,Tracy Riggins,4.3,3.49,Professor,BSOS,Ph.D,47.0,10,16,female,194000
+1911,Tracy Thompson,4.0,3.51,Lecturer,PLCY,Ph.D,49.0,1,3,female,15000
+1912,Tracy Tomlinson,3.1343,3.18,Senior Lecturer,BSOS,Ph.D,44.0,69,28,female,136000
+1913,Tracy Zeeger,3.8667,3.41,Associate Clinical Professor,SPHL,Ph.D,43.0,15,35,female,148000
+1914,Travis Wagner,5.0,3.62,Adjunct Assistant Professor,INFO,Ph.D,37.0,2,11,male,136000
+1915,Trevor Foulk,3.6667,3.8,Associate Professor,BMGT,Bachelor's,47.0,3,18,male,139000
+1916,Trevor Parry-Giles,4.6667,3.29,Professor and Associate Dean,ARHU,Ph.D,62.0,6,19,male,188000
+1917,Tudor Dumitras,3.5882,3.21,Associate Professor,ENGR,Ph.D,46.0,18,18,male,183000
+1918,Tunay Tunca,5.0,3.0,Professor,BMGT,Ph.D,50.0,1,21,male,335000
+1919,Typhanye Dyer,3.5294,3.5,Associate Professor,SPHL,Ph.D,52.0,17,30,female,165000
+1920,Tyrone Clifton,5.0,3.63,Lecturer,BMGT,Master's,56.0,3,7,male,6000
+1921,Tyson Slocum,5.0,3.84,Lecturer,UGST,Bachelor's,51.0,2,6,male,8000
+1922,Uzi Vishkin,3.0,2.78,Professor,CMNS,Master's,73.0,10,19,male,206000
+1923,Valentine Hacquard,3.2,3.6,Professor,ARHU,Ph.D,47.0,5,30,female,168000
+1924,Valerie Orlando,5.0,3.33,Professor,ARHU,Ph.D,63.0,4,35,female,131000
+1925,Vedat Diker,3.1111,3.51,Principal Lecturer,INFO,Ph.D,56.0,11,40,male,186000
+1926,Vedran Lekic,5.0,3.3,Professor,CMNS,Ph.D,43.0,3,22,male,227000
+1927,Vera Rhoads,1.25,3.72,Lecturer,INFO,Master's,55.0,4,4,female,11000
+1928,Vera Stupina,3.5,3.2,Lecturer,CMNS,Ph.D,50.0,2,7,female,136000
+1929,Veronica Sousa,5.0,3.65,Lecturer,BSOS,Master's,36.0,1,2,female,7000
+1930,Vessela Valiavitcharska,5.0,3.04,Associate Professor,ARHU,Ph.D,52.0,4,19,female,115000
+1931,Victor Galitski,3.6,3.22,Professor,CMNS,Ph.D,50.0,5,6,male,302000
+1932,Victor Granatstein,5.0,3.24,Professor Emeritus,ENGR,Ph.D,87.0,1,3,male,136000
+1933,Victor Yakovenko,4.3,3.03,Professor,CMNS,Ph.D,63.0,10,13,male,137000
+1934,Vijay Tiwari,5.0,3.39,Associate Professor,AGNR,Ph.D,49.0,1,11,male,152000
+1935,Vijaya Bohlmann,3.2857,3.54,Lecturer,ARHU,Master's,62.0,7,12,female,136000
+1936,Vikas Sahasrabudhe,1.0,3.16,Lecturer,INFO,Ph.D,80.0,1,11,male,6000
+1937,Vincent Lee,2.0,3.14,Professor,CMNS,Ph.D,52.0,4,7,male,232000
+1938,Vincent Lyzinski,4.25,3.23,Associate Professor,CMNS,Ph.D,41.0,4,19,male,136000
+1939,Vincent Nguyen,2.4211,3.14,Senior Lecturer,ENGR,Ph.D,44.0,19,25,male,154000
+1940,Vineet Gambhir,4.7778,3.47,Lecturer,BMGT,Master's,54.0,10,12,male,77000
+1941,Virginia Haufler,4.2143,3.47,Professor,BSOS,Ph.D,68.0,14,26,female,151000
+1942,Vladimir Tismaneanu,4.9,3.83,Professor,BSOS,Ph.D,73.0,10,19,male,160000
+1943,Vojislav Maksimovic,1.0,3.23,Professor,BMGT,Ph.D,71.0,2,18,male,595000
+1944,Volker Briken,3.9,3.56,Professor,CMNS,Ph.D,54.0,10,29,male,233000
+1945,Wade Jacobsen,5.0,3.25,Associate Professor,BSOS,Ph.D,38.0,1,12,male,155000
+1946,Wade Winkler,5.0,2.49,Professor,CMNS,Ph.D,52.0,3,19,male,172000
+1947,Waqas Shah,1.0,3.79,Lecturer,INFO,Bachelor's,33.0,1,5,male,25000
+1948,Waverly Ding,3.0769,2.52,Associate Professor,BMGT,Ph.D,54.0,13,15,female,279000
+1949,Wayne Curtis,4.0833,3.59,Lecturer,ARCH,Ph.D,71.0,13,16,male,40000
+1950,Wayne Lutters,4.75,3.55,Professor,INFO,Ph.D,55.0,4,13,male,256000
+1951,Wayne Santoro,5.0,2.23,Associate Professor,BSOS,Ph.D,56.0,2,16,male,137000
+1952,Wayne Slater,5.0,3.24,Associate Professor,EDUC,Ph.D,80.0,13,34,male,134000
+1953,Wei Ai,4.0,3.46,Assistant Professor,INFO,Ph.D,34.0,1,6,female,164000
+1954,Wei-Ping Li,5.0,3.7,Lecturer,JOUR,Ph.D,46.0,9,6,female,28000
+1955,Wendy Jacobs,2.3333,3.09,Senior Lecturer,ARHU,Master's,67.0,25,12,female,165000
+1956,Wendy Moe,2.0,3.46,Professor,BMGT,Ph.D,55.0,1,25,female,364000
+1957,Wendy Peer,1.6364,3.42,Associate Professor,AGNR,Ph.D,58.0,11,43,female,124000
+1958,Wenlu Zhu,5.0,3.05,Professor,CMNS,Ph.D,61.0,2,11,female,156000
+1959,Wesley Lawson,3.7377,3.46,Professor,ENGR,Ph.D,67.0,61,55,male,351000
+1960,Whitman Ridgway,3.0,2.94,Associate Professor Emeritus,ARHU,Ph.D,84.0,3,6,male,136000
+1961,Wiehrs Collier,3.0,3.7,Lecturer,ENGR,Ph.D,64.0,1,6,male,29000
+1962,Wilbur Chung,5.0,3.66,Associate Professor,BMGT,Ph.D,61.0,2,17,male,267000
+1963,William Bentley,4.5,3.68,Distinguished University Professor and Director,ENGR,Ph.D,65.0,2,18,male,473000
+1964,William Dorland,5.0,3.62,Professor,CMNS,Ph.D,59.0,3,12,male,225000
+1965,William Evans,4.2,3.91,Lecturer,ARHU,Bachelor's,71.0,5,16,male,65000
+1966,William Fourney,4.2,3.17,Professor Emeritus,ENGR,Ph.D,85.0,10,10,male,136000
+1967,William Gasarch,4.3913,2.78,Professor,CMNS,Ph.D,67.0,23,19,male,173000
+1968,William Goldman,4.25,3.12,Professor,CMNS,Ph.D,70.0,16,19,male,275000
+1969,William Hawkins,2.2759,3.0,Lecturer,ENGR,Master's,80.0,29,33,male,98000
+1970,William Higgins,3.4583,3.15,Associate Professor Emeritus,CMNS,Ph.D,78.0,48,13,male,7000
+1971,William Hodos,3.5,3.47,Distinguished University Professor Emeritus,BSOS,Ph.D,92.0,2,11,male,136000
+1972,William Idsardi,4.5,3.35,Professor and Chair,ARHU,Ph.D,59.0,4,20,male,279000
+1973,William Jeffery,3.5833,3.35,Distinguished University Professor,CMNS,Ph.D,80.0,12,10,male,242000
+1974,William Levine,3.1667,3.48,Lecturer,ENGR,Ph.D,85.0,6,14,male,24000
+1975,William McDonough,4.0,3.18,Professor,CMNS,Ph.D,68.0,5,10,male,41000
+1976,William Phillips,4.0,2.98,Assistant Clinical Professor,AGNR,Ph.D,55.0,8,12,male,104000
+1977,William Pugh,4.1667,1.34,Professor Emeritus,CMNS,Ph.D,67.0,12,3,male,136000
+1978,William Reed,5.0,3.62,Professor and Assistant Provost,SVPA,Ph.D,55.0,2,12,male,296000
+1979,William Robin,3.2222,3.53,Associate Professor,ARHU,Ph.D,37.0,9,16,male,106000
+1980,William Schildknecht,4.9231,2.91,Lecturer,CMNS,Ph.D,75.0,13,3,male,17000
+1981,William Usher,4.0,3.22,Adjunct Professor,UGST,Master's,57.0,2,11,male,4000
+1982,William Walters,4.0,3.65,Professor Emeritus,CMNS,Ph.D,87.0,1,2,male,136000
+1983,William Wyllie,5.0,3.46,Lecturer,ARCH,Bachelor's,60.0,1,4,male,32000
+1984,Wiseley Wong,4.4167,2.98,Principal Lecturer,CMNS,Ph.D,34.0,98,42,male,103000
+1985,Wojciech Czaja,3.9143,2.82,Professor,CMNS,Ph.D,52.0,36,27,male,245000
+1986,Wolfgang Losert,2.6667,2.88,Professor,CMNS,Ph.D,52.0,12,10,male,297000
+1987,Xi He,3.0,3.24,Assistant Professor,BMGT,Bachelor's,34.0,4,10,male,327000
+1988,Xianfeng Yang,4.3333,3.52,Associate Professor,ENGR,Ph.D,38.0,3,5,male,170000
+1989,Xiangdong Ji,4.6667,2.96,Distinguished University Professor,CMNS,Ph.D,65.0,6,14,male,212000
+1990,Xiaodi Wu,4.3333,2.88,Associate Professor,CMNS,Ph.D,39.0,3,13,male,225000
+1991,Xiaodong Shi,2.4286,3.44,Professor,CMNS,Ph.D,53.0,7,7,male,270000
+1992,Xiaofang Huang,4.0,3.46,Lecturer,ARHU,Ph.D,41.0,8,7,female,55000
+1993,Xiaoming He,5.0,3.37,Professor,ENGR,Ph.D,52.0,1,9,male,272000
+1994,Xiaopeng Song,4.3333,3.42,Assistant Professor,BSOS,Ph.D,39.0,3,5,male,147000
+1995,Xin He,5.0,3.2,Associate Professor,SPHL,Ph.D,44.0,2,19,male,203000
+1996,Xin Tao,5.0,3.75,Lecturer,BSOS,Ph.D,41.0,1,6,male,110000
+1997,Xin Zan,5.0,3.33,Assistant Professor,ENGR,Ph.D,25.0,3,2,female,165000
+1998,Xin-Zhong Liang,2.6667,2.93,Professor,CMNS,Ph.D,64.0,3,12,male,299000
+1999,Yan Li,4.0,3.05,Professor,BSOS,Ph.D,50.0,2,27,female,208000
+2000,Yan Qu,3.8333,3.55,Assistant Professor,ARHU,Ph.D,33.0,6,4,male,80000
+2001,Yancy Diaz-Mercado,3.2,2.94,Assistant Professor,ENGR,Ph.D,36.0,5,12,female,149000
+2002,Yang Liu,5.0,3.36,Associate Professor,EDUC,Ph.D,38.0,1,8,male,164000
+2003,Yang Tao,3.7,3.69,Professor,ENGR,Ph.D,65.0,10,11,male,268000
+2004,Yanir Rubinstein,2.5,2.9,Professor,CMNS,Ph.D,48.0,4,20,male,215000
+2005,Yanne Chembo,4.6,2.84,Professor and Director,CMNS,Ph.D,50.0,5,12,female,136000
+2006,Yantian Zha,1.0,3.33,Lecturer,CMNS,Ph.D,33.0,3,4,female,56000
+2007,Yaron Sternberg,4.375,2.52,Professor Emeritus,ENGR,Ph.D,86.0,8,9,male,2000
+2008,Yasmeen Shah,2.5,3.33,Professor,BSOS,Ph.D,52.0,2,16,female,181000
+2009,Yavuz Oruc,2.6957,3.23,Professor,ENGR,Ph.D,71.0,23,18,male,142000
+2010,Yewon Lee,3.9286,3.74,Assistant Clinical Professor,EDUC,Ph.D,36.0,14,22,female,93000
+2011,Yifei Mo,5.0,3.41,Professor,ENGR,Ph.D,42.0,1,21,female,214000
+2012,Yihang Zhu,2.5,2.75,Assistant Professor,CMNS,Bachelor's,35.0,2,8,male,2000
+2013,Yiqun Xie,5.0,3.34,Assistant Professor,BSOS,Ph.D,32.0,1,10,female,147000
+2014,Yizheng Chen,1.5,2.69,Assistant Professor,CMNS,Ph.D,36.0,8,3,male,200000
+2015,Yogesh Joshi,5.0,3.53,Professor,BMGT,Ph.D,49.0,2,26,male,311000
+2016,Yonghwi Kwon,4.5,3.67,Assistant Professor,ENGR,Ph.D,29.0,2,4,male,171000
+2017,Yoram Peri,5.0,3.35,Professor Emeritus,ARHU,Ph.D,79.0,1,9,male,136000
+2018,Yu Gu,4.5,2.44,Associate Professor,CMNS,Ph.D,38.0,2,4,female,194000
+2019,Yu-Wei Wang,2.0,3.87,Associate Clinical Professor,VPSA,Ph.D,48.0,3,2,male,132000
+2020,YuHuang Wang,2.6471,2.39,Professor,CMNS,Ph.D,51.0,17,14,male,136000
+2021,Yueyang Han,4.6364,3.17,Assistant Professor,BMGT,Ph.D,36.0,11,11,male,327000
+2022,Yuli Wang,4.1429,3.26,Lecturer,ARHU,Master's,55.0,7,33,female,43000
+2023,Yunfeng Zhang,5.0,3.27,Professor,ENGR,Ph.D,54.0,1,20,male,187000
+2024,Yupeng Jiao,5.0,3.96,Assistant Clinical Professor,UGST,Ph.D,35.0,8,8,male,41000
+2025,Zach Drake,5.0,3.58,Lecturer,INFO,Master's,32.0,2,7,male,22000
+2026,Zachary Dorner,5.0,3.58,Assistant Professor,ARHU,Ph.D,39.0,17,12,male,97000
+2027,Zackaria Chacko,3.9091,3.08,Professor,CMNS,Ph.D,55.0,11,13,male,199000
+2028,Zahra Farhadi,5.0,3.43,Lecturer,INFO,Master's,28.0,1,2,female,6000
+2029,Zahra Saboori,2.6667,3.43,Lecturer,SPHL,Ph.D,37.0,6,32,female,47000
+2030,Zaoxing Liu,3.6667,3.47,Assistant Professor,CMNS,Ph.D,36.0,6,3,female,205000
+2031,Zeid Kootbally,5.0,3.41,Lecturer,ENGR,Ph.D,45.0,1,13,male,66000
+2032,Zenzele Isoke,3.5,2.75,Associate Professor,ARHU,Ph.D,50.0,2,13,male,136000
+2033,Zhanna Gerus-Vernola,5.0,3.5,Lecturer,ARHU,Master's,55.0,5,21,female,136000
+2034,Zhanqing Li,1.6,3.28,Distinguished University Professor,CMNS,Ph.D,64.0,5,13,male,301000
+2035,Zhengguo Xiao,4.6667,3.66,Professor,AGNR,Ph.D,59.0,3,16,male,187000
+2036,Zhi-Long Chen,3.6667,3.2,Professor,BMGT,Ph.D,50.0,6,45,male,376000
+2037,Zhicheng Liu,2.5,3.18,Assistant Professor,CMNS,Ph.D,41.0,4,6,male,209000
+2038,Zhongchi Liu,4.625,3.73,Affiliate Professor,AGNR,Ph.D,65.0,8,11,male,7000
+2039,Zoe Alsop,5.0,3.39,Lecturer,ARHU,Master's,49.0,3,1,female,26000
+2040,Zohreh Davoudi,2.6,2.66,Associate Professor,CMNS,Ph.D,40.0,5,7,female,255000
+2041,Zubin Jelveh,3.0,3.13,Assistant Professor,INFO,Ph.D,48.0,7,10,male,179000
